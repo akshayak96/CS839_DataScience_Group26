@@ -1,0 +1,9288 @@
+0,Spurs
+1,Iceland
+2,U21
+3,Tottenham
+4,Iceland
+5,Under-21
+6,Emil
+7,Hallfredsson
+8,White
+9,Hart
+10,Lane
+11,"('Iceland', 'U21')"
+12,"('Iceland', 'Under-21')"
+13,"('Emil', 'Hallfredsson')"
+14,"('White', 'Hart')"
+15,"('Hart', 'Lane')"
+16,"('White', 'Hart', 'Lane')"
+17,FH
+18,Hafnarfjordur
+19,Uefa
+20,Cup
+21,Scottish
+22,Dunfermline
+23,"('FH', 'Hafnarfjordur')"
+24,"('Uefa', 'Cup')"
+25,Spurs
+26,Tottenham
+27,Spurs
+28,"('Frank', 'Arnesen')"
+29,Tottenham
+30,Mexicans
+31,Juninho
+32,Mexican
+33,Red
+34,Sharks
+35,Veracruz
+36,Juninho
+37,Brazilian
+38,Celtic
+39,"('Red', 'Sharks')"
+40,"('Sharks', 'Veracruz')"
+41,"('Red', 'Sharks', 'Veracruz')"
+42,Juninho
+43,Scottish
+44,"('Gustavo', 'Parente', 'Sanchez')"
+45,Agent
+46,Brazilian
+47,"('Brian', 'Hassell')"
+48,Sun
+49,Juninho
+50,Hassell
+51,Juninho
+52,Celtic
+53,January
+54,Juninho
+55,Middlesbrough
+56,"('Aiden', 'McGeady')"
+57,Brazil
+58,Celtic
+59,Hassell
+60,"('Martin', ""O'Neill"")"
+61,"('Martin', ""O'Neill"")"
+62,Juninho
+63,Celtic
+64,Sanchez
+65,Juninho
+66,Scottish
+67,Hassell
+68,Mexico
+69,Juninho
+70,Spain
+71,Veracruz
+72,Sanchez
+73,Celtic
+74,O'Neill
+75,Juninho
+76,Players
+77,Celtic
+78,Park
+79,"('Celtic', 'Park')"
+80,McIlroy
+81,AAA
+82,Indoor
+83,Sheffied
+84,Sunday
+85,"('James', 'McIlroy')"
+86,Larne
+87,Welshman
+88,"('Jimmy', 'Watkins')"
+89,Europeans
+90,McIlroy
+91,British
+92,McIlroy
+93,European
+94,Indoors
+95,Madrid
+96,March
+97,"('European', 'Indoors')"
+98,Meanwhile
+99,"('Paul', 'Brizzel')"
+100,"('Anna', 'Boyle')"
+101,Irish
+102,"('Ailis', 'McSweeney')"
+103,"('Michelle', 'Carroll')"
+104,European
+105,Indoor
+106,Championships
+107,"('David', 'Gillick')"
+108,"('European', 'Indoor')"
+109,"('Indoor', 'Championships')"
+110,"('European', 'Indoor', 'Championships')"
+111,Gillick
+112,Saturday
+113,Irishman
+114,European
+115,Irish
+116,British
+117,"('Derval', ""O'Rourke"")"
+118,"('Sarah', 'Claxton')"
+119,Offaly
+120,European
+121,Indoor
+122,"('James', 'Nolan')"
+123,"('Neil', 'Speaight')"
+124,"('European', 'Indoor')"
+125,"('Colin', 'Costello')"
+126,"('Deirdre', 'Ryan')"
+127,"('Aoife', 'Byrne')"
+128,Lisburn
+129,"('Gary', 'Murray')"
+130,"('Kelly', 'McNeice', 'Reid')"
+131,Meanwhile
+132,Saturday
+133,Northern
+134,Ireland
+135,Cross
+136,Country
+137,Championship
+138,Coleraine
+139,"('Stephen', 'Cairns')"
+140,"('Jill', 'Shannon')"
+141,"('Northern', 'Ireland')"
+142,"('Ireland', 'Cross')"
+143,"('Cross', 'Country')"
+144,"('Country', 'Championship')"
+145,"('Northern', 'Ireland', 'Cross')"
+146,"('Ireland', 'Cross', 'Country')"
+147,"('Cross', 'Country', 'Championship')"
+148,Cairns
+149,"('Paul', 'Rowan')"
+150,"('Allan', 'Bogle')"
+151,Willowfield
+152,Shannon
+153,Lagan
+154,Valley
+155,"('Lagan', 'Valley')"
+156,Pavey
+157,January
+158,View
+159,Great
+160,Edinburgh
+161,International
+162,Cross
+163,Country
+164,European
+165,Indoor
+166,Championships
+167,March
+168,"('Jo', 'Pavey')"
+169,"('Great', 'Edinburgh')"
+170,"('Edinburgh', 'International')"
+171,"('International', 'Cross')"
+172,"('Cross', 'Country')"
+173,"('European', 'Indoor')"
+174,"('Indoor', 'Championships')"
+175,"('Great', 'Edinburgh', 'International')"
+176,"('Edinburgh', 'International', 'Cross')"
+177,"('International', 'Cross', 'Country')"
+178,"('European', 'Indoor', 'Championships')"
+179,European
+180,Cross
+181,Country
+182,Championships
+183,"('Hayley', 'Yelling')"
+184,"('Justyna', 'Bak')"
+185,"('European', 'Cross')"
+186,"('Cross', 'Country')"
+187,"('Country', 'Championships')"
+188,"('European', 'Cross', 'Country')"
+189,"('Cross', 'Country', 'Championships')"
+190,Pavey
+191,Athens
+192,Olympics
+193,British
+194,Heringsdorf
+195,"('Athens', 'Olympics')"
+196,Boston
+197,Stuttgart
+198,January
+199,Robben
+200,Chelsea
+201,"('Arjen', 'Robben')"
+202,Robben
+203,MRI
+204,Premiership
+205,Blackburn
+206,Monday
+207,Six
+208,Dutch
+209,Algemeen
+210,Dagblad
+211,"('Algemeen', 'Dagblad')"
+212,Roma
+213,"('Olivier', 'Dacourt')"
+214,Chelsea
+215,Robben
+216,March
+217,"('Mike', 'Banks')"
+218,Banks
+219,One
+220,World
+221,Cup
+222,"('World', 'Cup')"
+223,"('Scott', 'Parker')"
+224,World
+225,Cup
+226,Korea
+227,Japan
+228,"('David', 'Beckham')"
+229,"('World', 'Cup')"
+230,Robben
+231,Blues
+232,Blackburn
+233,"('Aaron', 'Mokoena')"
+234,Mokoena
+235,Mido
+236,Ahmed
+237,Hossam
+238,Egyptian
+239,Cairo
+240,Sunday
+241,Pharaohs
+242,July
+243,Mido
+244,England
+245,Egypt
+246,Mido
+247,"('Marco', 'Tardelli')"
+248,Roma
+249,World
+250,Cup
+251,Cameroon
+252,September
+253,"('World', 'Cup')"
+254,Mido
+255,Belgium
+256,Egypt
+257,Wednesday
+258,Egyptian
+259,Many
+260,Zinedine
+261,Zidane
+262,"('David', 'Beckham')"
+263,Meanwhile
+264,Egypt
+265,FA
+266,Mido
+267,"('Egypt', 'FA')"
+268,"('Methat', 'Shalaby')"
+269,Mido
+270,Mido
+271,Shalaby
+272,Shalaby
+273,Mido
+274,"('Hassan', 'Shehata')"
+275,Mido
+276,Tottenham
+277,January
+278,Portsmouth
+279,Injury
+280,Wales
+281,Wales
+282,Wednesday
+283,Hungary
+284,Cardiff
+285,West
+286,Ham
+287,Wrexham
+288,"('West', 'Ham')"
+289,"('Gavin', 'Williams')"
+290,"('Stephen', 'Roberts')"
+291,Defenders
+292,"('Danny', 'Gabbidon')"
+293,"('Gareth', 'Roberts')"
+294,"('Ryan', 'Giggs')"
+295,"('Robbie', 'Savage')"
+296,However
+297,Manchester
+298,United
+299,Giggs
+300,Millennium
+301,Stadium
+302,"('Manchester', 'United')"
+303,"('Millennium', 'Stadium')"
+304,Gabbidon
+305,Cardiff
+306,Bluebirds
+307,West
+308,Ham
+309,Sunday
+310,"('Rhys', 'Weston')"
+311,"('West', 'Ham')"
+312,Wales
+313,Aston
+314,Villa
+315,Under-21s
+316,"('John', 'Toshack')"
+317,"('Aston', 'Villa')"
+318,"('Mark', 'Delaney')"
+319,"('James', 'Collins')"
+320,Wales
+321,"('Danny', 'Collins')"
+322,"('Dave', 'Partridge')"
+323,Giggs
+324,Wales
+325,Wales
+326,Wednesday
+327,Hungary
+328,Cardiff
+329,"('Ryan', 'Giggs')"
+330,Giggs
+331,"('John', 'Toshack')"
+332,"('Mark', 'Hughes')"
+333,United
+334,Wales
+335,Toshack
+336,Welsh
+337,Giggs
+338,Wales
+339,European
+340,Championships
+341,"('European', 'Championships')"
+342,Manchester
+343,United
+344,Sir
+345,Wales
+346,"('Manchester', 'United')"
+347,"('Alex', 'Ferguson')"
+348,Sir
+349,Alex
+350,Giggs
+351,European
+352,Giggs
+353,Wales
+354,United
+355,"('Gary', 'Speed')"
+356,"('Paul', 'Scholes')"
+357,Giggs
+358,Toshack
+359,Hughes
+360,Manchester
+361,United
+362,Germany
+363,"('Manchester', 'United')"
+364,Giggs
+365,Wales
+366,Hungary
+367,Speed
+368,However
+369,Toshack
+370,Giggs
+371,Toshack
+372,"('Ryan', 'Giggs')"
+373,Wednesday
+374,Toshack
+375,Hughes
+376,Giggs
+377,Wales
+378,United
+379,John
+380,Euro
+381,John
+382,European
+383,Giggs
+384,Old
+385,Trafford
+386,Manchester
+387,United
+388,Giggs
+389,"('Old', 'Trafford')"
+390,"('Manchester', 'United')"
+391,Giggs
+392,United
+393,Manchester
+394,City
+395,Everton
+396,AC
+397,Milan
+398,Champions
+399,League
+400,Wales
+401,"('Manchester', 'City')"
+402,"('AC', 'Milan')"
+403,"('Champions', 'League')"
+404,"('John', 'Toshack')"
+405,Gardener
+406,Glasgow
+407,Britain
+408,Glasgow
+409,Athens
+410,Olympics
+411,"('Glasgow', 'Britain')"
+412,"('Jason', 'Gardener')"
+413,"('Athens', 'Olympics')"
+414,Gardener
+415,Scot
+416,Norwich
+417,Union
+418,International
+419,"('Nick', 'Smith')"
+420,"('Norwich', 'Union')"
+421,"('Union', 'International')"
+422,"('Norwich', 'Union', 'International')"
+423,Swede
+424,Italy
+425,"('Daniel', 'Persson')"
+426,"('Luca', 'Verdecchia')"
+427,American
+428,"('Maurice', 'Greene')"
+429,Olympic
+430,Double
+431,Olympic
+432,Athens
+433,"('Double', 'Olympic')"
+434,Britain
+435,Russia
+436,Sweden
+437,"('Olga', 'Fedorova')"
+438,"('Jenny', 'Kallur')"
+439,Maduaka
+440,Russia
+441,British
+442,Russia
+443,"('Jade', 'Johnson')"
+444,Russia
+445,Britain
+446,France
+447,Russia
+448,Olympic
+449,Swede
+450,"('Stefan', 'Holm')"
+451,Britain
+452,"('Tosin', 'Oke')"
+453,Britain
+454,"('Nick', 'Buckfield')"
+455,Britain
+456,"('Jenny', 'Meadows')"
+457,Russian
+458,Britain
+459,"('Catherine', 'Murphy')"
+460,Sweden
+461,France
+462,"('Chris', 'Lambert')"
+463,"('Leslie', 'Djhone')"
+464,France
+465,Britain
+466,"('Brett', 'Rund')"
+467,Sweden
+468,Russia
+469,Britain
+470,"('Irina', 'Shevchenko')"
+471,"('Sarah', 'Claxton')"
+472,Italy
+473,Britain
+474,France
+475,"('James', 'Thie')"
+476,"('Alexis', 'Abraham')"
+477,Britain
+478,France
+479,Johnson
+480,AAAs
+481,Norwich
+482,Union
+483,European
+484,Indoor
+485,"('Jade', 'Johnson')"
+486,"('Kelly', 'Sotherton')"
+487,"('Norwich', 'Union')"
+488,"('Union', 'European')"
+489,"('European', 'Indoor')"
+490,"('Norwich', 'Union', 'European')"
+491,"('Union', 'European', 'Indoor')"
+492,Olympic
+493,Sotherton
+494,Johnson
+495,Johnson
+496,Sotherton
+497,European
+498,Championships
+499,"('European', 'Championships')"
+500,Although
+501,Sotherton
+502,Madrid
+503,Olympic
+504,"('Carolina', 'Kluft')"
+505,Ireland
+506,British
+507,Ireland
+508,"('Chris', 'Lambert')"
+509,"('Paul', 'Brizzel')"
+510,Lambert
+511,Europe
+512,Two-time
+513,AAAs
+514,"('Two-time', 'AAAs')"
+515,"('Allyn', 'Condon')"
+516,"('Ian', 'Mackie')"
+517,Scotland
+518,Olympian
+519,"('Andy', 'Turner')"
+520,Scott
+521,AAAs
+522,Turner
+523,"('Damien', 'Greaves')"
+524,European
+525,British
+526,European
+527,European
+528,Europe
+529,Madrid
+530,"('Helen', 'Clitheroe')"
+531,Welsh
+532,"('James', 'Thie')"
+533,McIlroy
+534,European
+535,Sunday
+536,Sheffield
+537,Watkins
+538,McIlroy
+539,European
+540,Scotland
+541,"('Susan', 'Deacon')"
+542,Fraser
+543,British
+544,European
+545,Deacon
+546,AAAs
+547,Fraser
+548,AAAs
+549,European
+550,Indoor
+551,Championships
+552,Madrid
+553,"('European', 'Indoor')"
+554,"('Indoor', 'Championships')"
+555,"('European', 'Indoor', 'Championships')"
+556,Sotherton
+557,British
+558,"('Carl', 'Myerscough')"
+559,Sale
+560,European
+561,British
+562,"('Robert', 'Mitchell')"
+563,Slovenia
+564,Tuesday
+565,British
+566,AAAs
+567,Ashley
+568,Swain
+569,Ireland
+570,"('Ashley', 'Swain')"
+571,"('Taniesha', 'Scanlon')"
+572,McLeish
+573,Rangers
+574,Uefa
+575,Cup
+576,Auxerre
+577,Ibrox
+578,Wednesday
+579,"('Alex', 'McLeish')"
+580,"('Uefa', 'Cup')"
+581,McLeish
+582,BBC
+583,Radio
+584,Five
+585,Live
+586,"('BBC', 'Radio')"
+587,"('Radio', 'Five')"
+588,"('Five', 'Live')"
+589,"('BBC', 'Radio', 'Five')"
+590,"('Radio', 'Five', 'Live')"
+591,McLeish
+592,French
+593,"('Guy', 'Roux')"
+594,McClaren
+595,Uefa
+596,Cup
+597,Middlesbrough
+598,Uefa
+599,Cup
+600,Partizan
+601,Belgrade
+602,"('Uefa', 'Cup')"
+603,"('Steve', 'McClaren')"
+604,"('Uefa', 'Cup')"
+605,"('Partizan', 'Belgrade')"
+606,Boro
+607,Partizan
+608,Villareal
+609,Lazio
+610,McClaren
+611,Champions
+612,League
+613,Friday
+614,"('Champions', 'League')"
+615,McClaren
+616,Lazio
+617,Villarreal
+618,Partizan
+619,Europe
+620,Winning
+621,Solskjaer
+622,Manchester
+623,United
+624,"('Manchester', 'United')"
+625,"('Ole', 'Gunnar', 'Solskjaer')"
+626,Norway
+627,Sweden
+628,August
+629,Solskjaer
+630,Aftenposten
+631,Daily
+632,"('Aftenposten', 'Daily')"
+633,Solskjaer
+634,United
+635,May
+636,FA
+637,Cup
+638,Millwall
+639,"('FA', 'Cup')"
+640,United
+641,Premier
+642,League
+643,"('Premier', 'League')"
+644,Jones
+645,Balco
+646,"('Marion', 'Jones')"
+647,"('Victor', 'Conte')"
+648,Sydney
+649,Olympic
+650,Conte
+651,"('Sydney', 'Olympic')"
+652,Conte
+653,US
+654,February
+655,Associated
+656,Press
+657,Wednesday
+658,Conte
+659,"('Associated', 'Press')"
+660,Jones
+661,Sydney
+662,US
+663,District
+664,Court
+665,San
+666,Francisco
+667,"('US', 'District')"
+668,"('District', 'Court')"
+669,"('San', 'Francisco')"
+670,"('US', 'District', 'Court')"
+671,Conte
+672,ABC
+673,Jones
+674,Marion
+675,"('Richard', 'Nicholls')"
+676,America
+677,"('Victor', 'Conte')"
+678,"('Marion', 'Jones')"
+679,Mr
+680,Conte
+681,Mr
+682,Conte
+683,"('Marion', 'Jones')"
+684,Mr
+685,Conte
+686,"('Marion', 'Jones')"
+687,IAAF
+688,Conte
+689,US
+690,Anti-Doping
+691,Agency
+692,"('US', 'Anti-Doping')"
+693,"('Anti-Doping', 'Agency')"
+694,"('US', 'Anti-Doping', 'Agency')"
+695,Communications
+696,IAAF
+697,Conte
+698,"('Nick', 'Davies')"
+699,Davies
+700,American
+701,Jones
+702,Conte
+703,USA
+704,Track
+705,Field
+706,"('USA', 'Track')"
+707,US
+708,Anti-Doping
+709,Agency
+710,"('US', 'Anti-Doping')"
+711,"('Anti-Doping', 'Agency')"
+712,"('US', 'Anti-Doping', 'Agency')"
+713,Jones
+714,US
+715,Anti-Doping
+716,Agency
+717,Balco
+718,Conte
+719,"('US', 'Anti-Doping')"
+720,"('Anti-Doping', 'Agency')"
+721,"('US', 'Anti-Doping', 'Agency')"
+722,Jones
+723,Athens
+724,August
+725,Meanwhile
+726,Conte
+727,March
+728,Duff
+729,Barcelona
+730,Chelsea
+731,Wednesday
+732,Champions
+733,League
+734,Barcelona
+735,Nou
+736,Camp
+737,"('Damien', 'Duff')"
+738,"('Champions', 'League')"
+739,"('Nou', 'Camp')"
+740,Duff
+741,FA
+742,Cup
+743,Newcastle
+744,"('FA', 'Cup')"
+745,"('Jose', 'Mourinho')"
+746,Mourinho
+747,"('Willian', 'Gallas')"
+748,"('Didier', 'Drogba')"
+749,Blues
+750,"('Jole', 'Cole')"
+751,Mourinho
+752,Drogba
+753,Gallas
+754,Drogba
+755,Monday
+756,Tuesday
+757,Gallas
+758,Drogba
+759,Chelsea
+760,Bosvelt
+761,Manchester
+762,City
+763,"('Manchester', 'City')"
+764,"('Paul', 'Bosvelt')"
+765,Dutch
+766,Bosvelt
+767,City
+768,Feyenoord
+769,England
+770,"('Kevin', 'Keegan')"
+771,Keegan
+772,Gerrard
+773,European
+774,Liverpool
+775,Champions
+776,League
+777,"('Steven', 'Gerrard')"
+778,"('Champions', 'League')"
+779,Reds
+780,Tuesday
+781,Bayer
+782,Leverkusen
+783,"('Bayer', 'Leverkusen')"
+784,Let
+785,Champions
+786,League
+787,BBC
+788,Radio
+789,Five
+790,Live
+791,"('Champions', 'League')"
+792,"('BBC', 'Radio')"
+793,"('Radio', 'Five')"
+794,"('Five', 'Live')"
+795,"('BBC', 'Radio', 'Five')"
+796,"('Radio', 'Five', 'Live')"
+797,Gerrard
+798,Europe
+799,Last
+800,Champions
+801,League
+802,Anfield
+803,Reds
+804,"('Champions', 'League')"
+805,Liverpool
+806,Chelsea
+807,England
+808,Blues
+809,Gerrard
+810,"('Jose', 'Mourinho')"
+811,"('Rafael', 'Benitez')"
+812,Rafa
+813,BBC
+814,Radio
+815,Five
+816,Live
+817,"('BBC', 'Radio')"
+818,"('Radio', 'Five')"
+819,"('Five', 'Live')"
+820,"('BBC', 'Radio', 'Five')"
+821,"('Radio', 'Five', 'Live')"
+822,Gerrard
+823,Liverpool
+824,December
+825,Olympiakos
+826,Liverpool
+827,Reds
+828,Premiership
+829,Champions
+830,League
+831,Chelsea
+832,Sunday
+833,Carling
+834,Cup
+835,"('Champions', 'League')"
+836,"('Carling', 'Cup')"
+837,Liverpool
+838,Champions
+839,League
+840,"('Champions', 'League')"
+841,Chelsea
+842,Carling
+843,Cup
+844,Champions
+845,League
+846,"('Carling', 'Cup')"
+847,"('Champions', 'League')"
+848,Poll
+849,Referee
+850,Arsenal
+851,Sunday
+852,Chelsea
+853,"('Graham', 'Poll')"
+854,"('Thierry', 'Henry')"
+855,Keeper
+856,Henry
+857,Chelsea
+858,"('Petr', 'Cech')"
+859,Henry
+860,Poll
+861,Poll
+862,Chelsea
+863,West
+864,Ham
+865,FA
+866,Cup
+867,"('West', 'Ham')"
+868,"('FA', 'Cup')"
+869,"('Jimmy', 'Floyd', 'Hasselbaink')"
+870,Henry
+871,Arsenal
+872,Henry
+873,BBC
+874,Radio
+875,Five
+876,Live
+877,"('BBC', 'Radio')"
+878,"('Radio', 'Five')"
+879,"('Five', 'Live')"
+880,"('BBC', 'Radio', 'Five')"
+881,"('Radio', 'Five', 'Live')"
+882,"('Eidur', 'Gudjohnsen')"
+883,Former
+884,Poll
+885,Arsenal
+886,BBC
+887,Radio
+888,Five
+889,Live
+890,"('BBC', 'Radio')"
+891,"('Radio', 'Five')"
+892,"('Five', 'Live')"
+893,"('BBC', 'Radio', 'Five')"
+894,"('Radio', 'Five', 'Live')"
+895,Referees
+896,Premier
+897,League
+898,"('Premier', 'League')"
+899,Premier
+900,League
+901,Football
+902,League
+903,"('Premier', 'League')"
+904,"('Football', 'League')"
+905,Players
+906,Gerrard
+907,Anfield
+908,Liverpool
+909,Anfield
+910,"('Anfield', 'Liverpool')"
+911,"('Steven', 'Gerrard')"
+912,England
+913,Chelsea
+914,Champions
+915,League
+916,"('Champions', 'League')"
+917,Gerrard
+918,Chelsea
+919,Stamford
+920,Bridge
+921,January
+922,"('Stamford', 'Bridge')"
+923,Reds
+924,Liverpool
+925,Gerrard
+926,Anfield
+927,"('Rafael', 'Benitez')"
+928,Benitez
+929,Steven
+930,Liverpool
+931,Meanwhile
+932,Gerrard
+933,Anfield
+934,Real
+935,Madrid
+936,January
+937,"('Real', 'Madrid')"
+938,"('Fernando', 'Morientes')"
+939,Morientes
+940,England
+941,Gerrard
+942,Champions
+943,League
+944,"('Champions', 'League')"
+945,Europe
+946,Spanish
+947,Spanish
+948,Spanish
+949,"('Rafael', 'Benitez')"
+950,January
+951,Spain
+952,Spain
+953,Football
+954,Federation
+955,"('Football', 'Federation')"
+956,"('Luis', 'Aragones')"
+957,"('Thierry', 'Henry')"
+958,Aragones
+959,Aragones
+960,October
+961,Spain
+962,"('Angel', 'Maria', 'Villar')"
+963,Aragones
+964,Henry
+965,Arsenal
+966,"('Jose', 'Antonio', 'Reyes')"
+967,England
+968,Spain
+969,Madrid
+970,Spanish
+971,England
+972,Spain
+973,Spain
+974,Federation
+975,"('Jaime', 'Lissavetzky')"
+976,Everyone
+977,O'Leary
+978,Villa
+979,Aston
+980,Villa
+981,Thursday
+982,"('Aston', 'Villa')"
+983,"('David', ""O'Leary"")"
+984,O'Leary
+985,Villa
+986,"('Doug', 'Ellis')"
+987,David
+988,Villa
+989,O'Leary
+990,"('Roy', 'Aitken')"
+991,"('Steve', 'McGregor')"
+992,Roy
+993,Steve
+994,O'Leary
+995,Thursday
+996,Someone
+997,Aston
+998,Villa
+999,"('Aston', 'Villa')"
+1000,Earlier
+1001,December
+1002,O'Leary
+1003,Villa
+1004,Villa
+1005,Premiership
+1006,O'Leary
+1007,Villa
+1008,Park
+1009,May
+1010,"('Villa', 'Park')"
+1011,Meanwhile
+1012,O'Leary
+1013,Sunday
+1014,Birmingham
+1015,"('Olof', 'Mellberg')"
+1016,Mellberg
+1017,Villa
+1018,"('Steve', 'Bruce')"
+1019,Olof
+1020,Villa
+1021,Smith
+1022,Home
+1023,Scotland
+1024,Home
+1025,International
+1026,"('Walter', 'Smith')"
+1027,"('Home', 'International')"
+1028,Northern
+1029,Irish
+1030,FA
+1031,"('Northern', 'Irish')"
+1032,"('Irish', 'FA')"
+1033,"('Howard', 'Wells')"
+1034,"('Northern', 'Irish', 'FA')"
+1035,English
+1036,FA
+1037,"('English', 'FA')"
+1038,Smith
+1039,Bringing
+1040,Home
+1041,International
+1042,Scotland-England
+1043,"('Home', 'International')"
+1044,Smith
+1045,Scotland
+1046,England
+1047,Italy
+1048,Russia
+1049,England
+1050,Holland
+1051,Scotland
+1052,Running
+1053,Olympics
+1054,London
+1055,Olympic
+1056,London
+1057,Marathon
+1058,"('London', 'Marathon')"
+1059,Olympic
+1060,"('Lord', 'Coe')"
+1061,IOC
+1062,"('Kelly', 'Holmes')"
+1063,"('Alan', 'Pascoe')"
+1064,"('Frankie', 'Fredericks')"
+1065,London
+1066,Marathon
+1067,"('London', 'Marathon')"
+1068,"('Tanni', 'Grey', 'Thompson')"
+1069,Even
+1070,International
+1071,Olympic
+1072,Committee
+1073,IOC
+1074,Evaluation
+1075,Commission
+1076,"('International', 'Olympic')"
+1077,"('Olympic', 'Committee')"
+1078,"('Evaluation', 'Commission')"
+1079,"('International', 'Olympic', 'Committee')"
+1080,London
+1081,Wednesday
+1082,IOC
+1083,Thursday
+1084,Olympic
+1085,London
+1086,Friday
+1087,Buckingham
+1088,Palace
+1089,"('Buckingham', 'Palace')"
+1090,Anyway
+1091,Saturday
+1092,IOC
+1093,London
+1094,One
+1095,IOC
+1096,Australia
+1097,Sydney
+1098,Olympics
+1099,"('Sydney', 'Olympics')"
+1100,Sunday
+1101,Steve
+1102,London
+1103,Marathon
+1104,BBC
+1105,Sport
+1106,Trust
+1107,Association
+1108,Children
+1109,Hospices
+1110,Children
+1111,Leukaemia
+1112,Trust
+1113,"('London', 'Marathon')"
+1114,"('BBC', 'Sport')"
+1115,"('Steve', 'Redgrave')"
+1116,Britain
+1117,Holmes
+1118,Athletics
+1119,Olympic
+1120,Games
+1121,"('Kelly', 'Holmes')"
+1122,"('Olympic', 'Games')"
+1123,Holmes
+1124,Team
+1125,GB
+1126,"('Team', 'GB')"
+1127,"('Paula', 'Radcliffe')"
+1128,Britain
+1129,Holmes
+1130,World
+1131,Indoor
+1132,Championships
+1133,"('World', 'Indoor')"
+1134,"('Indoor', 'Championships')"
+1135,"('World', 'Indoor', 'Championships')"
+1136,Olympic
+1137,"('Maria', 'Mutola')"
+1138,Briton
+1139,Olympic
+1140,Holmes
+1141,Athens
+1142,Team
+1143,GB
+1144,Radcliffe
+1145,August
+1146,Games
+1147,"('Team', 'GB')"
+1148,"('August', 'Games')"
+1149,Athens
+1150,Radcliffe
+1151,Radcliffe
+1152,Olympic
+1153,November
+1154,New
+1155,York
+1156,Marathon
+1157,"('New', 'York')"
+1158,"('York', 'Marathon')"
+1159,"('New', 'York', 'Marathon')"
+1160,British
+1161,Olympic
+1162,Games
+1163,Athens
+1164,Games
+1165,"('Michael', 'East')"
+1166,"('Darren', 'Campell')"
+1167,"('Jason', 'Gardener')"
+1168,"('Marlon', 'Devonish')"
+1169,"('Mark', 'Lewis-Francis')"
+1170,USA
+1171,Britain
+1172,Gardener
+1173,Olympic
+1174,World
+1175,Indoor
+1176,Holmes
+1177,"('World', 'Indoor')"
+1178,Team
+1179,GB
+1180,Athens
+1181,"('Kelly', 'Sotherton')"
+1182,"('Team', 'GB')"
+1183,Britain
+1184,"('Denise', 'Lewis')"
+1185,Lewis
+1186,Sotherton
+1187,Athens
+1188,Olympics
+1189,"('Athens', 'Olympics')"
+1190,"('Steve', 'Backley')"
+1191,Olympic
+1192,Backley
+1193,Athens
+1194,"('Dean', 'Macey')"
+1195,Team
+1196,GB
+1197,"('Abi', 'Oyepitan')"
+1198,"('Chris', 'Tomlinson')"
+1199,"('Team', 'GB')"
+1200,Sadly
+1201,Olympics
+1202,Games
+1203,Greek
+1204,"('Kostas', 'Kenteris')"
+1205,"('Katerina', 'Thanou')"
+1206,Kenteris
+1207,Thanou
+1208,Greek
+1209,Games
+1210,"('Adrian', 'Annus')"
+1211,"('Robert', 'Fazelas')"
+1212,"('Irina', 'Korzhanenko')"
+1213,Hungarian
+1214,Annus
+1215,Fazelas
+1216,"('Russian', 'Korzhanenko')"
+1217,THG
+1218,Olympic
+1219,Britain
+1220,February
+1221,THG
+1222,"('Dwain', 'Chambers')"
+1223,American
+1224,"('Kelli', 'White')"
+1225,US
+1226,"('Jerome', 'Young')"
+1227,Russian
+1228,World
+1229,Indoor
+1230,Olympic
+1231,"('Yelena', 'Isinbayeva')"
+1232,"('World', 'Indoor')"
+1233,"('Svetlana', 'Feofanova')"
+1234,Morocco
+1235,Olympic
+1236,"('Hicham', 'El', 'Guerrouj')"
+1237,London
+1238,Marathon
+1239,Kenyans
+1240,"('Paula', 'Radcliffe')"
+1241,"('London', 'Marathon')"
+1242,"('Evans', 'Rutto')"
+1243,"('Margaret', 'Okayo')"
+1244,Rutto
+1245,Okayo
+1246,Middlesbrough
+1247,Charlton
+1248,Middlesbrough
+1249,Charlton
+1250,Riverside
+1251,"('Danny', 'Graham')"
+1252,"('Matt', 'Holland')"
+1253,"('Franck', 'Queudrue')"
+1254,Middlesbrough
+1255,Charlton
+1256,"('Chris', 'Riggott')"
+1257,Charlton
+1258,Graham
+1259,Queudrue
+1260,"('Shaun', 'Bartlett')"
+1261,Charlton
+1262,"('Hermann', 'Hreidarsson')"
+1263,Hreidarsson
+1264,"('Danny', 'Murphy')"
+1265,Iceland
+1266,Boro
+1267,Charlton
+1268,Bartlett
+1269,Holland
+1270,"('Talal', 'El', 'Karkouri')"
+1271,Middlesbrough
+1272,"('Szilard', 'Nemeth')"
+1273,"('Joseph-Desire', 'Job')"
+1274,"('Dean', 'Kiely')"
+1275,Kiely
+1276,"('Jimmy', 'Floyd', 'Hasselbaink')"
+1277,Boro
+1278,Addicks
+1279,Kiely
+1280,Hasselbaink
+1281,Riverside
+1282,Middlesbrough
+1283,Kiely
+1284,Hreidarsson
+1285,Charlton
+1286,Addicks
+1287,Riggott
+1288,Boro
+1289,Charlton
+1290,"('Gareth', 'Southgate')"
+1291,Addicks
+1292,Bartlett
+1293,Boro
+1294,Hreidarsson
+1295,Graham
+1296,Premiership
+1297,Charlton
+1298,"('Dean', 'Kiely')"
+1299,Kiely
+1300,Middlesbrough
+1301,Parry
+1302,Gerrard
+1303,Listen
+1304,Sport
+1305,Five
+1306,BBC
+1307,Sport
+1308,GMT
+1309,"('BBC', 'Sport')"
+1310,Parry
+1311,BBC
+1312,Sport
+1313,Gerrard
+1314,Chelsea
+1315,"('BBC', 'Sport')"
+1316,BBC
+1317,Five
+1318,Live
+1319,Steven
+1320,"('BBC', 'Five')"
+1321,"('Five', 'Live')"
+1322,"('BBC', 'Five', 'Live')"
+1323,Liverpool
+1324,Steven
+1325,Liverpool
+1326,Parry
+1327,BBC
+1328,Sport
+1329,Liverpool
+1330,"('BBC', 'Sport')"
+1331,"('Alan', 'Hansen')"
+1332,"('Steve', 'Morgan')"
+1333,Parry
+1334,Liverpool
+1335,July
+1336,Premier
+1337,League
+1338,"('Premier', 'League')"
+1339,Anfield
+1340,"('Rafael', 'Benitez')"
+1341,"('Steven', 'Gerrard')"
+1342,Liverpool
+1343,Parry
+1344,Real
+1345,Madrid
+1346,England
+1347,"('Real', 'Madrid')"
+1348,"('Fernando', 'Morientes')"
+1349,Real
+1350,Madrid
+1351,Steven
+1352,"('Fernando', 'Morientes')"
+1353,"('Real', 'Madrid')"
+1354,Gerrard
+1355,Liverpool
+1356,Parry
+1357,Steven
+1358,Rafa
+1359,Steven
+1360,Steven
+1361,Liverpool
+1362,Chelsea
+1363,Liverpool
+1364,Parry
+1365,Steven
+1366,Parry
+1367,Chelsea
+1368,Maybe
+1369,Maybe
+1370,Steven
+1371,Steven
+1372,Steven
+1373,Steven
+1374,Parry
+1375,Liverpool
+1376,Stanley
+1377,Park
+1378,"('Stanley', 'Park')"
+1379,Arsenal
+1380,Emirates
+1381,Anfield
+1382,Arsenal
+1383,Arsenal
+1384,Liverpool
+1385,Parry
+1386,Time
+1387,Anfield
+1388,Parry
+1389,Liverpool
+1390,Middle
+1391,East
+1392,"('Middle', 'East')"
+1393,"('Steve', 'Morgan')"
+1394,Liverpool
+1395,Parry
+1396,Steve
+1397,Steve
+1398,Quite
+1399,AGM
+1400,December
+1401,Steve
+1402,Steve
+1403,Liverpool
+1404,Gerrard
+1405,Directors
+1406,Gerrard
+1407,Gerrard
+1408,Critical
+1409,Liverpool
+1410,Gerrard
+1411,Ideally
+1412,"('Michael', 'Owen')"
+1413,Rafa
+1414,Gerrard
+1415,Gerrard
+1416,Parry
+1417,Gerrard
+1418,Upping
+1419,Parry
+1420,Gerrard
+1421,Gerrard
+1422,Clearly
+1423,League
+1424,Wright-Phillips
+1425,England
+1426,Netherlands
+1427,"('Sven-Goran', 'Eriksson')"
+1428,"('Shaun', 'Wright-Phillips')"
+1429,Wright-Phillips
+1430,England
+1431,Eriksson
+1432,"('Shaun', 'Wright-Phillips')"
+1433,Wright-Phillips
+1434,Eriksson
+1435,"('Wes', 'Brown')"
+1436,"('Jamie', 'Carragher')"
+1437,Brown
+1438,Carragher
+1439,Eriksson
+1440,Carragher
+1441,Brown
+1442,England
+1443,Wright-Phillips
+1444,Manchester
+1445,City
+1446,"('Manchester', 'City')"
+1447,"('Andy', 'Johnson')"
+1448,"('Stewart', 'Downing')"
+1449,Wright-Phillips
+1450,Downing
+1451,Johnson
+1452,Johnson
+1453,Downing
+1454,Dundee
+1455,Utd
+1456,Aberdeen
+1457,Dundee
+1458,United
+1459,Scottish
+1460,Cup
+1461,Aberdeen
+1462,"('Dundee', 'Utd')"
+1463,"('Aberdeen', 'Dundee')"
+1464,"('Dundee', 'United')"
+1465,"('Scottish', 'Cup')"
+1466,"('Aberdeen', 'Dundee', 'United')"
+1467,United
+1468,"('Alan', 'Archibald')"
+1469,"('James', 'Grady')"
+1470,Aberdeen
+1471,United
+1472,"('Richie', 'Byrne')"
+1473,"('Stevie', 'Crawford')"
+1474,Grady
+1475,United
+1476,"('Tony', 'Bullock')"
+1477,United
+1478,"('Noel', 'Whelan')"
+1479,"('Jamie', 'Winter')"
+1480,Moments
+1481,"('Barry', 'Robson')"
+1482,"('Stevie', 'Crawford')"
+1483,Whelan
+1484,Archibald
+1485,"('Russell', 'Anderson')"
+1486,United
+1487,Grady
+1488,Robson
+1489,"('Mark', 'Wilson')"
+1490,Aberdeen
+1491,Winter
+1492,Byrne
+1493,Bullock
+1494,United
+1495,Crawford
+1496,"('Jason', 'Scotland')"
+1497,"('Ryan', 'Esson')"
+1498,United
+1499,Grady
+1500,Crawford
+1501,Esson
+1502,Esson
+1503,Robson
+1504,Robson
+1505,Ronaldo
+1506,Manchester
+1507,United
+1508,Old
+1509,Trafford
+1510,"('Manchester', 'United')"
+1511,"('Cristiano', 'Ronaldo')"
+1512,"('Old', 'Trafford')"
+1513,Portugal
+1514,August
+1515,United
+1516,United
+1517,News
+1518,World
+1519,Ronaldo
+1520,Nobody
+1521,Henry
+1522,Fifa
+1523,Fifa
+1524,Arsenal
+1525,World
+1526,Player
+1527,Year
+1528,Monday
+1529,"('Sepp', 'Blatter')"
+1530,"('Thierry', 'Henry')"
+1531,"('World', 'Player')"
+1532,Henry
+1533,Fifa
+1534,Barcelona
+1535,Ronaldinho
+1536,European
+1537,Footballer
+1538,Year
+1539,AC
+1540,Milan
+1541,"('European', 'Footballer')"
+1542,"('AC', 'Milan')"
+1543,"('Andriy', 'Shevchenko')"
+1544,Blatter
+1545,Henry
+1546,Zurich
+1547,Opera
+1548,United
+1549,States
+1550,Germany
+1551,Brazilian
+1552,Marta
+1553,"('Mia', 'Hamm')"
+1554,"('United', 'States')"
+1555,"('Birgit', 'Prinz')"
+1556,Hamm
+1557,Prinz
+1558,Fifa
+1559,Male
+1560,Benitez
+1561,Dudek
+1562,Liverpool
+1563,Portsmouth
+1564,Anfield
+1565,"('Rafael', 'Benitez')"
+1566,"('Jerzy', 'Dudek')"
+1567,Dudek
+1568,Liverpool
+1569,"('Lomana', 'LuaLua')"
+1570,"('Steven', 'Gerrard')"
+1571,Benitez
+1572,Jerzy
+1573,"('Matthew', 'Taylor')"
+1574,Benitez
+1575,Liverpool
+1576,Everton
+1577,Newcastle
+1578,Blues
+1579,Blackburn
+1580,Savage
+1581,Birmingham
+1582,Blackburn
+1583,"('Robbie', 'Savage')"
+1584,"('Karen', 'Brady')"
+1585,Rovers
+1586,Wales
+1587,Brady
+1588,Sun
+1589,Robbie
+1590,Savage
+1591,Birmingham
+1592,However
+1593,West
+1594,Brom
+1595,Aston
+1596,Villa
+1597,Blues
+1598,"('West', 'Brom')"
+1599,"('Aston', 'Villa')"
+1600,Saturday
+1601,Saturday
+1602,Birmingham
+1603,Savage
+1604,"('Steve', 'Bruce')"
+1605,Sav
+1606,Birmingham
+1607,City
+1608,"('Birmingham', 'City')"
+1609,European
+1610,European
+1611,Indoor
+1612,"('European', 'Indoor')"
+1613,Well
+1614,European
+1615,Championships
+1616,"('European', 'Championships')"
+1617,"('Sarah', 'Claxton')"
+1618,Running
+1619,Madrid
+1620,Sunday
+1621,Sarah
+1622,"('Diane', 'Allahgreen')"
+1623,Diane
+1624,Sarah
+1625,Saturday
+1626,"('Allan', 'Scott')"
+1627,Madrid
+1628,"('Phillips', 'Idowu')"
+1629,Phillips
+1630,Phillips
+1631,Across
+1632,"('Kelly', 'Sotherton')"
+1633,Kelly
+1634,European
+1635,Championships
+1636,"('Carolina', 'Kluft')"
+1637,"('European', 'Championships')"
+1638,Sheffield
+1639,"('Jason', 'Gardener')"
+1640,"('Jeanette', 'Kwayke')"
+1641,"('Joice', 'Maduaka')"
+1642,Joice
+1643,Jeanette
+1644,"('Janine', 'Whitlock')"
+1645,Janine
+1646,"('Mark', 'Findlay')"
+1647,"('Rabah', 'Yusuf')"
+1648,Findlay
+1649,Londoner
+1650,Trinidad
+1651,Tobago
+1652,Great
+1653,Britain
+1654,"('Great', 'Britain')"
+1655,Yusuf
+1656,Sudan
+1657,British
+1658,Britain
+1659,Chelsea
+1660,James
+1661,Manchester
+1662,City
+1663,Chelsea
+1664,"('David', 'James')"
+1665,"('Manchester', 'City')"
+1666,James
+1667,"('Damien', 'Duff')"
+1668,"('Jiri', 'Jarosik')"
+1669,"('Mateja', 'Kezman')"
+1670,"('Paul', 'Bosvelt')"
+1671,"('William', 'Gallas')"
+1672,"('Robbie', 'Fowler')"
+1673,Chelsea
+1674,James
+1675,"('Frank', 'Lampard')"
+1676,City
+1677,Chelsea
+1678,Chelsea
+1679,"('Arjen', 'Robben')"
+1680,"('Didier', 'Drogba')"
+1681,Indeed
+1682,England
+1683,"('Shaun', 'Wright-Phillips')"
+1684,"('Sven-Goran', 'Eriksson')"
+1685,"('John', 'Terry')"
+1686,Chelsea
+1687,First
+1688,Duff
+1689,James
+1690,Kezman
+1691,"('Ben', 'Thatcher')"
+1692,Soon
+1693,Jarosik
+1694,Lampard
+1695,James
+1696,Chelsea
+1697,Premiership
+1698,James
+1699,Kezman
+1700,Bosvelt
+1701,James
+1702,Gallas
+1703,Duff
+1704,City
+1705,Fowler
+1706,Premiership
+1707,Wright-Phillips
+1708,Fowler
+1709,City
+1710,Terry
+1711,James
+1712,Duff
+1713,"('Eidur', 'Gudjohnsen')"
+1714,Fowler
+1715,Czech
+1716,Republic
+1717,"('Petr', 'Cech')"
+1718,"('Czech', 'Republic')"
+1719,Another
+1720,Duff
+1721,Bosvelt
+1722,Lampard
+1723,James
+1724,Another
+1725,Gudjohnsen
+1726,"('Richard', 'Dunne')"
+1727,James
+1728,Lampard
+1729,Chelsea
+1730,Liverpool
+1731,"('Steven', 'Gerrard')"
+1732,"('John', 'Arne', 'Riise')"
+1733,Blues
+1734,Liverpool
+1735,"('Jose', 'Mourinho')"
+1736,Drogba
+1737,Kezman
+1738,"('Antonio', 'Nunez')"
+1739,Mourinho
+1740,Chelsea
+1741,Yet
+1742,Mourinho
+1743,Liverpool
+1744,Reds
+1745,Riise
+1746,Morientes
+1747,"('Petr', 'Cech')"
+1748,League
+1749,Cup
+1750,Blues
+1751,Newcastle
+1752,Barcelona
+1753,"('League', 'Cup')"
+1754,Blues
+1755,Drogba
+1756,"('Jerzy', 'Dudek')"
+1757,"('Frank', 'Lampard')"
+1758,Despite
+1759,Chelsea
+1760,Liverpool
+1761,Reds
+1762,"('Joe', 'Cole')"
+1763,"('Damien', 'Duff')"
+1764,"('Djimi', 'Traore')"
+1765,Blues
+1766,Liverpool
+1767,Nevertheless
+1768,Liverpool
+1769,Dudek
+1770,Gudjohnsen
+1771,"('William', 'Gallas')"
+1772,Chelsea
+1773,Liverpool
+1774,Cech
+1775,"('Luis', 'Garcia')"
+1776,"('Dietmar', 'Hamann')"
+1777,Blues
+1778,Liverpool
+1779,Gerrard
+1780,"('Paulo', 'Ferreira')"
+1781,Gerrard
+1782,Ferrerira
+1783,Chelsea
+1784,Mourinho
+1785,Chelsea
+1786,Duff
+1787,Dudek
+1788,Irishman
+1789,"('Milan', 'Baros')"
+1790,Drogba
+1791,Chelsea
+1792,Drogba
+1793,"('Glen', 'Johnson')"
+1794,Kezman
+1795,Gudjohnsen
+1796,Nunez
+1797,Cech
+1798,Liverpool
+1799,Chelsea
+1800,Kenyon
+1801,Chelsea
+1802,Champions
+1803,League
+1804,Barcelona
+1805,"('Robben', 'Barca')"
+1806,"('Peter', 'Kenyon')"
+1807,"('Arjen', 'Robben')"
+1808,"('Champions', 'League')"
+1809,Friday
+1810,BBC
+1811,Five
+1812,Live
+1813,Sportsweek
+1814,"('BBC', 'Five')"
+1815,"('Five', 'Live')"
+1816,"('BBC', 'Five', 'Live')"
+1817,Barcelona
+1818,Dutchman
+1819,February
+1820,"('Jean', 'Pierre', 'Meersseman')"
+1821,Robben
+1822,Meersseman
+1823,Stamford
+1824,Bridge
+1825,March
+1826,"('Stamford', 'Bridge')"
+1827,Meersseman
+1828,Mail
+1829,Sunday
+1830,Arjen
+1831,Meersseman
+1832,Italian
+1833,AC
+1834,Milan
+1835,"('AC', 'Milan')"
+1836,Record
+1837,Birmingham
+1838,"('Yelena', 'Isinbayeva')"
+1839,Russian
+1840,Apparently
+1841,Isinbayeva
+1842,Athletics
+1843,Mind
+1844,World
+1845,"('Kelly', 'Holmes')"
+1846,Agnes
+1847,Samaria
+1848,"('Agnes', 'Samaria')"
+1849,Yes
+1850,Samaria
+1851,Kelly
+1852,Kelly
+1853,Samaria
+1854,Kelly
+1855,Kelly
+1856,European
+1857,Indoor
+1858,Championships
+1859,"('European', 'Indoor')"
+1860,"('Indoor', 'Championships')"
+1861,"('European', 'Indoor', 'Championships')"
+1862,Madrid
+1863,"('Jason', 'Gardener')"
+1864,Jason
+1865,"('Mark', 'Lewis-Francis')"
+1866,Mark
+1867,Mark
+1868,Jason
+1869,France
+1870,Europeans
+1871,"('Ronald', 'Pognon')"
+1872,British
+1873,"('Sarah', 'Claxton')"
+1874,Something
+1875,"('Melanie', 'Purkiss')"
+1876,AAAs
+1877,European
+1878,Championships
+1879,"('Kim', 'Wall')"
+1880,"('European', 'Championships')"
+1881,Scotland
+1882,"('Lee', 'McConnell')"
+1883,"('Meseret', 'Defar')"
+1884,Canadian
+1885,Defar
+1886,"('Heather', 'Hennigar')"
+1887,"('Jo', 'Pavey')"
+1888,"('Bernard', 'Lagat')"
+1889,USA
+1890,"('Kenenisa', 'Bekele')"
+1891,"('Markos', 'Geneti')"
+1892,Bekele
+1893,National
+1894,Indoor
+1895,Arena
+1896,"('National', 'Indoor')"
+1897,"('Indoor', 'Arena')"
+1898,"('National', 'Indoor', 'Arena')"
+1899,Defar
+1900,Gardener
+1901,Norwich
+1902,Union
+1903,Indoor
+1904,AAAs
+1905,Championships
+1906,"('Jason', 'Gardener')"
+1907,"('Norwich', 'Union')"
+1908,"('Union', 'Indoor')"
+1909,"('AAAs', 'Championships')"
+1910,"('Norwich', 'Union', 'Indoor')"
+1911,"('Mark', 'Findlay')"
+1912,"('Darren', 'Chin')"
+1913,Gardener
+1914,Gardener
+1915,Sheffield
+1916,European
+1917,Frenchman
+1918,European
+1919,Championships
+1920,Gardener
+1921,"('Ronald', 'Pognon')"
+1922,"('European', 'Championships')"
+1923,Favourite
+1924,Madrid
+1925,European
+1926,"('Katherine', 'Endacott')"
+1927,Defending
+1928,"('Joice', 'Maduaka')"
+1929,British
+1930,"('Diane', 'Allahgreen')"
+1931,Claxton
+1932,BBC
+1933,Sport
+1934,"('BBC', 'Sport')"
+1935,Claxton
+1936,European
+1937,Championships
+1938,"('European', 'Championships')"
+1939,Sheffield
+1940,Northern
+1941,Ireland
+1942,Welshman
+1943,"('Northern', 'Ireland')"
+1944,"('Jimmy', 'Watkins')"
+1945,McIlory
+1946,Watkins
+1947,Madrid
+1948,Europeans
+1949,McIlroy
+1950,European
+1951,Olympic
+1952,Sheffield
+1953,Sotherton
+1954,Pole
+1955,Trafford
+1956,Sheffield
+1957,Australia
+1958,Idowu
+1959,Madrid
+1960,"('Nathan', 'Douglas')"
+1961,"('Jonathan', 'Moore')"
+1962,European
+1963,Commonwealth
+1964,Morgan
+1965,Olympian
+1966,Tomlinson
+1967,Tomlinson
+1968,Loughborough
+1969,"('Catherine', 'Murphy')"
+1970,Wall
+1971,Murphy
+1972,Ireland
+1973,Channel
+1974,Islands
+1975,"('Channel', 'Islands')"
+1976,"('Dale', 'Garland')"
+1977,Sudanese
+1978,British
+1979,"('Rabah', 'Yusuf')"
+1980,European
+1981,AAAs
+1982,AAAs
+1983,European
+1984,AAAs
+1985,"('Kelly', 'Holmes')"
+1986,Madrid
+1987,Ovens
+1988,Newcastle
+1989,Morientes
+1990,Newcastle
+1991,Real
+1992,Madrid
+1993,Liverpool
+1994,"('Real', 'Madrid')"
+1995,"('Fernando', 'Morientes')"
+1996,Liverpool
+1997,Spanish
+1998,Liverpool
+1999,Echo
+2000,Anfield
+2001,"('Liverpool', 'Echo')"
+2002,"('Rafa', 'Benitez')"
+2003,"('Nicolas', 'Anelka')"
+2004,Real
+2005,Morientes
+2006,Monaco
+2007,Reports
+2008,Liverpool
+2009,Tuesday
+2010,Morientes
+2011,Liverpool
+2012,Madrid
+2013,Madrid
+2014,Madrid
+2015,"('Rafa', 'Benitez')"
+2016,Benitez
+2017,Anelka
+2018,Morientes
+2019,Liverpool
+2020,Anelka
+2021,Anfield
+2022,Manchester
+2023,City
+2024,"('Gerard', 'Houllier')"
+2025,"('Manchester', 'City')"
+2026,Benitez
+2027,Liverpool
+2028,January
+2029,"('Fernando', 'Morientes')"
+2030,Real
+2031,Madrid
+2032,Anfield
+2033,Raul
+2034,Ronaldo
+2035,Bernabeu
+2036,"('Real', 'Madrid')"
+2037,"('Michael', 'Owen')"
+2038,Liverpool
+2039,"('Rafael', 'Benitez')"
+2040,"('Djibril', 'Cisse')"
+2041,Morientes
+2042,Unfortunately
+2043,Real
+2044,Liverpool
+2045,Real
+2046,Inter
+2047,Milan
+2048,Adriano
+2049,"('Inter', 'Milan')"
+2050,Reds
+2051,Premiership
+2052,Chelsea
+2053,Zambia
+2054,Zambia
+2055,Cosafa
+2056,Cup
+2057,Angola
+2058,Saturday
+2059,Lusaka
+2060,"('Kalusha', 'Bwalya')"
+2061,"('Cosafa', 'Cup')"
+2062,Bwalya
+2063,Nothing
+2064,However
+2065,Bwalya
+2066,Zambia
+2067,However
+2068,Bwalya
+2069,Mauritius
+2070,Chipolopolo
+2071,Chipolopolo
+2072,Southern
+2073,African
+2074,"('Southern', 'African')"
+2075,Angola
+2076,Zambians
+2077,Angola
+2078,Zambia
+2079,Lusaka
+2080,Independence
+2081,Saturday
+2082,Angola
+2083,Palancas
+2084,Negras
+2085,Portugal-based
+2086,"('Palancas', 'Negras')"
+2087,Olympic
+2088,Athens
+2089,World
+2090,Championship
+2091,"('Maurice', 'Greene')"
+2092,"('World', 'Championship')"
+2093,Greece
+2094,American
+2095,Portugal
+2096,"('Justin', 'Gatlin')"
+2097,"('Francis', 'Obikwelu')"
+2098,Greene
+2099,Birmingham
+2100,Friday
+2101,Greene
+2102,Gatlin
+2103,Greene
+2104,"('Francis', 'Obikwelu')"
+2105,Greene
+2106,Olympic
+2107,Britain
+2108,"('Mark', 'Lewis-Francis')"
+2109,Kansas
+2110,Lewis-Francis
+2111,Friday
+2112,Norwich
+2113,Union
+2114,Grand
+2115,Prix
+2116,"('Norwich', 'Union')"
+2117,"('Union', 'Grand')"
+2118,"('Grand', 'Prix')"
+2119,"('Norwich', 'Union', 'Grand')"
+2120,"('Union', 'Grand', 'Prix')"
+2121,Greene
+2122,France
+2123,Helsinki
+2124,August
+2125,Greene
+2126,Gatlin
+2127,Finland
+2128,Ato
+2129,Boldon
+2130,Greene
+2131,Call
+2132,Kenteris
+2133,Greek
+2134,"('Kostas', 'Kenteris')"
+2135,Greek
+2136,Olympic
+2137,"('Gregory', 'Ioannidis')"
+2138,Kenteris
+2139,December
+2140,Athens
+2141,Olympics
+2142,"('Katerina', 'Thanou')"
+2143,"('Athens', 'Olympics')"
+2144,Greek
+2145,Kenteris
+2146,Thanou
+2147,Athens
+2148,Olympics
+2149,August
+2150,"('Athens', 'Olympics')"
+2151,Tel
+2152,Aviv
+2153,Chicago
+2154,Games
+2155,"('Tel', 'Aviv')"
+2156,Ioannidis
+2157,Everything
+2158,Ioannidis
+2159,Athens
+2160,Games
+2161,"('Athens', 'Games')"
+2162,Kenteris
+2163,Germany
+2164,Chicago.
+2165,IAAF
+2166,"('Nick', 'Davies')"
+2167,Greek
+2168,Athletics
+2169,Federation
+2170,February
+2171,"('Greek', 'Athletics')"
+2172,"('Athletics', 'Federation')"
+2173,"('Greek', 'Athletics', 'Federation')"
+2174,Kenteris
+2175,Sydney
+2176,Olympics
+2177,Thanou
+2178,"('Sydney', 'Olympics')"
+2179,Campbell
+2180,United
+2181,Arsenal
+2182,Manchester
+2183,United
+2184,Gunners
+2185,"('Sol', 'Campbell')"
+2186,"('Manchester', 'United')"
+2187,Past
+2188,Highbury
+2189,Tuesday
+2190,United
+2191,Guardian
+2192,Last
+2193,October
+2194,Arsenal
+2195,Old
+2196,Trafford
+2197,Gunners
+2198,"('Last', 'October')"
+2199,"('Old', 'Trafford')"
+2200,United
+2201,United
+2202,Sir
+2203,"('Alex', 'Ferguson')"
+2204,Everyone
+2205,Arsenal
+2206,Campbell
+2207,Speaking
+2208,Campbell
+2209,Italy
+2210,Spain
+2211,French
+2212,Thompson
+2213,Gerrard
+2214,Liverpool
+2215,Chelsea
+2216,"('Phil', 'Thompson')"
+2217,"('Steve', 'Gerrard')"
+2218,Chelsea
+2219,BBC
+2220,Radio
+2221,Five
+2222,Live
+2223,Liverpool
+2224,Steve
+2225,"('BBC', 'Radio')"
+2226,"('Radio', 'Five')"
+2227,"('Five', 'Live')"
+2228,"('BBC', 'Radio', 'Five')"
+2229,"('Radio', 'Five', 'Live')"
+2230,Chelsea
+2231,Thompson
+2232,Liverpool
+2233,Gerrard
+2234,Carling
+2235,Cup
+2236,Chelsea
+2237,"('Carling', 'Cup')"
+2238,Gerrard
+2239,Liverpool
+2240,Chelsea
+2241,Thompson
+2242,Stevie
+2243,Liverpool
+2244,Thompson
+2245,European
+2246,Cup
+2247,Anfield
+2248,Champions
+2249,League
+2250,Gerrard
+2251,Anfield
+2252,"('European', 'Cup')"
+2253,"('Champions', 'League')"
+2254,Champions
+2255,League
+2256,Liverpool
+2257,Premiership
+2258,"('Champions', 'League')"
+2259,Liverpool
+2260,"('Steven', 'Gerrard')"
+2261,Arsenal
+2262,Arsenal
+2263,Spanish
+2264,Arsenal
+2265,Bolton
+2266,"('Alan', 'Quinn')"
+2267,"('Jon', 'Harley')"
+2268,Lauren
+2269,Arsenal
+2270,Blades
+2271,"('Patrick', 'Vieira')"
+2272,"('Freddie', 'Ljungberg')"
+2273,"('Ashley', 'Cole')"
+2274,"('Andy', 'Gray')"
+2275,"('Phil', 'Jagielka')"
+2276,Harley
+2277,Arsenal
+2278,"('Michael', 'Tonge')"
+2279,"('Paddy', 'Kenny')"
+2280,Arsenal
+2281,Italian
+2282,Ljungberg
+2283,"('Thierry', 'Henry')"
+2284,"('Dennis', 'Bergkamp')"
+2285,"('Arturo', 'Lupoli')"
+2286,Arsenal
+2287,Tonge
+2288,Gray
+2289,Tonge
+2290,Arsenal
+2291,Ljungberg
+2292,"('Cesc', 'Fabregas')"
+2293,Lupoli
+2294,Dutch
+2295,"('Arsene', 'Wenger')"
+2296,"('Quincy', 'Owusu-Abeyie')"
+2297,Kenny
+2298,"('Mathieu', 'Flamini')"
+2299,Owusu-Abeyie
+2300,Fabregas
+2301,Kenny
+2302,Blades
+2303,Arsenal
+2304,Fabregas
+2305,Jagielka
+2306,Ljungberg
+2307,Arsenal
+2308,Kenny
+2309,Fabregas
+2310,Harley
+2311,Almunia
+2312,"('Neil', 'Warnock')"
+2313,"('Derek', 'Geary')"
+2314,Owusu-Abeyie
+2315,Blades
+2316,Ljungberg
+2317,Arsenal
+2318,"('Pascal', 'Cygan')"
+2319,Arsenal
+2320,"('Jeremie', 'Aliadiere')"
+2321,Kenny
+2322,"('Kolo', 'Toure')"
+2323,Arsenal
+2324,Sheffield
+2325,United
+2326,"('Sheffield', 'United')"
+2327,Almunia
+2328,Arsenal
+2329,Blades
+2330,Cole
+2331,Aston
+2332,Villa
+2333,"('Aston', 'Villa')"
+2334,"('Carlton', 'Cole')"
+2335,Chelsea
+2336,England
+2337,Under-21
+2338,Holland
+2339,"('England', 'Under-21')"
+2340,Carlton
+2341,Villa
+2342,"('David', ""O'Leary"")"
+2343,Whether
+2344,Chelsea
+2345,Cole
+2346,O'Leary
+2347,Villa
+2348,"('Darius', 'Vassell')"
+2349,"('Luke', 'Moore')"
+2350,Keegan
+2351,Fowler
+2352,Manchester
+2353,City
+2354,"('Manchester', 'City')"
+2355,"('Kevin', 'Keegan')"
+2356,"('Robbie', 'Fowler')"
+2357,City
+2358,Premiership
+2359,Monday
+2360,Norwich
+2361,Keegan
+2362,Liverpool
+2363,City
+2364,Leeds
+2365,Fowler
+2366,Tuesday
+2367,Premiership
+2368,"('Les', 'Ferdinand')"
+2369,"('Alan', 'Shearer')"
+2370,"('Andy', 'Cole')"
+2371,Keegan
+2372,England
+2373,Keegan
+2374,People
+2375,Fowler
+2376,City
+2377,Carrow
+2378,Road
+2379,Keegan
+2380,Norwich
+2381,"('Carrow', 'Road')"
+2382,"('Nigel', 'Worthington')"
+2383,"('Nigel', 'Worthington')"
+2384,Norwich
+2385,Premiership
+2386,Rovers
+2387,Ferguson
+2388,Blackburn
+2389,Rangers
+2390,Scotland
+2391,BBC
+2392,Sport
+2393,"('Barry', 'Ferguson')"
+2394,"('BBC', 'Sport')"
+2395,Blackburn
+2396,Rangers
+2397,"('John', 'Williams')"
+2398,Ewood
+2399,Park
+2400,Ibrox
+2401,"('Ewood', 'Park')"
+2402,Ferguson
+2403,Lancashire
+2404,Thursday
+2405,Rangers
+2406,"('Thursday', 'Rangers')"
+2407,Blackburn
+2408,Williams
+2409,Rangers
+2410,Williams
+2411,Glasgow
+2412,Rangers
+2413,"('Glasgow', 'Rangers')"
+2414,Monday
+2415,Williams
+2416,Ferguson
+2417,Rangers
+2418,Glasgow
+2419,Rangers
+2420,"('Glasgow', 'Rangers')"
+2421,Blackburn
+2422,Ferguson
+2423,Everton
+2424,Scotland
+2425,Goodison
+2426,Park
+2427,"('Goodison', 'Park')"
+2428,Ferguson
+2429,FA
+2430,Cup
+2431,Colchester
+2432,Saturday
+2433,Rovers
+2434,"('FA', 'Cup')"
+2435,"('Mark', 'Hughes')"
+2436,Verdict
+2437,Greek
+2438,Greek
+2439,"('Costas', 'Kenteris')"
+2440,"('Katerina', 'Thanou')"
+2441,Athens
+2442,Olympics
+2443,"('Athens', 'Olympics')"
+2444,February
+2445,"('Michalis', 'Dimitrakopoulos')"
+2446,Kenteris
+2447,Sydney
+2448,Games
+2449,Thanou
+2450,Sydney
+2451,"('Sydney', 'Games')"
+2452,Athens
+2453,Olympics
+2454,International
+2455,Association
+2456,Athletics
+2457,Federations
+2458,IAAF
+2459,"('Athens', 'Olympics')"
+2460,"('International', 'Association')"
+2461,"('Athletics', 'Federations')"
+2462,IAAF
+2463,Tel
+2464,Aviv
+2465,Chicago
+2466,Athens
+2467,Greek
+2468,Segas
+2469,"('Tel', 'Aviv')"
+2470,Greece
+2471,Athens
+2472,Following
+2473,January
+2474,Thanou
+2475,Reaction
+2476,Spanish
+2477,England
+2478,Spain
+2479,Wednesday
+2480,Thursday
+2481,Controversy
+2482,England
+2483,England
+2484,"('Wayne', 'Rooney')"
+2485,Spanish
+2486,BBC
+2487,Sport
+2488,"('BBC', 'Sport')"
+2489,Wednesday
+2490,English
+2491,Spain
+2492,Britain
+2493,October
+2494,"('Luis', 'Aragones')"
+2495,"('Thierry', 'Henry')"
+2496,Journalist
+2497,English
+2498,"('Guillem', 'Balague')"
+2499,Marca
+2500,England
+2501,Spanish
+2502,Aragones
+2503,Marca
+2504,Spanish
+2505,Serbia
+2506,Montenegro
+2507,World
+2508,Cup
+2509,Belgium
+2510,Spain
+2511,"('World', 'Cup')"
+2512,Elsewhere
+2513,Spanish
+2514,English
+2515,Spanish
+2516,Spain
+2517,Spanish
+2518,Federation
+2519,"('Spanish', 'Federation')"
+2520,"('Fernando', 'Garrido')"
+2521,English
+2522,Spanish
+2523,ABC
+2524,English
+2525,Aragones
+2526,Perhaps
+2527,Bernabeu
+2528,Rooney
+2529,Spanish
+2530,Yet
+2531,Rooney
+2532,England
+2533,Manchester
+2534,United
+2535,Arsenal
+2536,"('Gary', 'Neville')"
+2537,"('Manchester', 'United')"
+2538,"('Jose', 'Reyes')"
+2539,Joaquin
+2540,Reyes
+2541,"('Ashley', 'Cole')"
+2542,"('Frank', 'Lampard')"
+2543,Marca
+2544,Bernabeu
+2545,Bernabeu
+2546,Rooney
+2547,Joaquin
+2548,Casillas
+2549,Marchena
+2550,"('Wayne', 'Rooney')"
+2551,"('Wayne', 'Rooney')"
+2552,Marca
+2553,Reyes
+2554,Manchester
+2555,United-Arsenal
+2556,"('Gary', 'Neville')"
+2557,"('Manchester', 'United-Arsenal')"
+2558,Spain
+2559,Xavi
+2560,Xavi
+2561,Wednesday
+2562,Maradona
+2563,Spanish
+2564,English
+2565,Spain
+2566,England
+2567,"('Jaime', 'Vargas')"
+2568,Spain
+2569,England
+2570,Vargas
+2571,England
+2572,Galacticos
+2573,PS
+2574,Beckham
+2575,Owen
+2576,Santini
+2577,Spurs
+2578,Tottenham
+2579,"('Jacques', 'Santini')"
+2580,France
+2581,White
+2582,Hart
+2583,Lane
+2584,France
+2585,"('White', 'Hart')"
+2586,"('Hart', 'Lane')"
+2587,"('White', 'Hart', 'Lane')"
+2588,Santini
+2589,Tottenham
+2590,Private
+2591,"('Frank', 'Arnesen')"
+2592,"('Daniel', 'Levy')"
+2593,Assistant
+2594,Saturday
+2595,Premiership
+2596,Charlton
+2597,"('Martin', 'Jol')"
+2598,Arnesen
+2599,Santini
+2600,Jacques
+2601,Jacques
+2602,Monday
+2603,Jacques
+2604,McIlroy
+2605,Madrid
+2606,Northern
+2607,Ireland
+2608,Spar
+2609,European
+2610,Indoor
+2611,Championships
+2612,Madrid
+2613,"('Northern', 'Ireland')"
+2614,"('James', 'McIlroy')"
+2615,"('Spar', 'European')"
+2616,"('European', 'Indoor')"
+2617,"('Indoor', 'Championships')"
+2618,"('Spar', 'European', 'Indoor')"
+2619,"('European', 'Indoor', 'Championships')"
+2620,Sheffield
+2621,McIlroy
+2622,New
+2623,McIlroy
+2624,"('Tony', 'Lester')"
+2625,McIlroy
+2626,Windsor
+2627,Army
+2628,Lester
+2629,Lester
+2630,McIlroy
+2631,"('Roger', 'Black')"
+2632,"('Mark', 'Richardson')"
+2633,McIlroy
+2634,Ireland
+2635,European
+2636,Championships
+2637,"('European', 'Championships')"
+2638,McIlroy
+2639,August
+2640,Lester
+2641,Mount
+2642,Everest
+2643,"('Mount', 'Everest')"
+2644,Trying
+2645,McIlroy
+2646,National
+2647,Lottery
+2648,"('Sebastian', 'Coe')"
+2649,"('Steve', 'Cram')"
+2650,"('Steve', 'Ovett')"
+2651,"('National', 'Lottery')"
+2652,Erfurt
+2653,Stuttgart
+2654,Russian
+2655,Madrid
+2656,European
+2657,Championship
+2658,Dutchman
+2659,Spain
+2660,McIlroy
+2661,"('Dmitriy', 'Bogdanov')"
+2662,"('European', 'Championship')"
+2663,"('Arnoud', 'Okken')"
+2664,"('Antonio', 'Reina')"
+2665,McIlroy
+2666,Erfurt
+2667,UK
+2668,All-Time
+2669,Madrid
+2670,"('UK', 'All-Time')"
+2671,Ultimately
+2672,August
+2673,Campbell
+2674,"('Darren', 'Campbell')"
+2675,Campbell
+2676,Olympic
+2677,Five
+2678,Live
+2679,Sportsweek
+2680,"('Five', 'Live')"
+2681,Campbell
+2682,British
+2683,Americans
+2684,Athens
+2685,August
+2686,Newport-based
+2687,MBEs
+2688,New
+2689,Year
+2690,Honours
+2691,List
+2692,"('Jason', 'Gardener')"
+2693,"('Marlon', 'Devonish')"
+2694,"('Mark', 'Lewis-Francis')"
+2695,"('New', 'Year')"
+2696,"('Year', 'Honours')"
+2697,"('Honours', 'List')"
+2698,"('New', 'Year', 'Honours')"
+2699,"('Year', 'Honours', 'List')"
+2700,Campbell
+2701,Athens
+2702,Olympic
+2703,Sydney
+2704,Games
+2705,Olympic
+2706,Campbell
+2707,"('Michael', 'Johnson')"
+2708,Athens
+2709,Campbell
+2710,Every
+2711,Olympics
+2712,Campbell
+2713,European
+2714,Budapest
+2715,Sydney
+2716,Olympic
+2717,Hodgson
+2718,European
+2719,Former
+2720,Blackburn
+2721,Premiership
+2722,Europe
+2723,English
+2724,Champions
+2725,League
+2726,"('Former', 'Blackburn')"
+2727,"('Roy', 'Hodgson')"
+2728,"('Champions', 'League')"
+2729,Hodgson
+2730,Viking
+2731,Stavanger
+2732,Liverpool
+2733,Bayer
+2734,Leverkusen
+2735,Anfield
+2736,Tuesday
+2737,Uefa
+2738,"('Viking', 'Stavanger')"
+2739,"('Bayer', 'Leverkusen')"
+2740,Hodgson
+2741,Europe
+2742,England
+2743,Champions
+2744,League
+2745,"('Champions', 'League')"
+2746,Hodgson
+2747,BBC
+2748,Sport
+2749,Premiership
+2750,English
+2751,Champions
+2752,League
+2753,"('BBC', 'Sport')"
+2754,"('Champions', 'League')"
+2755,Champions
+2756,League
+2757,"('Champions', 'League')"
+2758,Premiership
+2759,Champions
+2760,League
+2761,February
+2762,"('Champions', 'League')"
+2763,Hodgson
+2764,England
+2765,Christmas
+2766,Hodgson
+2767,Italy
+2768,Christmas
+2769,New
+2770,Year
+2771,"('New', 'Year')"
+2772,Hodgson
+2773,Premiership
+2774,Premiership
+2775,Premier
+2776,League
+2777,"('Premier', 'League')"
+2778,Cudicini
+2779,Carling
+2780,Cup
+2781,Chelsea
+2782,Sunday
+2783,Carling
+2784,Cup
+2785,Newcastle
+2786,"('Carling', 'Cup')"
+2787,"('Carlo', 'Cudicini')"
+2788,"('Carling', 'Cup')"
+2789,Italian
+2790,Sunday
+2791,"('Shola', 'Ameobi')"
+2792,Blues
+2793,Cudicini
+2794,"('Jose', 'Mourinho')"
+2795,"('Petr', 'Cech')"
+2796,Cudicini
+2797,Chelsea
+2798,Mourinho
+2799,Stamford
+2800,Bridge
+2801,"('Petr', 'Cech')"
+2802,"('Stamford', 'Bridge')"
+2803,Czech
+2804,Republic
+2805,Premiership
+2806,"('Czech', 'Republic')"
+2807,Mourinho
+2808,Cudicini
+2809,Carling
+2810,Cup
+2811,Italian
+2812,Chelsea
+2813,"('Carling', 'Cup')"
+2814,Palace
+2815,Cantona
+2816,Manchester
+2817,United
+2818,Selhurst
+2819,Park
+2820,Saturday
+2821,"('Manchester', 'United')"
+2822,"('Eric', 'Cantona')"
+2823,"('Selhurst', 'Park')"
+2824,United
+2825,Cantona
+2826,Crystal
+2827,Palace
+2828,"('Crystal', 'Palace')"
+2829,"('Matthew', 'Simmons')"
+2830,Palace
+2831,Selhurst
+2832,Park
+2833,"('Kevin', 'Corner')"
+2834,"('Selhurst', 'Park')"
+2835,Cantona
+2836,United
+2837,Saturday
+2838,Cantona
+2839,Day
+2840,Frenchman
+2841,Old
+2842,Trafford
+2843,"('Old', 'Trafford')"
+2844,Cantona
+2845,Palace
+2846,Four
+2847,Cantona
+2848,Palace
+2849,FA
+2850,Cup
+2851,Villa
+2852,Park
+2853,"('Paul', 'Nixon')"
+2854,"('FA', 'Cup')"
+2855,"('Villa', 'Park')"
+2856,Legendary
+2857,Dutch
+2858,Michels
+2859,Legendary
+2860,Dutch
+2861,"('Legendary', 'Dutch')"
+2862,"('Legendary', 'Dutch')"
+2863,"('Rinus', 'Michels')"
+2864,Referred
+2865,Netherlands
+2866,General
+2867,Michels
+2868,Dutch
+2869,World
+2870,Cup
+2871,Germany
+2872,"('World', 'Cup')"
+2873,However
+2874,European
+2875,Championship
+2876,Soviet
+2877,Union
+2878,"('European', 'Championship')"
+2879,"('Soviet', 'Union')"
+2880,Michels
+2881,Ajax
+2882,European
+2883,Cup
+2884,"('European', 'Cup')"
+2885,Dutch
+2886,"('Johan', 'Cruyff')"
+2887,"('Johan', 'Neeskens')"
+2888,Cruyff
+2889,Michels
+2890,Dutch
+2891,KNVB
+2892,"('Frank', 'Huizinga')"
+2893,Barcelona
+2894,Spanish
+2895,FC
+2896,Cologne
+2897,Bayer
+2898,Leverkusen
+2899,"('FC', 'Cologne')"
+2900,"('Bayer', 'Leverkusen')"
+2901,Michels
+2902,Fifa
+2903,Netherlands
+2904,Dutch
+2905,Cruyff
+2906,Dutch
+2907,"('Clemence', 'Ross-van', 'Dorp')"
+2908,Coach
+2909,Ranieri
+2910,Valencia
+2911,Valencia
+2912,Primera
+2913,Liga
+2914,"('Claudio', 'Ranieri')"
+2915,"('Primera', 'Liga')"
+2916,Uefa
+2917,Cup
+2918,"('Uefa', 'Cup')"
+2919,"('Juan', 'Bautista')"
+2920,Former
+2921,"('Antonio', 'Lopez')"
+2922,Italian
+2923,Ranieri
+2924,Valencia
+2925,June
+2926,Chelsea
+2927,"('Jose', 'Mourinho')"
+2928,Things
+2929,Spanish
+2930,Racing
+2931,Santander
+2932,"('Racing', 'Santander')"
+2933,Uefa
+2934,Cup
+2935,"('Uefa', 'Cup')"
+2936,"('Steaua', 'Bucharest')"
+2937,Ranieri
+2938,Valencia
+2939,King
+2940,Cup
+2941,Champions
+2942,League
+2943,"('Champions', 'League')"
+2944,Atletico
+2945,Madrid
+2946,Chelsea
+2947,"('Atletico', 'Madrid')"
+2948,Claxton
+2949,British
+2950,European
+2951,Indoor
+2952,Championships
+2953,Madrid
+2954,"('Sarah', 'Claxton')"
+2955,"('European', 'Indoor')"
+2956,"('Indoor', 'Championships')"
+2957,"('European', 'Indoor', 'Championships')"
+2958,British
+2959,AAAs
+2960,Claxton
+2961,Claxton
+2962,Scotland-born
+2963,Birmingham
+2964,Grand
+2965,Prix
+2966,Claxton
+2967,European
+2968,Russian
+2969,"('Birmingham', 'Grand')"
+2970,"('Grand', 'Prix')"
+2971,"('Irina', 'Shevchenko')"
+2972,"('Birmingham', 'Grand', 'Prix')"
+2973,Claxton
+2974,Colchester
+2975,London
+2976,Claxton
+2977,European
+2978,Indoors
+2979,March
+2980,"('European', 'Indoors')"
+2981,Kerr
+2982,Republic
+2983,Ireland
+2984,Croatia
+2985,"('Brian', 'Kerr')"
+2986,Republic
+2987,"('Robbie', 'Keane')"
+2988,Kerr
+2989,Croatian
+2990,Republic
+2991,Kerr
+2992,"('Mick', 'McCarthy')"
+2993,Kerr
+2994,"('Damien', 'Duff')"
+2995,Robbie
+2996,Matchwinner
+2997,Keane
+2998,Duff
+2999,Damien
+3000,Tottenham
+3001,Duffer
+3002,Playing
+3003,"('Brian', 'Kerr')"
+3004,"('Stephen', 'Elliott')"
+3005,Man-of-the-match
+3006,Duff
+3007,"('Steve', 'Finnan')"
+3008,Chelsea
+3009,Hopefully
+3010,Jones
+3011,World
+3012,Anti-Doping
+3013,Agency
+3014,WADA
+3015,"('World', 'Anti-Doping')"
+3016,"('Anti-Doping', 'Agency')"
+3017,"('Dick', 'Pound')"
+3018,"('Marion', 'Jones')"
+3019,"('World', 'Anti-Doping', 'Agency')"
+3020,Balco
+3021,Laboratories
+3022,American
+3023,"('Victor', 'Conte')"
+3024,"('Balco', 'Laboratories')"
+3025,Pound
+3026,Asked
+3027,Pound
+3028,However
+3029,International
+3030,Olympic
+3031,Committee
+3032,IOC
+3033,"('International', 'Olympic')"
+3034,"('Olympic', 'Committee')"
+3035,"('International', 'Olympic', 'Committee')"
+3036,Jones
+3037,Olympics
+3038,Conte
+3039,Balco
+3040,Laboratories
+3041,US
+3042,"('Balco', 'Laboratories')"
+3043,Pound
+3044,Unclear
+3045,Baros
+3046,Liverpool
+3047,Carling
+3048,Cup
+3049,"('Milan', 'Baros')"
+3050,"('Rafa', 'Benitez')"
+3051,"('Carling', 'Cup')"
+3052,Baros
+3053,Liverpool
+3054,Benitez
+3055,Czech
+3056,Daily
+3057,Sport
+3058,Sunday
+3059,"('Daily', 'Sport')"
+3060,Czech
+3061,Chelsea
+3062,Baros
+3063,Millennium
+3064,Stadium
+3065,"('Millennium', 'Stadium')"
+3066,Saturday
+3067,Benitez
+3068,Baros
+3069,Anfield
+3070,Boro
+3071,Morrison
+3072,Middlesbrough
+3073,Tuesday
+3074,"('James', 'Morrison')"
+3075,Morrison
+3076,Boro
+3077,UEFA
+3078,Cup
+3079,Graz
+3080,AK
+3081,"('UEFA', 'Cup')"
+3082,"('Graz', 'AK')"
+3083,Teessiders
+3084,"('Gaizka', 'Mendieta')"
+3085,"('George', 'Boateng')"
+3086,"('Mark', 'Viduka')"
+3087,Meanwhile
+3088,Boro
+3089,Uefa
+3090,Cup
+3091,Sporting
+3092,Lisbon
+3093,March
+3094,GMT
+3095,GMT
+3096,"('Uefa', 'Cup')"
+3097,"('Sporting', 'Lisbon')"
+3098,Aragones
+3099,Spain
+3100,Spanish
+3101,Football
+3102,Federation
+3103,"('Luis', 'Aragones')"
+3104,"('Spanish', 'Football')"
+3105,"('Football', 'Federation')"
+3106,"('Thierry', 'Henry')"
+3107,"('Spanish', 'Football', 'Federation')"
+3108,Aragones
+3109,Tuesday
+3110,Henry
+3111,Arsenal
+3112,Spanish
+3113,October
+3114,"('Jose', 'Reyes')"
+3115,Spanish
+3116,Football
+3117,Federation
+3118,Aragones
+3119,Spain
+3120,"('Spanish', 'Football')"
+3121,"('Football', 'Federation')"
+3122,"('Spanish', 'Football', 'Federation')"
+3123,Arsenal
+3124,December
+3125,Manchester
+3126,United
+3127,Ruud
+3128,Nistelrooy
+3129,Aragones
+3130,"('Arsene', 'Wenger')"
+3131,"('Manchester', 'United')"
+3132,Spain
+3133,Wenger
+3134,However
+3135,Aragones
+3136,Islero
+3137,Manolete
+3138,Aragones
+3139,Spain
+3140,Spanish
+3141,FA
+3142,"('Spanish', 'FA')"
+3143,Aragones
+3144,Spanish
+3145,FA
+3146,Aragones
+3147,"('Alberto', 'Flores')"
+3148,"('Spanish', 'FA')"
+3149,Suspension
+3150,Flores
+3151,Marca
+3152,IAAF
+3153,IAAF
+3154,Two
+3155,Nothing
+3156,IAAF
+3157,Getting
+3158,Sunday
+3159,Monaco
+3160,IAAF
+3161,Namibian
+3162,Athletes
+3163,Commission
+3164,"('Lamine', 'Diack')"
+3165,"('Frankie', 'Fredericks')"
+3166,IAAF
+3167,Diack
+3168,Federation
+3169,IAAF
+3170,Council
+3171,April
+3172,Qatar
+3173,"('IAAF', 'Council')"
+3174,Radcliffe
+3175,Paula
+3176,New
+3177,York
+3178,Athens
+3179,"('New', 'York')"
+3180,Paula
+3181,Athens
+3182,Even
+3183,Paula
+3184,Paula
+3185,Athens
+3186,Paula
+3187,Athens
+3188,Athens
+3189,Paula
+3190,Paula
+3191,Run
+3192,London
+3193,London
+3194,Christmas
+3195,"('Run', 'London')"
+3196,Anelka
+3197,Man
+3198,City
+3199,Striker
+3200,Manchester
+3201,City
+3202,Champions
+3203,League
+3204,"('Man', 'City')"
+3205,"('Nicolas', 'Anelka')"
+3206,"('Manchester', 'City')"
+3207,"('Champions', 'League')"
+3208,Anelka
+3209,City
+3210,News
+3211,World
+3212,Anelka
+3213,French
+3214,Anelka
+3215,Arsenal
+3216,Real
+3217,Madrid
+3218,Paris
+3219,St
+3220,Germain
+3221,"('Real', 'Madrid')"
+3222,"('Paris', 'St')"
+3223,"('St', 'Germain')"
+3224,"('Paris', 'St', 'Germain')"
+3225,Playing
+3226,Champions
+3227,League
+3228,"('Champions', 'League')"
+3229,Real
+3230,Madrid
+3231,"('Real', 'Madrid')"
+3232,Smith
+3233,Scottish
+3234,Scottish
+3235,Thursday
+3236,"('Walter', 'Smith')"
+3237,Scotland
+3238,Rangers
+3239,Everton
+3240,"('Berti', 'Vogts')"
+3241,Smith
+3242,Scotland
+3243,World
+3244,Cup
+3245,Germany
+3246,"('World', 'Cup')"
+3247,Fifa
+3248,Scotland
+3249,Estonia
+3250,Ghana
+3251,Angola
+3252,Thailand
+3253,Scotland
+3254,Smith
+3255,Smith
+3256,Scotland
+3257,World
+3258,Cup
+3259,Rangers
+3260,"('Alex', 'Ferguson')"
+3261,"('World', 'Cup')"
+3262,Ferguson
+3263,Ibrox
+3264,"('Graeme', 'Souness')"
+3265,Characters
+3266,Souness
+3267,Ferguson
+3268,Ibrox
+3269,Smith
+3270,Scottish
+3271,"('Alex', 'McLeish')"
+3272,Much
+3273,Vogts
+3274,Smith
+3275,Dundee
+3276,United
+3277,Dumbarton
+3278,"('Dundee', 'United')"
+3279,Vogts
+3280,Scotland
+3281,World
+3282,Cup
+3283,European
+3284,Championships
+3285,"('World', 'Cup')"
+3286,"('European', 'Championships')"
+3287,Smith
+3288,Vogts
+3289,Smith
+3290,Vogts
+3291,Scottish
+3292,Smith
+3293,Ferguson
+3294,Manchester
+3295,United
+3296,Sir
+3297,Fenerbahce
+3298,Champions
+3299,League
+3300,"('Manchester', 'United')"
+3301,"('Alex', 'Ferguson')"
+3302,"('Champions', 'League')"
+3303,Ferguson
+3304,United
+3305,Ferguson
+3306,Turks
+3307,Group
+3308,Lyon
+3309,Inter
+3310,AC
+3311,Milan
+3312,Juventus
+3313,Bayern
+3314,Barcelona
+3315,Real
+3316,Madrid
+3317,"('AC', 'Milan')"
+3318,"('Real', 'Madrid')"
+3319,Tevez
+3320,Argentine
+3321,Brazil
+3322,Boca
+3323,Juniors
+3324,Argentina
+3325,Brazil
+3326,"('Bernardo', 'Gandulla')"
+3327,"('Boca', 'Juniors')"
+3328,Vasco
+3329,Gama
+3330,Even
+3331,Brazil
+3332,Brazilians
+3333,Gandulla
+3334,Another
+3335,Boca
+3336,Juniors
+3337,Brazil
+3338,"('Another', 'Boca')"
+3339,"('Boca', 'Juniors')"
+3340,"('Another', 'Boca', 'Juniors')"
+3341,Maradona
+3342,Corinthians
+3343,"('Carlos', 'Tevez')"
+3344,Corinthians
+3345,London-based
+3346,Tevez
+3347,Tevez
+3348,Brazil
+3349,Argentine
+3350,Championship
+3351,"('Argentine', 'Championship')"
+3352,Presumably
+3353,Tevez
+3354,Atlantic
+3355,Argentina
+3356,August
+3357,Olympic
+3358,Tevez
+3359,Boca
+3360,Tevez
+3361,"('Martin', 'Palermo')"
+3362,Atletico
+3363,Madrid
+3364,"('Atletico', 'Madrid')"
+3365,Hounded
+3366,Tevez
+3367,Buenos
+3368,Aires
+3369,"('Buenos', 'Aires')"
+3370,Corinthians
+3371,Anyone
+3372,Sao
+3373,Paulo
+3374,"('Sao', 'Paulo')"
+3375,Brazil
+3376,Buenos
+3377,Aires
+3378,Italian
+3379,"('Buenos', 'Aires')"
+3380,Sport
+3381,Club
+3382,Corinthians
+3383,"('Sport', 'Club')"
+3384,"('Club', 'Corinthians')"
+3385,"('Sport', 'Club', 'Corinthians')"
+3386,Brazil
+3387,Pele
+3388,Corinthians
+3389,Brazil
+3390,Corinthians
+3391,Tevez
+3392,Copa
+3393,Libertadores
+3394,South
+3395,America
+3396,Champions
+3397,League
+3398,"('Copa', 'Libertadores')"
+3399,"('South', 'America')"
+3400,"('Champions', 'League')"
+3401,Corinthians
+3402,Indeed
+3403,Next
+3404,Brazilian
+3405,Championship
+3406,April
+3407,"('Brazilian', 'Championship')"
+3408,Sao
+3409,Paulo
+3410,State
+3411,Championship
+3412,"('Sao', 'Paulo')"
+3413,"('Paulo', 'State')"
+3414,"('State', 'Championship')"
+3415,"('Sao', 'Paulo', 'State')"
+3416,"('Paulo', 'State', 'Championship')"
+3417,Argentina
+3418,Like
+3419,South
+3420,American
+3421,Tevez
+3422,"('South', 'American')"
+3423,Isinbayeva
+3424,Pole
+3425,Lievin
+3426,Saturday
+3427,"('Yelena', 'Isinbayeva')"
+3428,Russian
+3429,Norwich
+3430,Union
+3431,Grand
+3432,Prix
+3433,Birmingham
+3434,"('Norwich', 'Union')"
+3435,"('Union', 'Grand')"
+3436,"('Grand', 'Prix')"
+3437,"('Norwich', 'Union', 'Grand')"
+3438,"('Union', 'Grand', 'Prix')"
+3439,Olympic
+3440,France
+3441,Olympic
+3442,"('Maurice', 'Greene')"
+3443,"('Leonard', 'Scott')"
+3444,Greene
+3445,American
+3446,Birmingham
+3447,Scott
+3448,Maurice
+3449,Chelsea
+3450,Mutu
+3451,Chelsea
+3452,"('Adrian', 'Mutu')"
+3453,October
+3454,Chelsea
+3455,Mutu
+3456,Parma
+3457,Chelsea
+3458,Chelsea
+3459,Mutu
+3460,Stamford
+3461,Bridge
+3462,"('Stamford', 'Bridge')"
+3463,"('Jose', 'Mourinho')"
+3464,Chelsea
+3465,Chelsea
+3466,Football
+3467,Association
+3468,"('Football', 'Association')"
+3469,FA
+3470,Fifa
+3471,Mutu
+3472,Fifa
+3473,English
+3474,FA
+3475,Fifa
+3476,"('English', 'FA')"
+3477,Chelsea
+3478,"('Michelle', 'Verroken')"
+3479,Verroken
+3480,UK
+3481,Sport
+3482,Blues
+3483,Mutu
+3484,"('UK', 'Sport')"
+3485,Chelsea
+3486,Chelsea
+3487,Mutu
+3488,October
+3489,Romanian
+3490,Football
+3491,Association
+3492,Mutu
+3493,"('Football', 'Association')"
+3494,Mourinho
+3495,Robson
+3496,Sir
+3497,Chelsea
+3498,"('Bobby', 'Robson')"
+3499,"('Jose', 'Mourinho')"
+3500,Barcelona
+3501,Porto
+3502,Robson
+3503,Robson
+3504,Robson
+3505,Newcastle
+3506,Jose
+3507,Robson
+3508,Barcelona
+3509,Premiership
+3510,Robson
+3511,Mourinho
+3512,Premiership
+3513,Jose
+3514,Prutton
+3515,FA
+3516,Southampton
+3517,Football
+3518,Association
+3519,"('David', 'Prutton')"
+3520,"('Football', 'Association')"
+3521,Arsenal
+3522,"('Alan', 'Wiley')"
+3523,"('Paul', 'Norman')"
+3524,Paolo
+3525,Canio
+3526,Premiership
+3527,Sheffield
+3528,Wednesday
+3529,Arsenal
+3530,"('Paul', 'Alcock')"
+3531,"('Sheffield', 'Wednesday')"
+3532,Prutton
+3533,Wednesday
+3534,Saints
+3535,FA
+3536,"('Harry', 'Redknapp')"
+3537,Redknapp
+3538,Prutton
+3539,Norman
+3540,"('Jim', 'Joyce')"
+3541,"('Denis', 'Rofe')"
+3542,David
+3543,Redknapp
+3544,Prutton
+3545,Arsenal
+3546,Saints
+3547,"('Robert', 'Pires')"
+3548,Pires
+3549,Sometimes
+3550,Prutton
+3551,QPR
+3552,Day
+3553,Preston
+3554,Queens
+3555,Park
+3556,Rangers
+3557,Preston
+3558,"('Preston', 'Queens')"
+3559,"('Queens', 'Park')"
+3560,"('Park', 'Rangers')"
+3561,"('Chris', 'Day')"
+3562,"('Preston', 'Queens', 'Park')"
+3563,"('Queens', 'Park', 'Rangers')"
+3564,Day
+3565,Charlton
+3566,"('Simon', 'Royce')"
+3567,QPR
+3568,Italian
+3569,"('Generoso', 'Rossi')"
+3570,R
+3571,Charlton
+3572,"('Ian', 'Holloway')"
+3573,"('Simon', 'Royce')"
+3574,Day
+3575,Rangers
+3576,Meanwhile
+3577,Holloway
+3578,Middlesbrough
+3579,Saturday
+3580,Ipswich
+3581,"('Andy', 'Davies')"
+3582,Davies
+3583,Loftus
+3584,Road
+3585,"('Loftus', 'Road')"
+3586,Holloway
+3587,Bristol
+3588,City
+3589,"('Bristol', 'City')"
+3590,"('Tom', 'Doherty')"
+3591,Edu
+3592,Arsenal
+3593,Edu
+3594,Manchester
+3595,United
+3596,Gunners
+3597,"('Manchester', 'United')"
+3598,Brazilian
+3599,United
+3600,Sir
+3601,"('Alex', 'Ferguson')"
+3602,Uefa
+3603,United
+3604,However
+3605,Edu
+3606,Brazilian
+3607,Derby
+3608,Brazil
+3609,Edu
+3610,United
+3611,"('Jose', 'Antonio', 'Reyes')"
+3612,United
+3613,Reyes
+3614,"('Gary', 'Neville')"
+3615,Following
+3616,Football
+3617,Association
+3618,"('Football', 'Association')"
+3619,Ruud
+3620,Nistelrooy
+3621,Arsenal
+3622,"('Arsene', 'Wenger')"
+3623,Kenya
+3624,Chepkemei
+3625,Kenya
+3626,"('Susan', 'Chepkemei')"
+3627,Athletics
+3628,Kenya
+3629,AK
+3630,London
+3631,Marathon
+3632,Embu
+3633,"('Athletics', 'Kenya')"
+3634,"('London', 'Marathon')"
+3635,Chepkemei
+3636,AK
+3637,"('Isaiah', 'Kiplagat')"
+3638,Puerto
+3639,Rice
+3640,"('Puerto', 'Rice')"
+3641,Kenyan
+3642,Chepkemei
+3643,France
+3644,Chepkemei
+3645,AK
+3646,Chepkemei
+3647,London
+3648,Marathons
+3649,Radcliffe
+3650,New
+3651,York
+3652,Marathon
+3653,"('London', 'Marathons')"
+3654,"('New', 'York')"
+3655,"('York', 'Marathon')"
+3656,"('New', 'York', 'Marathon')"
+3657,Radcliffe
+3658,London
+3659,April
+3660,AK
+3661,"('Edith', 'Masai')"
+3662,Masai
+3663,Kenya
+3664,AK
+3665,Subject
+3666,Masai
+3667,Kiplagat
+3668,O'Sullivan
+3669,Dublin
+3670,Bupa
+3671,Great
+3672,Ireland
+3673,Run
+3674,April
+3675,Dublin
+3676,"('Sonia', ""O'Sullivan"")"
+3677,"('Bupa', 'Great')"
+3678,"('Great', 'Ireland')"
+3679,"('Ireland', 'Run')"
+3680,"('Bupa', 'Great', 'Ireland')"
+3681,"('Great', 'Ireland', 'Run')"
+3682,Australia
+3683,"('Matthew', 'Turnbull')"
+3684,Irish
+3685,"('Mark', 'Carroll')"
+3686,Carroll
+3687,January
+3688,American
+3689,Boston
+3690,"('Alan', 'Webb')"
+3691,Carroll
+3692,Australian
+3693,Dublin
+3694,"('Craig', 'Mottram')"
+3695,Yeading
+3696,Newcastle
+3697,FA
+3698,Cup
+3699,Premiership
+3700,Newcastle
+3701,United
+3702,Ryman
+3703,Premier
+3704,League
+3705,Yeading
+3706,FA
+3707,Cup
+3708,"('FA', 'Cup')"
+3709,"('Cup', 'Premiership')"
+3710,"('Newcastle', 'United')"
+3711,"('Ryman', 'Premier')"
+3712,"('Premier', 'League')"
+3713,"('FA', 'Cup')"
+3714,"('FA', 'Cup', 'Premiership')"
+3715,"('Ryman', 'Premier', 'League')"
+3716,Yeading
+3717,Slough
+3718,Conference
+3719,Exeter
+3720,City
+3721,Doncaster
+3722,Saturday
+3723,Old
+3724,Trafford
+3725,Manchester
+3726,United
+3727,January
+3728,"('Exeter', 'City')"
+3729,"('Old', 'Trafford')"
+3730,"('Manchester', 'United')"
+3731,Arsenal
+3732,Stoke
+3733,Chelsea
+3734,Scunthorpe
+3735,Hinckley
+3736,United
+3737,Brentford
+3738,Sunday
+3739,"('Hinckley', 'United')"
+3740,League
+3741,One
+3742,Luton
+3743,Griffin
+3744,Park
+3745,"('League', 'One')"
+3746,"('Martin', 'Allen')"
+3747,"('Griffin', 'Park')"
+3748,Premiership
+3749,Championship
+3750,January
+3751,Third-placed
+3752,Everton
+3753,Plymouth
+3754,Liverpool
+3755,Burnley
+3756,Crystal
+3757,Palace
+3758,Sunderland
+3759,Fulham
+3760,Carling
+3761,Cup
+3762,Watford
+3763,Bolton
+3764,Ipswich
+3765,Aston
+3766,Villa
+3767,Sheffield
+3768,United
+3769,"('Third-placed', 'Everton')"
+3770,"('Crystal', 'Palace')"
+3771,"('Carling', 'Cup')"
+3772,"('Aston', 'Villa')"
+3773,"('Sheffield', 'United')"
+3774,Premiership
+3775,Norwich
+3776,Blackburn
+3777,West
+3778,Brom
+3779,West
+3780,Ham
+3781,Cardiff
+3782,Preston
+3783,North
+3784,End
+3785,"('West', 'Brom')"
+3786,"('West', 'Ham')"
+3787,"('Preston', 'North')"
+3788,"('North', 'End')"
+3789,"('Preston', 'North', 'End')"
+3790,Southampton
+3791,Northampton
+3792,League
+3793,Two
+3794,Carling
+3795,Cup
+3796,"('League', 'Two')"
+3797,"('Carling', 'Cup')"
+3798,Middlesbrough
+3799,Swindon
+3800,Notts
+3801,County
+3802,Spurs
+3803,Brighton
+3804,White
+3805,Hart
+3806,Lane
+3807,"('Notts', 'County')"
+3808,"('White', 'Hart')"
+3809,"('Hart', 'Lane')"
+3810,"('White', 'Hart', 'Lane')"
+3811,Beckham
+3812,Real
+3813,Real
+3814,Madrid
+3815,Champions
+3816,League
+3817,"('David', 'Beckham')"
+3818,"('Real', 'Madrid')"
+3819,"('Champions', 'League')"
+3820,Real
+3821,Roma
+3822,England
+3823,Bernabeu
+3824,Beckham
+3825,Madrid
+3826,Real
+3827,Champions
+3828,League
+3829,Manchester
+3830,United
+3831,"('Champions', 'League')"
+3832,"('Manchester', 'United')"
+3833,Real
+3834,Premiership
+3835,Arsenal
+3836,Chelsea
+3837,English
+3838,Curbishley
+3839,Johansson
+3840,Charlton
+3841,Norwich
+3842,"('Alan', 'Curbishley')"
+3843,"('Jonatan', 'Johansson')"
+3844,Curbishley
+3845,Norwich
+3846,Jonatan
+3847,Curbishley
+3848,Charlton
+3849,FA
+3850,Liverpool
+3851,Millwall
+3852,Liverpool
+3853,Millwall
+3854,Football
+3855,Association
+3856,Carling
+3857,Cup
+3858,October
+3859,"('Millwall', 'Liverpool')"
+3860,"('Football', 'Association')"
+3861,"('Carling', 'Cup')"
+3862,Millwall
+3863,Millwall
+3864,Den
+3865,Stadium
+3866,"('Den', 'Stadium')"
+3867,Liverpool
+3868,Hillsborough
+3869,April
+3870,Lions
+3871,"('Theo', 'Paphitis')"
+3872,CCTV
+3873,Liverpool
+3874,Millwall
+3875,However
+3876,Millwall
+3877,FA
+3878,Liverpool
+3879,December
+3880,Souness
+3881,Smith
+3882,Scotland
+3883,Scotland
+3884,"('Graeme', 'Souness')"
+3885,"('Walter', 'Smith')"
+3886,"('Berti', 'Vogts')"
+3887,Souness
+3888,Rangers
+3889,Vogts
+3890,Monday
+3891,Walter
+3892,Souness
+3893,BBC
+3894,Sport
+3895,"('BBC', 'Sport')"
+3896,Scottish
+3897,Football
+3898,Association
+3899,Sweden
+3900,November
+3901,"('Scottish', 'Football')"
+3902,"('Football', 'Association')"
+3903,"('Tommy', 'Burns')"
+3904,"('Scottish', 'Football', 'Association')"
+3905,Scotland
+3906,Souness
+3907,Walter
+3908,Ibrox
+3909,Scottish
+3910,Souness
+3911,Sir
+3912,Smith
+3913,"('Alex', 'Ferguson')"
+3914,Scottish
+3915,Football
+3916,Association
+3917,Vogts
+3918,"('Scottish', 'Football')"
+3919,"('Football', 'Association')"
+3920,"('Tommy', 'Burns')"
+3921,"('Scottish', 'Football', 'Association')"
+3922,Ferguson
+3923,Smith
+3924,Walter
+3925,Man
+3926,Utd
+3927,"('Man', 'Utd')"
+3928,Scotland
+3929,Manchester
+3930,United
+3931,Glasgow
+3932,Rangers
+3933,"('Manchester', 'United')"
+3934,"('Glasgow', 'Rangers')"
+3935,Scottish
+3936,Smith
+3937,Ferguson
+3938,World
+3939,Cup
+3940,Mexico
+3941,"('World', 'Cup')"
+3942,Everton
+3943,Rangers
+3944,Manchester
+3945,United
+3946,"('Manchester', 'United')"
+3947,BBC
+3948,Sport
+3949,Smith
+3950,Scottish
+3951,FA
+3952,"('BBC', 'Sport')"
+3953,"('Scottish', 'FA')"
+3954,Smith
+3955,"('Archie', 'Knox')"
+3956,Smith
+3957,Scotland
+3958,"('Craig', 'Brown')"
+3959,Brown
+3960,Walter
+3961,Sunday
+3962,Scotland
+3963,Vogts
+3964,"('Gordon', 'Strachan')"
+3965,"('Gary', 'McAllister')"
+3966,"('Tommy', 'Burns')"
+3967,Holmes
+3968,Britain
+3969,Olympic
+3970,Norwich
+3971,Union
+3972,International
+3973,"('Kelly', 'Holmes')"
+3974,"('Norwich', 'Union')"
+3975,"('Union', 'International')"
+3976,"('Norwich', 'Union', 'International')"
+3977,Holmes
+3978,Glasgow
+3979,Holmes
+3980,Olympics
+3981,Holmes
+3982,France
+3983,Russia
+3984,"('Hind', 'Dehiba')"
+3985,"('Svetlana', 'Cherkasova')"
+3986,Olympic
+3987,European
+3988,Indoor
+3989,Championships
+3990,Madrid
+3991,March
+3992,"('European', 'Indoor')"
+3993,"('Indoor', 'Championships')"
+3994,"('European', 'Indoor', 'Championships')"
+3995,Birmingham
+3996,Grand
+3997,Prix
+3998,February
+3999,"('Birmingham', 'Grand')"
+4000,"('Grand', 'Prix')"
+4001,"('Birmingham', 'Grand', 'Prix')"
+4002,Jones
+4003,International
+4004,Olympic
+4005,Committee
+4006,"('Marion', 'Jones')"
+4007,"('International', 'Olympic')"
+4008,"('Olympic', 'Committee')"
+4009,"('International', 'Olympic', 'Committee')"
+4010,IOC
+4011,Balco
+4012,Laboratories
+4013,"('Jacques', 'Rogge')"
+4014,"('Victor', 'Conte')"
+4015,"('Balco', 'Laboratories')"
+4016,Jones
+4017,Olympic
+4018,Conte
+4019,Sydney
+4020,Olympics
+4021,"('Sydney', 'Olympics')"
+4022,Rogge
+4023,IOC
+4024,Olympic
+4025,Games
+4026,Sydney
+4027,Olympics
+4028,World
+4029,Anti-Doping
+4030,Agency
+4031,"('Sydney', 'Olympics')"
+4032,"('World', 'Anti-Doping')"
+4033,"('Anti-Doping', 'Agency')"
+4034,"('Dick', 'Pound')"
+4035,"('World', 'Anti-Doping', 'Agency')"
+4036,Pound
+4037,Jones
+4038,"('Rich', 'Nichols')"
+4039,"('Victor', 'Conte')"
+4040,Conte
+4041,Juninho
+4042,O'Neill
+4043,Juninho
+4044,Brazilian
+4045,Celtic
+4046,"('Martin', ""O'Neill"")"
+4047,Manchester
+4048,City
+4049,English
+4050,"('Brian', 'Hassell')"
+4051,"('Manchester', 'City')"
+4052,BBC
+4053,Sport
+4054,Juninho
+4055,Scottish
+4056,"('BBC', 'Sport')"
+4057,Juninho
+4058,O'Neill
+4059,Middlesbrough
+4060,Hassel
+4061,Juninho
+4062,Celtic
+4063,Scotland
+4064,Botafogo
+4065,Brazil
+4066,Juninho
+4067,Brazilian
+4068,Juninho
+4069,Hassel
+4070,Britain
+4071,Celtic
+4072,Hassall
+4073,Manchester
+4074,City
+4075,Botafogo
+4076,Mexican
+4077,Red
+4078,Sharks
+4079,Veracruz
+4080,"('Manchester', 'City')"
+4081,"('Red', 'Sharks')"
+4082,"('Sharks', 'Veracruz')"
+4083,"('Red', 'Sharks', 'Veracruz')"
+4084,"('Kevin', 'Keegan')"
+4085,Juninho
+4086,Daily
+4087,Record
+4088,"('Daily', 'Record')"
+4089,Celtic
+4090,Park
+4091,"('Martin', ""O'Neill"")"
+4092,"('Celtic', 'Park')"
+4093,Desailly
+4094,Blues
+4095,Chelsea
+4096,Barcelona
+4097,Wednesday
+4098,"('Marcel', 'Desailly')"
+4099,French
+4100,Chelsea
+4101,Nou
+4102,Camp
+4103,Champions
+4104,League
+4105,"('Nou', 'Camp')"
+4106,"('Champions', 'League')"
+4107,Things
+4108,BBC
+4109,Sport
+4110,"('BBC', 'Sport')"
+4111,Chelsea
+4112,Europe
+4113,Barcelona
+4114,Chelsea
+4115,Barcelona
+4116,Blues
+4117,Stamford
+4118,Bridge
+4119,"('Stamford', 'Bridge')"
+4120,"('Gianfranco', 'Zola')"
+4121,"('Tore', 'Andre', 'Flo')"
+4122,Rivaldo
+4123,Dani
+4124,"('Luis', 'Figo')"
+4125,"('Patrick', 'Kluivert')"
+4126,Former
+4127,Chelsea
+4128,Desailly
+4129,Al-Gharafa
+4130,Qatar
+4131,Blues
+4132,Premiership
+4133,"('Former', 'Chelsea')"
+4134,Mentally
+4135,Nou
+4136,Camp
+4137,"('Nou', 'Camp')"
+4138,World
+4139,Cup
+4140,Desailly
+4141,Stamford
+4142,Bridge
+4143,"('World', 'Cup')"
+4144,"('Stamford', 'Bridge')"
+4145,AC
+4146,Milan
+4147,Ruud
+4148,Gullit
+4149,"('AC', 'Milan')"
+4150,"('Ruud', 'Gullit')"
+4151,"('Gianluca', 'Vialli')"
+4152,"('Claudio', 'Ranieri')"
+4153,"('Roman', 'Abramovich')"
+4154,Desailly
+4155,Russian
+4156,Chelsea
+4157,Everything
+4158,Since
+4159,Chelsea
+4160,Europe
+4161,Champions
+4162,League
+4163,"('Champions', 'League')"
+4164,Desailly
+4165,World
+4166,Cup
+4167,European
+4168,Championship
+4169,France
+4170,Champions
+4171,League
+4172,Marseilles
+4173,AC
+4174,Milan
+4175,Serie
+4176,FA
+4177,Cup
+4178,Chelsea
+4179,"('World', 'Cup')"
+4180,"('European', 'Championship')"
+4181,"('Champions', 'League')"
+4182,"('AC', 'Milan')"
+4183,"('FA', 'Cup')"
+4184,Qatar
+4185,"('Frank', 'Lebeouf')"
+4186,"('Josep', 'Guardiola')"
+4187,"('Titi', 'Camara')"
+4188,"('Gabriel', 'Batistuta')"
+4189,"('Christophe', 'Dugarry')"
+4190,Milan
+4191,Manchester
+4192,United
+4193,Wednesday
+4194,"('Manchester', 'United')"
+4195,"('Paolo', 'Maldini')"
+4196,"('Alessandro', 'Costacurta')"
+4197,Costacurta
+4198,Paolo
+4199,Owen
+4200,Madrid
+4201,England
+4202,BBC
+4203,Spain
+4204,Real
+4205,Madrid
+4206,Premiership
+4207,"('Madrid', 'England')"
+4208,"('Michael', 'Owen')"
+4209,"('Real', 'Madrid')"
+4210,La
+4211,Liga
+4212,Premiership
+4213,"('La', 'Liga')"
+4214,BBC
+4215,Radio
+4216,Five
+4217,Live
+4218,"('BBC', 'Radio')"
+4219,"('Radio', 'Five')"
+4220,"('Five', 'Live')"
+4221,"('BBC', 'Radio', 'Five')"
+4222,"('Radio', 'Five', 'Live')"
+4223,England
+4224,Owen
+4225,Bernabeu
+4226,Liverpool
+4227,Real
+4228,Raul
+4229,Ronaldo
+4230,However
+4231,Spain
+4232,Real
+4233,England
+4234,People
+4235,Recent
+4236,Owen
+4237,England
+4238,Newcastle
+4239,England
+4240,Premiership
+4241,Premiership
+4242,Liverpool
+4243,Owen
+4244,Liverpool
+4245,England
+4246,Madrid
+4247,Listen
+4248,BBC
+4249,Radio
+4250,Five
+4251,Live
+4252,Sportsweek
+4253,GMT
+4254,Sunday
+4255,"('Garry', 'Richardson')"
+4256,"('BBC', 'Radio')"
+4257,"('Radio', 'Five')"
+4258,"('Five', 'Live')"
+4259,"('BBC', 'Radio', 'Five')"
+4260,"('Radio', 'Five', 'Live')"
+4261,Brentford
+4262,Southampton
+4263,Griffin
+4264,Park
+4265,Tuesday
+4266,March
+4267,GMT
+4268,Kent
+4269,Manchester
+4270,United
+4271,Midfielder
+4272,Saints
+4273,"('Southampton', 'Griffin')"
+4274,"('Griffin', 'Park')"
+4275,"('Park', 'Tuesday')"
+4276,"('Barry', 'Knight')"
+4277,"('Manchester', 'United')"
+4278,"('Andrew', 'Frampton')"
+4279,"('Deon', 'Burton')"
+4280,"('Jamie', 'Redknapp')"
+4281,"('Nigel', 'Quashie')"
+4282,"('David', 'Prutton')"
+4283,"('Southampton', 'Griffin', 'Park')"
+4284,"('Griffin', 'Park', 'Tuesday')"
+4285,"('Graeme', 'Le', 'Saux')"
+4286,"('Anders', 'Svensson')"
+4287,"('Matt', 'Oakley')"
+4288,"('Kevin', 'Phillips')"
+4289,"('Henri', 'Camara')"
+4290,Brentford
+4291,"('Martin', 'Allen')"
+4292,Southampton
+4293,Premiership
+4294,Southampton
+4295,"('Harry', 'Redknapp')"
+4296,Brentford
+4297,Premiership
+4298,Staying
+4299,Premiership
+4300,KEY
+4301,MATCH
+4302,STATS
+4303,BRENTFORD
+4304,FA
+4305,Cup
+4306,"('KEY', 'MATCH')"
+4307,"('MATCH', 'STATS')"
+4308,"('FA', 'Cup')"
+4309,"('KEY', 'MATCH', 'STATS')"
+4310,Victory
+4311,Premiership
+4312,Southampton
+4313,Manchester
+4314,United
+4315,Griffin
+4316,Park
+4317,League
+4318,One
+4319,"('Manchester', 'United')"
+4320,"('Griffin', 'Park')"
+4321,"('League', 'One')"
+4322,St
+4323,Mary
+4324,"('Martin', 'Allen')"
+4325,"('St', 'Mary')"
+4326,Southampton
+4327,Saints
+4328,"('Henri', 'Camara')"
+4329,"('Isaiah', 'Rankin')"
+4330,"('Sam', 'Sodje')"
+4331,Londoners
+4332,League
+4333,Hartlepool
+4334,Sheffield
+4335,Wednesday
+4336,"('Sheffield', 'Wednesday')"
+4337,League
+4338,Cup
+4339,Torquay
+4340,Boxing
+4341,Day
+4342,"('Boxing', 'Day')"
+4343,SOUTHAMPTON
+4344,Premiership
+4345,Arsenal
+4346,Saturday
+4347,"('David', 'Prutton')"
+4348,"('Alan', 'Wiley')"
+4349,Saints
+4350,Premier
+4351,League
+4352,Brentford
+4353,"('Premier', 'League')"
+4354,Victory
+4355,Saints
+4356,Manchester
+4357,United
+4358,"('Tommy', 'Docherty')"
+4359,"('Manchester', 'United')"
+4360,"('Bobby', 'Stokes')"
+4361,Red
+4362,Devils
+4363,"('Red', 'Devils')"
+4364,FA
+4365,Cup
+4366,Solent
+4367,Rotherham
+4368,Millmoor
+4369,January
+4370,"('FA', 'Cup')"
+4371,Southampton
+4372,Fulham
+4373,Second
+4374,Division
+4375,Craven
+4376,Cottage
+4377,January
+4378,"('Second', 'Division')"
+4379,"('Craven', 'Cottage')"
+4380,Millennium
+4381,Stadium
+4382,League
+4383,West
+4384,Ham
+4385,"('Millennium', 'Stadium')"
+4386,"('Harry', 'Redknapp')"
+4387,"('West', 'Ham')"
+4388,HEAD
+4389,HEAD
+4390,League
+4391,One
+4392,QUARTER-FINALS
+4393,PREM
+4394,WINNERS
+4395,"('League', 'One')"
+4396,"('One', 'QUARTER-FINALS')"
+4397,"('PREM', 'WINNERS')"
+4398,"('League', 'One', 'QUARTER-FINALS')"
+4399,Klinsmann
+4400,Lehmann
+4401,Germany
+4402,Arsenal
+4403,World
+4404,Cup
+4405,"('Jurgen', 'Klinsmann')"
+4406,"('Jens', 'Lehmann')"
+4407,"('World', 'Cup')"
+4408,Lehmann
+4409,German
+4410,Highbury
+4411,"('Oliver', 'Kahn')"
+4412,"('Manuel', 'Alumnia')"
+4413,Klinsmann
+4414,Jens
+4415,Arsenal
+4416,Lehmann
+4417,Germany
+4418,World
+4419,Cup
+4420,"('World', 'Cup')"
+4421,Klinsmann
+4422,Germany
+4423,Jens
+4424,Arsenal
+4425,Johnson
+4426,British
+4427,Former
+4428,Olympic
+4429,Britain
+4430,"('Former', 'Olympic')"
+4431,"('Michael', 'Johnson')"
+4432,British
+4433,Britain
+4434,Five
+4435,Live
+4436,"('Five', 'Live')"
+4437,Athletics
+4438,However
+4439,"('Linford', 'Christie')"
+4440,Johnson
+4441,Britain
+4442,"('Darren', 'Campbell')"
+4443,American
+4444,Campbell
+4445,Olympic
+4446,American
+4447,British
+4448,British
+4449,Athletes
+4450,UK
+4451,British
+4452,Speaking
+4453,Birmingham
+4454,Johnson
+4455,Britain
+4456,US
+4457,Greek
+4458,Greek
+4459,"('Kostas', 'Kenteris')"
+4460,"('Katerina', 'Thanou')"
+4461,IAAF
+4462,December
+4463,Athens
+4464,Olympics
+4465,"('Athens', 'Olympics')"
+4466,Hellenic
+4467,Olympic
+4468,Committee
+4469,"('Christos', 'Tzekos')"
+4470,"('Hellenic', 'Olympic')"
+4471,"('Olympic', 'Committee')"
+4472,"('Hellenic', 'Olympic', 'Committee')"
+4473,February
+4474,Whatever
+4475,Court
+4476,Arbitration
+4477,Sport
+4478,Greek
+4479,Olympic
+4480,Athens
+4481,Games
+4482,Greek
+4483,"('Yiannis', 'Papadoyiannakis')"
+4484,"('Greek', 'Olympic')"
+4485,"('Athens', 'Games')"
+4486,Papadoyiannakis
+4487,Whatever
+4488,Kenteris
+4489,Sydney
+4490,Olympics
+4491,Thanou
+4492,"('Sydney', 'Olympics')"
+4493,Athens
+4494,Games
+4495,August
+4496,"('Athens', 'Games')"
+4497,Hellenic
+4498,Association
+4499,Amateur
+4500,Athletics
+4501,Kenteris
+4502,Thanou
+4503,Tel
+4504,Aviv
+4505,Chicago
+4506,Games
+4507,"('Hellenic', 'Association')"
+4508,"('Amateur', 'Athletics')"
+4509,"('Tel', 'Aviv')"
+4510,Tzekos
+4511,IAAF
+4512,Greek
+4513,December
+4514,IAAF
+4515,Kenteris
+4516,BBC
+4517,Sport
+4518,"('Gregory', 'Ioannidis')"
+4519,"('BBC', 'Sport')"
+4520,Gallas
+4521,Chelsea
+4522,Arsenal
+4523,Premiership
+4524,"('William', 'Gallas')"
+4525,BBC
+4526,Sport
+4527,"('BBC', 'Sport')"
+4528,Arsenal
+4529,Chelsea
+4530,Gallas
+4531,Manchester
+4532,United
+4533,"('Manchester', 'United')"
+4534,Obviously
+4535,Chelsea
+4536,Arsenal
+4537,Gallas
+4538,"('Jose', 'Mourinho')"
+4539,French
+4540,Mourinho
+4541,Chelsea
+4542,Chelsea
+4543,Mourinho
+4544,Another
+4545,Mourinho
+4546,Mourinho
+4547,Lennon
+4548,Rangers
+4549,Celtic
+4550,Rangers
+4551,Old
+4552,Firm
+4553,CIS
+4554,Cup
+4555,"('Neil', 'Lennon')"
+4556,"('Old', 'Firm')"
+4557,"('Firm', 'CIS')"
+4558,"('CIS', 'Cup')"
+4559,"('Old', 'Firm', 'CIS')"
+4560,"('Firm', 'CIS', 'Cup')"
+4561,Lennon
+4562,Rangers
+4563,Celtic
+4564,Rangers
+4565,Evening
+4566,Times
+4567,"('Evening', 'Times')"
+4568,Without
+4569,Europe
+4570,Considering
+4571,"('Henrik', 'Larsson')"
+4572,Chepkemei
+4573,Kenya
+4574,London
+4575,Marathon
+4576,"('London', 'Marathon')"
+4577,"('Susan', 'Chepkemei')"
+4578,Athletics
+4579,Kenya
+4580,AK
+4581,Chepkemei
+4582,Embu
+4583,"('Athletics', 'Kenya')"
+4584,AK
+4585,"('Isaiah', 'Kiplagat')"
+4586,IAAF
+4587,London
+4588,New
+4589,York
+4590,Marathon
+4591,"('Paula', 'Radcliffe')"
+4592,"('New', 'York')"
+4593,"('York', 'Marathon')"
+4594,"('New', 'York', 'Marathon')"
+4595,Radcliffe
+4596,London
+4597,April
+4598,Global
+4599,Sports
+4600,Communications
+4601,Chepkemei
+4602,World
+4603,Cross
+4604,Country
+4605,Championships
+4606,March
+4607,"('Global', 'Sports')"
+4608,"('Sports', 'Communications')"
+4609,"('World', 'Cross')"
+4610,"('Cross', 'Country')"
+4611,"('Country', 'Championships')"
+4612,"('Global', 'Sports', 'Communications')"
+4613,"('World', 'Cross', 'Country')"
+4614,"('Cross', 'Country', 'Championships')"
+4615,AK
+4616,Chepkemei
+4617,Kenyan
+4618,Kiplagat
+4619,KA
+4620,"('Edith', 'Masai')"
+4621,Masai
+4622,February
+4623,Off-colour
+4624,Gardener
+4625,Britain
+4626,Sunday
+4627,Leipzig
+4628,International
+4629,"('Jason', 'Gardener')"
+4630,"('Leipzig', 'International')"
+4631,Gardener
+4632,Germany
+4633,"('Marc', 'Blume')"
+4634,Sunday
+4635,Gardener
+4636,Great
+4637,Britain
+4638,Athens
+4639,Olympics
+4640,Norwich
+4641,Union
+4642,European
+4643,Indoor
+4644,Sheffield
+4645,"('Great', 'Britain')"
+4646,"('Athens', 'Olympics')"
+4647,"('Norwich', 'Union')"
+4648,"('Union', 'European')"
+4649,"('European', 'Indoor')"
+4650,"('Norwich', 'Union', 'European')"
+4651,"('Union', 'European', 'Indoor')"
+4652,Given
+4653,Scotland
+4654,Leipzig
+4655,"('Ian', 'Mackie')"
+4656,Germany
+4657,Dutchman
+4658,Patrick
+4659,Balkom
+4660,"('Alexander', 'Kosenkow')"
+4661,British
+4662,Promising
+4663,UK
+4664,Norway
+4665,AAA
+4666,"('Diane', 'Allahgreen')"
+4667,Olympic
+4668,Games
+4669,Ghent
+4670,"('Olympic', 'Games')"
+4671,Brazilian
+4672,Jadel
+4673,Gregorio
+4674,European
+4675,Indoor
+4676,Championships
+4677,"('Jadel', 'Gregorio')"
+4678,"('European', 'Indoor')"
+4679,"('Indoor', 'Championships')"
+4680,"('European', 'Indoor', 'Championships')"
+4681,European
+4682,France
+4683,Belgium
+4684,"('Christine', 'Arron')"
+4685,"('Kim', 'Gevaert')"
+4686,Britain
+4687,"('Joice', 'Maduaka')"
+4688,Olympic
+4689,Birmingham
+4690,Roddick
+4691,Saulnier
+4692,SAP
+4693,Open
+4694,San
+4695,Jose
+4696,Sunday
+4697,"('Andy', 'Roddick')"
+4698,"('Cyril', 'Saulnier')"
+4699,"('SAP', 'Open')"
+4700,"('San', 'Jose')"
+4701,American
+4702,Germany
+4703,"('Tommy', 'Haas')"
+4704,Roddick
+4705,Saulnier
+4706,"('Jurgen', 'Melzer')"
+4707,Roddick
+4708,Haas
+4709,Haas
+4710,Saulnier
+4711,Sometimes
+4712,Wenger
+4713,Arsenal
+4714,May
+4715,"('Arsene', 'Wenger')"
+4716,Wenger
+4717,Arsenal
+4718,Signing
+4719,Arsenal
+4720,Frenchman
+4721,Arsenal
+4722,Wenger
+4723,FA
+4724,Cup
+4725,"('FA', 'Cup')"
+4726,Chairman
+4727,Arsene
+4728,"('Peter', 'Hill-Wood')"
+4729,Since
+4730,Arsene
+4731,Arsene
+4732,Meanwhile
+4733,Arsenal
+4734,Wenger
+4735,"('Danny', 'Fiszman')"
+4736,Fiszman
+4737,Benitez
+4738,Gerrard
+4739,Liverpool
+4740,Champions
+4741,League
+4742,"('Rafael', 'Benitez')"
+4743,"('Steven', 'Gerrard')"
+4744,"('Champions', 'League')"
+4745,Gerrard
+4746,BBC
+4747,Liverpool
+4748,"('BBC', 'Liverpool')"
+4749,Benitez
+4750,Steven
+4751,Champions
+4752,League
+4753,"('Champions', 'League')"
+4754,Benitez
+4755,Benitez
+4756,Liverpool
+4757,Valencia
+4758,Chelsea
+4759,Carling
+4760,Cup
+4761,Sunday
+4762,Cardiff
+4763,"('Carling', 'Cup')"
+4764,Adriano
+4765,Chelsea
+4766,Adriano
+4767,Chelsea
+4768,"('Gilmar', 'Rinaldi')"
+4769,Chelsea
+4770,Inter
+4771,Milan
+4772,Brazilian
+4773,"('Inter', 'Milan')"
+4774,Rinaldi
+4775,BBC
+4776,Sport
+4777,Rio
+4778,Janeiro
+4779,Chelsea
+4780,Adriano
+4781,"('BBC', 'Sport')"
+4782,Parma
+4783,Real
+4784,Madrid
+4785,"('Real', 'Madrid')"
+4786,Adriano
+4787,Serie
+4788,Chelsea
+4789,Milan
+4790,Adriano
+4791,Arsenal
+4792,"('Jose', 'Mourinho')"
+4793,"('Ashley', 'Cole')"
+4794,Mourinho
+4795,Portuguese
+4796,Rinaldi
+4797,BBC
+4798,Sport
+4799,Chelsea
+4800,London
+4801,"('BBC', 'Sport')"
+4802,Chelsea
+4803,Inter
+4804,Adriano
+4805,Parma
+4806,Real
+4807,Madrid
+4808,Ronaldo
+4809,"('Real', 'Madrid')"
+4810,Rinaldi
+4811,Inter
+4812,Adriano
+4813,Chelsea
+4814,Barcelona
+4815,Chelsea
+4816,Uefa
+4817,"('Henk', 'Ten', 'Cate')"
+4818,Blues
+4819,Wednesday
+4820,Nou
+4821,Camp
+4822,"('Nou', 'Camp')"
+4823,Chelsea
+4824,Barca
+4825,"('Frank', 'Rijkaard')"
+4826,"('Anders', 'Frisk')"
+4827,"('Didier', 'Drogba')"
+4828,Chelsea
+4829,Mourinho
+4830,"('Ten', 'Cate')"
+4831,Uefa
+4832,Spokesman
+4833,Frisk
+4834,Rijkaard
+4835,"('William', 'Gaillard')"
+4836,Uefa
+4837,Indeed
+4838,Londoners
+4839,Uefa
+4840,Chelsea
+4841,"('Thomas', 'Giordano')"
+4842,Uefa
+4843,Chelsea
+4844,Rijkaard
+4845,Mourinho
+4846,Maybe
+4847,Barca
+4848,Deco
+4849,Mourinho
+4850,Porto
+4851,Portuguese
+4852,Rijkaard
+4853,Chelsea
+4854,English
+4855,FA
+4856,FA
+4857,Wednesday
+4858,Carling
+4859,Cup
+4860,Chelsea
+4861,West
+4862,Ham
+4863,"('Carling', 'Cup')"
+4864,"('West', 'Ham')"
+4865,Police
+4866,West
+4867,Ham
+4868,Blues
+4869,"('West', 'Ham')"
+4870,Chelsea
+4871,"('Mateja', 'Kezman')"
+4872,Chelsea
+4873,Kezman
+4874,Chelsea
+4875,"('Steve', 'Clarke')"
+4876,West
+4877,Ham
+4878,English
+4879,"('West', 'Ham')"
+4880,"('Alan', 'Pardew')"
+4881,Former
+4882,Hammers
+4883,"('Former', 'Hammers')"
+4884,"('Joe', 'Cole')"
+4885,"('Frank', 'Lampard')"
+4886,Lampard
+4887,Hammers
+4888,Upton
+4889,Park
+4890,"('Upton', 'Park')"
+4891,FA
+4892,Police
+4893,West
+4894,Ham
+4895,"('West', 'Ham')"
+4896,"('Matthew', 'Harding')"
+4897,Fans
+4898,Scotland
+4899,Yard
+4900,"('Scotland', 'Yard')"
+4901,FA
+4902,Tuesday
+4903,Carling
+4904,Cup
+4905,Millwall
+4906,Liverpool
+4907,"('Carling', 'Cup')"
+4908,Mourinho
+4909,Chelsea
+4910,Champions
+4911,League
+4912,Barcelona
+4913,"('Jose', 'Mourinho')"
+4914,"('Champions', 'League')"
+4915,Mourinho
+4916,Nou
+4917,Camp
+4918,"('Nou', 'Camp')"
+4919,Champions
+4920,League
+4921,"('Champions', 'League')"
+4922,Mourinho
+4923,Barcelona
+4924,Sir
+4925,Louis
+4926,Gaal
+4927,"('Bobby', 'Robson')"
+4928,Barcelona
+4929,European
+4930,Cup
+4931,"('European', 'Cup')"
+4932,Champions
+4933,League
+4934,"('Champions', 'League')"
+4935,Barcelona
+4936,Ronaldinho
+4937,Chelsea
+4938,Chelsea
+4939,Europe
+4940,Nevertheless
+4941,Barcelona
+4942,Nou
+4943,Camp
+4944,Real
+4945,Madrid
+4946,"('Nou', 'Camp')"
+4947,"('Real', 'Madrid')"
+4948,Ronaldinho
+4949,Hansen
+4950,British
+4951,"('Ashia', 'Hansen')"
+4952,Hansen
+4953,Commonwealth
+4954,European
+4955,European
+4956,Cup
+4957,Poland
+4958,June
+4959,"('European', 'Cup')"
+4960,Times
+4961,"('Aston', 'Moore')"
+4962,Moore
+4963,Hansen
+4964,Moore
+4965,Hansen
+4966,Commonwealth
+4967,Games
+4968,Melbourne
+4969,March
+4970,"('Commonwealth', 'Games')"
+4971,Athens
+4972,Well
+4973,Olympic
+4974,Athens
+4975,Obviously
+4976,"('Kelly', 'Holmes')"
+4977,"('Paula', 'Radcliffe')"
+4978,One
+4979,Olympic
+4980,Kelly
+4981,Winning
+4982,Kelly
+4983,Athens
+4984,Athens
+4985,British
+4986,Games
+4987,"('Jason', 'Gardener')"
+4988,"('Darren', 'Campbell')"
+4989,"('Marlon', 'Devonish')"
+4990,"('Mark', 'Lewis-Francis')"
+4991,Olympic
+4992,Kelly
+4993,"('Hicham', 'El', 'Guerrouj')"
+4994,African
+4995,"('Roger', 'Bannister')"
+4996,Hicham
+4997,French
+4998,English
+4999,Paula
+5000,Athens
+5001,Athens
+5002,Dropping
+5003,Paula
+5004,Things
+5005,Athens
+5006,Paula
+5007,Olympics
+5008,Purely
+5009,Paula
+5010,New
+5011,York
+5012,Marathon
+5013,"('New', 'York')"
+5014,"('York', 'Marathon')"
+5015,"('New', 'York', 'Marathon')"
+5016,Kenya
+5017,"('Susan', 'Chepkemei')"
+5018,Paula
+5019,Kelly
+5020,British
+5021,"('Michael', 'East')"
+5022,British
+5023,Italy
+5024,Team
+5025,GB
+5026,"('Dani', 'Barnes')"
+5027,"('Team', 'GB')"
+5028,Beijing
+5029,Olympics
+5030,"('Beijing', 'Olympics')"
+5031,March
+5032,"('Benita', 'Johnson')"
+5033,Paula
+5034,African
+5035,Australian
+5036,Balco
+5037,Balco
+5038,Greek
+5039,Kenteris
+5040,"('Kostas', 'Kenteris')"
+5041,"('Katerina', 'Thanou')"
+5042,Merritt
+5043,Teenager
+5044,Fayetteville
+5045,Invitational
+5046,"('LaShawn', 'Merritt')"
+5047,"('Fayetteville', 'Invitational')"
+5048,American
+5049,Arkansas
+5050,"('Bershawn', 'Jackson')"
+5051,"('Michael', 'Johnson')"
+5052,Kenyan
+5053,Canada
+5054,"('Bernard', 'Lagat')"
+5055,"('Nate', 'Brannen')"
+5056,Olympic
+5057,Moroccan
+5058,Ireland
+5059,"('Eamonn', 'Coghlan')"
+5060,"('Hicham', 'El', 'Guerrouj')"
+5061,Lagat
+5062,"('El', 'Guerrouj')"
+5063,Ireland
+5064,Cragg
+5065,Olympic
+5066,Boston
+5067,Ethiopian
+5068,"('Kenenisa', 'Bekele')"
+5069,"('Markos', 'Geneti')"
+5070,Cragg
+5071,European
+5072,Indoor
+5073,Championships
+5074,"('Mark', 'Carroll')"
+5075,"('European', 'Indoor')"
+5076,"('Indoor', 'Championships')"
+5077,"('European', 'Indoor', 'Championships')"
+5078,Olympic
+5079,Jamaica
+5080,World
+5081,Irish
+5082,Athletics
+5083,Year
+5084,Irish
+5085,"('Irish', 'Athletics')"
+5086,"('Athletics', 'Year')"
+5087,"('Irish', 'Athletics', 'Year')"
+5088,Olympiad
+5089,August
+5090,Athens
+5091,Irish
+5092,Olympic
+5093,Irish
+5094,"('Sonia', ""O'Sullivan"")"
+5095,O'Sullivan
+5096,Ireland
+5097,Gillian
+5098,Less
+5099,Olympics
+5100,EPO
+5101,"('Cathal', 'Lombard')"
+5102,Lombard
+5103,April
+5104,Irish
+5105,Sports
+5106,Council
+5107,"('Mark', 'Carroll')"
+5108,"('Irish', 'Sports')"
+5109,"('Sports', 'Council')"
+5110,"('Irish', 'Sports', 'Council')"
+5111,Corkman
+5112,Back
+5113,Greece
+5114,Athens
+5115,"('Jamie', 'Costin')"
+5116,Athens
+5117,European
+5118,"('Alistair', 'Cragg')"
+5119,Sonia
+5120,"('Meseret', 'Defar')"
+5121,Sonia
+5122,Cobhwoman
+5123,Amazingly
+5124,Flora
+5125,Lite
+5126,London
+5127,"('Flora', 'Lite')"
+5128,Sonia
+5129,Athens
+5130,Northern
+5131,Ireland
+5132,Games
+5133,August
+5134,"('Northern', 'Ireland')"
+5135,"('Paul', 'Brizzel')"
+5136,Ballymena
+5137,Athens
+5138,"('James', 'McIlroy')"
+5139,"('Gareth', 'Turnbull')"
+5140,"('Zoe', 'Brown')"
+5141,"('Paul', 'McKee')"
+5142,McIlroy
+5143,British
+5144,Turnbull
+5145,Europe
+5146,McKee
+5147,Athens
+5148,Turnbull
+5149,Pole
+5150,Brown
+5151,British
+5152,Athens
+5153,B
+5154,"('Athens', 'B')"
+5155,"('Catherina', 'McKiernan')"
+5156,"('Dermot', 'Donnelly')"
+5157,McKiernan
+5158,Donnelly
+5159,December
+5160,"('Annadale', 'Striders')"
+5161,"('Andy', 'Campbell')"
+5162,Belfast
+5163,Campbell
+5164,Andy
+5165,Celtic
+5166,Bellamy
+5167,Newcastle
+5168,Celtic
+5169,BBC
+5170,Sport
+5171,"('Craig', 'Bellamy')"
+5172,"('BBC', 'Sport')"
+5173,Welsh
+5174,Birmingham
+5175,Magpies
+5176,"('Graeme', 'Souness')"
+5177,Toon
+5178,Bellamy
+5179,Arsenal
+5180,Celtic
+5181,Birmingham
+5182,Bellamy
+5183,According
+5184,Bellamy
+5185,Birmingham
+5186,Newcastle
+5187,Premiership
+5188,Bellamy
+5189,TV
+5190,Souness
+5191,Bellamy
+5192,Souness
+5193,Chairman
+5194,Bellamy
+5195,"('Freddy', 'Shepherd')"
+5196,Real
+5197,Gravesen
+5198,Real
+5199,Madrid
+5200,Everton
+5201,Dane
+5202,Spain
+5203,"('Real', 'Madrid')"
+5204,"('Thomas', 'Gravesen')"
+5205,BBC
+5206,Sport
+5207,Real
+5208,"('John', 'Sivabaek')"
+5209,"('BBC', 'Sport')"
+5210,Nothing
+5211,Real
+5212,Sivabaek
+5213,Real
+5214,Wednesday
+5215,Everton
+5216,Everton
+5217,Denmark
+5218,Manager
+5219,Gravesen
+5220,Everton
+5221,January
+5222,"('David', 'Moyes')"
+5223,Moyes
+5224,Tommy
+5225,Real
+5226,Madrid
+5227,Gravesen
+5228,Bernabeu
+5229,"('Real', 'Madrid')"
+5230,"('Arrigo', 'Sacchi')"
+5231,"('Emilio', 'Butragueno')"
+5232,"('Wanderley', 'Luxemburgo')"
+5233,Everton
+5234,Real
+5235,European
+5236,Gravesen
+5237,Everton
+5238,Premiership
+5239,Souness
+5240,Euro
+5241,Boss
+5242,Newcastle
+5243,Uefa
+5244,Cup
+5245,Heerenveen
+5246,"('Graeme', 'Souness')"
+5247,"('Uefa', 'Cup')"
+5248,Uefa
+5249,Cup
+5250,"('Alan', 'Shearer')"
+5251,"('Uefa', 'Cup')"
+5252,Obviously
+5253,Shearer
+5254,Magpies
+5255,"('Jackie', 'Milburn')"
+5256,Souness
+5257,Souness
+5258,United
+5259,"('Laurent', 'Robert')"
+5260,Jol
+5261,Cup
+5262,Tottenham
+5263,FA
+5264,Cup
+5265,Nottingham
+5266,Forest
+5267,"('Martin', 'Jol')"
+5268,"('FA', 'Cup')"
+5269,"('Nottingham', 'Forest')"
+5270,Dutchman
+5271,Forest
+5272,Looking
+5273,Jol
+5274,Newcastle
+5275,However
+5276,Magpies
+5277,Premiership
+5278,"('Robbie', 'Keane')"
+5279,Forest
+5280,Mido
+5281,"('Noe', 'Pamarot')"
+5282,Irishman
+5283,Forest
+5284,"('Gary', 'Megson')"
+5285,Championship
+5286,Downing
+5287,Uefa
+5288,Middlesbrough
+5289,Uefa
+5290,Cup
+5291,Graz
+5292,AK
+5293,"('Steve', 'McClaren')"
+5294,"('Stewart', 'Downing')"
+5295,"('Uefa', 'Cup')"
+5296,"('Graz', 'AK')"
+5297,Boro
+5298,McClaren
+5299,Stewart
+5300,McClaren
+5301,Riverside
+5302,Graz
+5303,Boro
+5304,Sporting
+5305,Lisbon
+5306,Portuguese
+5307,Feyenoord
+5308,Thursday
+5309,"('Sporting', 'Lisbon')"
+5310,McClaren
+5311,Sporting
+5312,Portuguese
+5313,Goalscorer
+5314,"('Jimmy', 'Floyd', 'Hasselbaink')"
+5315,Holland
+5316,Portugal
+5317,Boavista
+5318,Redknapp
+5319,Saints
+5320,Pompey
+5321,New
+5322,Southampton
+5323,Portsmouth
+5324,FA
+5325,Cup
+5326,"('New', 'Southampton')"
+5327,"('Harry', 'Redknapp')"
+5328,"('FA', 'Cup')"
+5329,Exeter
+5330,City
+5331,Middlesbrough
+5332,Manchester
+5333,United
+5334,"('Exeter', 'City')"
+5335,"('Manchester', 'United')"
+5336,Oldham
+5337,Manchester
+5338,City
+5339,Bolton
+5340,Yeovil
+5341,Charlton
+5342,"('Manchester', 'City')"
+5343,Chelsea
+5344,Birmingham
+5345,Tottenham
+5346,West
+5347,Brom
+5348,Arsenal
+5349,Championship
+5350,Wolves
+5351,"('West', 'Brom')"
+5352,Saints
+5353,Redknapp
+5354,Portsmouth
+5355,Redknapp
+5356,Maybe
+5357,Birmingham
+5358,Stamford
+5359,Bridge
+5360,Premiership
+5361,Chelsea
+5362,"('Steve', 'Bruce')"
+5363,"('Stamford', 'Bridge')"
+5364,Bruce
+5365,Chelsea
+5366,Brentford
+5367,Hartlepool
+5368,Boston
+5369,"('Martin', 'Allen')"
+5370,However
+5371,Allen
+5372,Meanwhile
+5373,BBC
+5374,Exeter
+5375,Man
+5376,Utd
+5377,Wednesday
+5378,January
+5379,BBC
+5380,One
+5381,"('Man', 'Utd')"
+5382,"('BBC', 'One')"
+5383,Stuart
+5384,Norwich
+5385,Addicks
+5386,Norwich
+5387,Charlton
+5388,"('Addicks', 'Norwich')"
+5389,"('Graham', 'Stuart')"
+5390,Norwich
+5391,Premiership
+5392,Canaries
+5393,Graham
+5394,"('Nigel', 'Worthington')"
+5395,Hopefully
+5396,Premier
+5397,League
+5398,"('Premier', 'League')"
+5399,Stuart
+5400,Everton
+5401,Chelsea
+5402,Charlton
+5403,Norwich
+5404,Premiership
+5405,Stuart
+5406,Carrow
+5407,Road
+5408,"('Carrow', 'Road')"
+5409,Carrow
+5410,Road
+5411,"('Carrow', 'Road')"
+5412,Stuart
+5413,England
+5414,Under-21
+5415,Chelsea
+5416,Everton
+5417,"('England', 'Under-21')"
+5418,FA
+5419,Cup
+5420,Toffees
+5421,Goodison
+5422,Park
+5423,Wimbledon
+5424,Everton
+5425,"('FA', 'Cup')"
+5426,"('Goodison', 'Park')"
+5427,Stuart
+5428,Goodison
+5429,Park
+5430,Sheffield
+5431,United
+5432,"('Goodison', 'Park')"
+5433,"('Sheffield', 'United')"
+5434,Charlton
+5435,Londoners
+5436,Norwich
+5437,London
+5438,Chepkemei
+5439,London
+5440,Marathon
+5441,April
+5442,"('London', 'Marathon')"
+5443,"('Susan', 'Chepkemei')"
+5444,Chepkemei
+5445,Athletics
+5446,Kenya
+5447,"('Athletics', 'Kenya')"
+5448,London
+5449,"('David', 'Bedford')"
+5450,Embu
+5451,IAAF
+5452,World
+5453,Cross
+5454,Country
+5455,Championships
+5456,"('IAAF', 'World')"
+5457,"('World', 'Cross')"
+5458,"('Cross', 'Country')"
+5459,"('Country', 'Championships')"
+5460,"('IAAF', 'World', 'Cross')"
+5461,"('World', 'Cross', 'Country')"
+5462,"('Cross', 'Country', 'Championships')"
+5463,Chepkemei
+5464,Sunday
+5465,Puerto
+5466,Rico
+5467,"('Puerto', 'Rico')"
+5468,London
+5469,November
+5470,New
+5471,York
+5472,City
+5473,"('Paula', 'Radcliffe')"
+5474,"('New', 'York')"
+5475,"('York', 'City')"
+5476,"('New', 'York', 'City')"
+5477,Wenger
+5478,Arsenal
+5479,"('Arsene', 'Wenger')"
+5480,"('Manuel', 'Almunia')"
+5481,Almunia
+5482,Tuesday
+5483,Champions
+5484,League
+5485,Rosenborg
+5486,Chelsea
+5487,Sunday
+5488,"('Champions', 'League')"
+5489,Wenger
+5490,Wenger
+5491,Spaniard
+5492,Celta
+5493,Vigo
+5494,"('Celta', 'Vigo')"
+5495,"('Jens', 'Lehmann')"
+5496,Kanu
+5497,"('Dennis', 'Bergkamp')"
+5498,Old
+5499,Trafford
+5500,Birmingham
+5501,"('Old', 'Trafford')"
+5502,Lehmann
+5503,Almunia
+5504,Lehmann
+5505,Arsenal
+5506,Lehmann
+5507,"('David', 'Seaman')"
+5508,Seaman
+5509,Daily
+5510,Mail
+5511,Jens
+5512,"('Daily', 'Mail')"
+5513,Arsenal
+5514,Rosenborg
+5515,Wenger
+5516,"('Mathieu', 'Flamini')"
+5517,"('Cesc', 'Fabregas')"
+5518,Wenger
+5519,Gunners
+5520,"('Sol', 'Campbell')"
+5521,Champions
+5522,League
+5523,Arsenal
+5524,"('Champions', 'League')"
+5525,Campbell
+5526,Europe
+5527,Meanwhile
+5528,Arsenal
+5529,Champions
+5530,League
+5531,"('Thierry', 'Henry')"
+5532,"('Champions', 'League')"
+5533,Henry
+5534,Gunners
+5535,Rosenborg
+5536,"('Patrick', 'Vieira')"
+5537,Redknapp
+5538,Saints
+5539,Southampton
+5540,GMT
+5541,Wednesday
+5542,"('Saints', 'Southampton')"
+5543,"('Harry', 'Redknapp')"
+5544,Portsmouth
+5545,"('Steve', 'Wigley')"
+5546,Redknapp
+5547,Fratton
+5548,Park
+5549,November
+5550,"('Fratton', 'Park')"
+5551,Pompey
+5552,Redknapp
+5553,Saints
+5554,"('Kevin', 'Bond')"
+5555,Redknapp
+5556,Middlesbrough
+5557,Saturday
+5558,Portsmouth
+5559,Redknapp
+5560,Southampton
+5561,"('Milan', 'Mandaric')"
+5562,Mandaric
+5563,Portsmouth
+5564,Southampton
+5565,According
+5566,Mandaric
+5567,Redknapp
+5568,South
+5569,Portsmouth
+5570,Harry
+5571,Southampton
+5572,Harry
+5573,Redknapp
+5574,Portsmouth
+5575,Premiership
+5576,Mandaric
+5577,"('Velimir', 'Zajec')"
+5578,Southampton
+5579,Wigley
+5580,St
+5581,Mary
+5582,"('Rupert', 'Lowe')"
+5583,"('Paul', 'Sturrock')"
+5584,"('St', 'Mary')"
+5585,Wigley
+5586,Southampton
+5587,Redknapp
+5588,Saints
+5589,Hearts
+5590,Oak
+5591,Cotonsport
+5592,Hearts
+5593,Oak
+5594,Ghanaian
+5595,Confederation
+5596,Cup
+5597,Cameroon
+5598,Cotonsport
+5599,Garoua
+5600,Accra
+5601,Sunday
+5602,"('Cotonsport', 'Hearts')"
+5603,"('Ghanaian', 'Confederation')"
+5604,"('Confederation', 'Cup')"
+5605,"('Cotonsport', 'Garoua')"
+5606,"('Ghanaian', 'Confederation', 'Cup')"
+5607,Hearts
+5608,Asante
+5609,Kotoko
+5610,Kumasi
+5611,Group
+5612,Saturday
+5613,"('Asante', 'Kotoko')"
+5614,Group
+5615,B
+5616,Cameroon
+5617,South
+5618,Africa
+5619,Douala
+5620,"('Group', 'B')"
+5621,"('South', 'Africa')"
+5622,Hearts
+5623,Oak
+5624,Cotonsport
+5625,Hearts
+5626,"('Louis', 'Agyemang')"
+5627,Hearts
+5628,Cotonsport
+5629,First
+5630,"('Boukar', 'Makaji')"
+5631,"('Andre', 'Nzame', 'III')"
+5632,Cameroonians
+5633,Hearts
+5634,Accra
+5635,November
+5636,December
+5637,Kumasi
+5638,Group
+5639,B
+5640,Cameroon
+5641,Sable
+5642,Batie
+5643,Kemadjou
+5644,Santos
+5645,"('Group', 'B')"
+5646,"('Sable', 'Batie')"
+5647,"('Thokozani', 'Xaba')"
+5648,Sable
+5649,"('Bernard', 'Ngom')"
+5650,"('Ernest', 'Nfor')"
+5651,South
+5652,African
+5653,"('Ruben', 'Cloete')"
+5654,"('South', 'African')"
+5655,Hereford
+5656,Doncaster
+5657,Hereford
+5658,"('Doncaster', 'Hereford')"
+5659,Rovers
+5660,"('Michael', 'McIndoe')"
+5661,"('Adriano', 'Rigoglioso')"
+5662,"('Danny', 'Williams')"
+5663,McIndoe
+5664,Mills
+5665,Mourinho
+5666,FA
+5667,Chelsea
+5668,Football
+5669,Association
+5670,Carling
+5671,Cup
+5672,Manchester
+5673,United
+5674,"('Jose', 'Mourinho')"
+5675,"('Football', 'Association')"
+5676,"('Carling', 'Cup')"
+5677,"('Manchester', 'United')"
+5678,Mourinho
+5679,United
+5680,Sir
+5681,"('Alex', 'Ferguson')"
+5682,"('Neale', 'Barry')"
+5683,FA
+5684,BBC
+5685,Sport
+5686,Mourinho
+5687,"('BBC', 'Sport')"
+5688,Mourinho
+5689,Ferguson
+5690,Barry
+5691,Mourinho
+5692,FA
+5693,Maybe
+5694,Referees
+5695,Mourinho
+5696,Ferguson
+5697,Barry
+5698,Blues
+5699,"('Keith', 'Hackett')"
+5700,Hackett
+5701,Sometimes
+5702,Mourinho
+5703,Mourinho
+5704,Manchester
+5705,United
+5706,"('Manchester', 'United')"
+5707,Holmes
+5708,Double
+5709,Olympic
+5710,European
+5711,Athletics
+5712,EAA
+5713,"('Double', 'Olympic')"
+5714,"('Kelly', 'Holmes')"
+5715,"('European', 'Athletics')"
+5716,Briton
+5717,New
+5718,Year
+5719,Honours
+5720,List
+5721,EAA
+5722,"('New', 'Year')"
+5723,"('Year', 'Honours')"
+5724,"('Honours', 'List')"
+5725,"('New', 'Year', 'Honours')"
+5726,"('Year', 'Honours', 'List')"
+5727,British
+5728,"('Sally', 'Gunnell')"
+5729,Swedish
+5730,"('Christian', 'Olsson')"
+5731,Holmes
+5732,Athens
+5733,BBC
+5734,Sports
+5735,Personality
+5736,Year
+5737,December
+5738,"('BBC', 'Sports')"
+5739,"('Sports', 'Personality')"
+5740,"('BBC', 'Sports', 'Personality')"
+5741,International
+5742,Association
+5743,Athletics
+5744,Federations
+5745,"('International', 'Association')"
+5746,"('Athletics', 'Federations')"
+5747,British
+5748,Athletics
+5749,Writers
+5750,Association
+5751,October
+5752,"('British', 'Athletics')"
+5753,"('Athletics', 'Writers')"
+5754,"('British', 'Athletics', 'Writers')"
+5755,Greek
+5756,IAAF
+5757,Greek
+5758,Athens
+5759,Olympics
+5760,"('IAAF', 'Greek')"
+5761,"('Kostas', 'Kenteris')"
+5762,"('Katerina', 'Thanou')"
+5763,"('Athens', 'Olympics')"
+5764,Athletics
+5765,IAAF
+5766,Kenteris
+5767,Thanou
+5768,Greek
+5769,Athletics
+5770,Federation
+5771,"('Greek', 'Athletics')"
+5772,"('Athletics', 'Federation')"
+5773,"('Greek', 'Athletics', 'Federation')"
+5774,"('Christos', 'Tzekos')"
+5775,Kenteris
+5776,Olympic
+5777,Thanou
+5778,Games
+5779,Sydney
+5780,Greece
+5781,Chicago
+5782,Tel
+5783,Aviv
+5784,Athens
+5785,Games
+5786,Athens
+5787,August
+5788,"('Tel', 'Aviv')"
+5789,"('Athens', 'Games')"
+5790,Greek
+5791,Wednesday
+5792,Greek
+5793,Federation
+5794,SEGAS
+5795,"('Greek', 'Federation')"
+5796,Greek
+5797,Federation
+5798,Court
+5799,Arbitration
+5800,Sport
+5801,IAAF
+5802,"('Greek', 'Federation')"
+5803,Tzekos
+5804,IAAF
+5805,SEGAS
+5806,SA
+5807,Mauritius
+5808,Top
+5809,South
+5810,Africa
+5811,Seychelles
+5812,Cosafa
+5813,Cup
+5814,"('Mauritius', 'Top')"
+5815,"('South', 'Africa')"
+5816,"('Cosafa', 'Cup')"
+5817,Last
+5818,Bafana
+5819,Bafana
+5820,Mauritius
+5821,Curepipe
+5822,"('Bafana', 'Bafana')"
+5823,Coach
+5824,Curepipe
+5825,Seychelles
+5826,"('Stuart', 'Baxter')"
+5827,Seychelles
+5828,Mauritius
+5829,Madagascar
+5830,Seychelles
+5831,South
+5832,Africa
+5833,"('South', 'Africa')"
+5834,Bafana
+5835,Bafana
+5836,Seychelles
+5837,Mauritius
+5838,Madagascar
+5839,February
+5840,"('Bafana', 'Bafana')"
+5841,New
+5842,August
+5843,"('George', 'V')"
+5844,Namibia
+5845,April
+5846,Zimbabwe
+5847,Botswana
+5848,Mozambique
+5849,June
+5850,Zambia
+5851,Lesotho
+5852,Malawi
+5853,Swaziland
+5854,Lusaka
+5855,Angola
+5856,August
+5857,Rush
+5858,Chester
+5859,Chester
+5860,"('Ian', 'Rush')"
+5861,"('Mark', 'Aizlewood')"
+5862,Chester
+5863,League
+5864,Chairman
+5865,Liverpool
+5866,"('Steve', 'Vaughan')"
+5867,Vaughan
+5868,Vaughan
+5869,Aizlewood
+5870,Chester
+5871,Rush
+5872,August
+5873,Liverpool
+5874,Chester
+5875,Conference
+5876,"('Mark', 'Wright')"
+5877,Chester
+5878,League
+5879,Two
+5880,Rush
+5881,Liverpool
+5882,FA
+5883,October
+5884,"('League', 'Two')"
+5885,Chester
+5886,Shrewsbury
+5887,League
+5888,Two
+5889,"('League', 'Two')"
+5890,SFA
+5891,Mikoliunas
+5892,Scottish
+5893,Football
+5894,Association
+5895,Hearts
+5896,"('Scottish', 'Football')"
+5897,"('Football', 'Association')"
+5898,"('Hugh', 'Dallas')"
+5899,"('Saulius', 'Mikoliunas')"
+5900,"('Scottish', 'Football', 'Association')"
+5901,Mikoliunas
+5902,Dallas
+5903,Rangers
+5904,Hearts
+5905,Tynecastle
+5906,"('Andy', 'Davis')"
+5907,SFA
+5908,Hearts
+5909,Rangers
+5910,Hearts
+5911,"('Dad', 'Prso')"
+5912,"('Craig', 'Gordon')"
+5913,SFA
+5914,Prso
+5915,SFA
+5916,Mikoliunas
+5917,Southampton
+5918,Wednesday
+5919,English
+5920,FA
+5921,"('David', 'Prutton')"
+5922,"('English', 'FA')"
+5923,"('Alan', 'Wiley')"
+5924,Hearts
+5925,Mikoliunas
+5926,"('John', 'Robertson')"
+5927,Hearts
+5928,Rangers
+5929,Rangers
+5930,Dallas
+5931,Prso
+5932,"('Alex', 'McLeish')"
+5933,McLeish
+5934,Dado
+5935,"('Craig', 'Gordon')"
+5936,Hugh
+5937,Ferguson
+5938,Milan
+5939,Manchester
+5940,United
+5941,Sir
+5942,AC
+5943,Milan
+5944,"('Manchester', 'United')"
+5945,"('Alex', 'Ferguson')"
+5946,"('AC', 'Milan')"
+5947,"('Andriy', 'Shevchenko')"
+5948,Milan
+5949,European
+5950,Wednesday
+5951,Champions
+5952,League
+5953,"('Champions', 'League')"
+5954,Milan
+5955,Ferguson
+5956,Ferguson
+5957,Milan
+5958,Kaka
+5959,"('Rui', 'Costa')"
+5960,Serginho
+5961,Tomasson
+5962,"('Jon', 'Dahl')"
+5963,Ferguson
+5964,Ruud
+5965,Nistelrooy
+5966,Scot
+5967,Dutchman
+5968,Ruud
+5969,Europe
+5970,Ferguson
+5971,"('Wayne', 'Rooney')"
+5972,"('Cristiano', 'Ronaldo')"
+5973,Ronaldo
+5974,Rooney
+5975,"('Van', 'Nistelrooy')"
+5976,"('Roy', 'Keane')"
+5977,"('Paul', 'Scholes')"
+5978,"('Ryan', 'Giggs')"
+5979,Rooney
+5980,Milan
+5981,Milan
+5982,Looking
+5983,Hopefully
+5984,Turkey
+5985,Manchester
+5986,Milan
+5987,Europe
+5988,"('Carlo', 'Ancelotti')"
+5989,Milan
+5990,Juventus
+5991,Old
+5992,Trafford
+5993,Ancelotti
+5994,Old
+5995,Trafford
+5996,Champions
+5997,League
+5998,"('Old', 'Trafford')"
+5999,"('Old', 'Trafford')"
+6000,"('Champions', 'League')"
+6001,Ancelotti
+6002,United
+6003,Champions
+6004,League
+6005,"('Champions', 'League')"
+6006,Candela
+6007,Bolton
+6008,Bolton
+6009,Roma
+6010,"('Sam', 'Allardyce')"
+6011,"('Vincent', 'Candela')"
+6012,France
+6013,Roma
+6014,Monday
+6015,Bolton
+6016,Bolton
+6017,Candela
+6018,England
+6019,Tuesday
+6020,June
+6021,Bolton
+6022,Allardyce
+6023,Candela
+6024,Bolton
+6025,Oldham
+6026,Oldham
+6027,FA
+6028,Cup
+6029,Sunday
+6030,"('Nicky', 'Hunt')"
+6031,"('FA', 'Cup')"
+6032,Allardyce
+6033,"('Nicky', 'Hunt')"
+6034,World
+6035,Cup
+6036,"('World', 'Cup')"
+6037,Premiership
+6038,Candela
+6039,Roma
+6040,Luigi
+6041,Neri
+6042,Tottenham
+6043,Forest
+6044,Nottingham
+6045,Forest
+6046,Tottenham
+6047,"('Nottingham', 'Forest')"
+6048,"('Andy', 'Reid')"
+6049,"('Michael', 'Dawson')"
+6050,Reid
+6051,Southampton
+6052,Forest
+6053,Spurs
+6054,Spurs
+6055,Dawson
+6056,Forest
+6057,Spurs
+6058,"('Mark', 'Arthur')"
+6059,Southampton
+6060,Republic
+6061,Ireland
+6062,Reid
+6063,"('Brett', 'Ormerod')"
+6064,"('Darren', 'Kenton')"
+6065,Spurs
+6066,Reid
+6067,Championship
+6068,Bekele
+6069,Olympic
+6070,February
+6071,Norwich
+6072,Union
+6073,Grand
+6074,Prix
+6075,Birmingham
+6076,"('Kenenisa', 'Bekele')"
+6077,"('Norwich', 'Union')"
+6078,"('Union', 'Grand')"
+6079,"('Grand', 'Prix')"
+6080,"('Norwich', 'Union', 'Grand')"
+6081,"('Union', 'Grand', 'Prix')"
+6082,"('Haile', 'Gebrselassie')"
+6083,Bekele
+6084,Birmingham
+6085,Gebrselassie
+6086,Bekele
+6087,National
+6088,Indoor
+6089,Arena
+6090,"('National', 'Indoor')"
+6091,"('Indoor', 'Arena')"
+6092,"('National', 'Indoor', 'Arena')"
+6093,Ethiopian
+6094,Compatriots
+6095,Bekele
+6096,February
+6097,"('Mulugeta', 'Wondimu')"
+6098,"('Abiyote', 'Abate')"
+6099,"('Markos', 'Geneti')"
+6100,Olympic
+6101,Britain
+6102,"('Kelly', 'Holmes')"
+6103,Swedish
+6104,"('Carolina', 'Kluft')"
+6105,"('Jason', 'Gardener')"
+6106,"('Mark', 'Lewis-Francis')"
+6107,Collins
+6108,Sprinter
+6109,North
+6110,American
+6111,Court
+6112,Arbitration
+6113,Sport
+6114,CAS
+6115,"('Michelle', 'Collins')"
+6116,"('North', 'American')"
+6117,"('American', 'Court')"
+6118,"('North', 'American', 'Court')"
+6119,Balco
+6120,CAS
+6121,Collins
+6122,US
+6123,Anti-Doping
+6124,Agency
+6125,Balco
+6126,"('US', 'Anti-Doping')"
+6127,"('Anti-Doping', 'Agency')"
+6128,"('US', 'Anti-Doping', 'Agency')"
+6129,Collins
+6130,US
+6131,San
+6132,Francisco-based
+6133,Balco
+6134,"('San', 'Francisco-based')"
+6135,"('Francisco-based', 'Balco')"
+6136,"('San', 'Francisco-based', 'Balco')"
+6137,Hitzlsperger
+6138,O'Leary
+6139,Aston
+6140,Villa
+6141,"('Aston', 'Villa')"
+6142,"('Thomas', 'Hitzlsperger')"
+6143,"('David', ""O'Leary"")"
+6144,O'Leary
+6145,Thomas
+6146,Thomas
+6147,Thomas
+6148,Hitzlsperger
+6149,Midlands
+6150,German
+6151,Villa
+6152,Hamburg
+6153,O'Leary
+6154,O'Leary
+6155,Villa
+6156,"('Roy', 'Aitken')"
+6157,"('Steve', 'McGregor')"
+6158,Mourinho
+6159,Chelsea
+6160,Fulham
+6161,Premiership
+6162,"('Jose', 'Mourinho')"
+6163,One
+6164,Everton
+6165,Stamford
+6166,Bridge
+6167,Newcastle
+6168,Carling
+6169,Cup
+6170,Fulham
+6171,"('Stamford', 'Bridge')"
+6172,"('Carling', 'Cup')"
+6173,Mourinho
+6174,Mourinho
+6175,Champions
+6176,League
+6177,"('Champions', 'League')"
+6178,No-one
+6179,Mourinho
+6180,Mourinho
+6181,Champions
+6182,League
+6183,Porto
+6184,"('Champions', 'League')"
+6185,"('Arjen', 'Robben')"
+6186,Robben
+6187,"('Damien', 'Duff')"
+6188,"('Didier', 'Drogba')"
+6189,Chelsea
+6190,Ruud
+6191,Nistelrooy
+6192,Chelsea
+6193,Champions
+6194,League
+6195,"('Champions', 'League')"
+6196,Europe
+6197,Mourinho
+6198,Chelsea
+6199,Chelsea
+6200,Arsenal
+6201,Chelsea
+6202,Arsenal
+6203,Spurs
+6204,Mourinho
+6205,Five-four
+6206,Arsenal
+6207,"('Sol', 'Campbell')"
+6208,Much
+6209,Campbell
+6210,Arsenal
+6211,"('Pascal', 'Cygan')"
+6212,Confidence
+6213,Arsenal
+6214,Campbell
+6215,Campbell
+6216,Campbell
+6217,Chelsea
+6218,Arsenal
+6219,Mourinho
+6220,Arsenal
+6221,Chelsea
+6222,Arsenal
+6223,Gunners
+6224,Newcastle
+6225,Wednesday
+6226,"('Arsenal', 'Chelsea')"
+6227,"('Jose', 'Mourinho')"
+6228,Arsenal
+6229,Magpies
+6230,Chelsea
+6231,Portsmouth
+6232,Mourinho
+6233,Perhaps
+6234,"('John', 'Terry')"
+6235,Chelsea
+6236,Fratton
+6237,Park
+6238,"('Jose', 'Mourinho')"
+6239,"('Fratton', 'Park')"
+6240,Playing
+6241,European
+6242,London
+6243,Irish
+6244,Wasps
+6245,Wasps
+6246,London
+6247,Irish
+6248,"('London', 'Irish')"
+6249,"('Wasps', 'Wasps')"
+6250,"('London', 'Irish')"
+6251,Madejski
+6252,Stadium
+6253,"('Rob', 'Hoadley')"
+6254,"('Madejski', 'Stadium')"
+6255,Irish
+6256,Wasps
+6257,"('Tom', 'Voyce')"
+6258,"('Richard', 'Birkett')"
+6259,Mark
+6260,Gisbergen
+6261,Irish
+6262,"('Mark', 'Mapletoft')"
+6263,"('Scott', 'Staniforth')"
+6264,Mapletoft
+6265,Premiership
+6266,"('Barry', 'Everitt')"
+6267,"('Jonny', 'Wilkinson')"
+6268,"('Tim', 'Stimpson')"
+6269,"('Paul', 'Grayson')"
+6270,Wasps
+6271,Irish
+6272,Director
+6273,Wasps
+6274,"('Warren', 'Gatland')"
+6275,Gatland
+6276,"('Tom', 'Rees')"
+6277,"('John', 'Hart')"
+6278,London
+6279,Irish
+6280,"('London', 'Irish')"
+6281,"('Gary', 'Gold')"
+6282,Irish
+6283,Gold
+6284,Gold
+6285,Powergen
+6286,Cup
+6287,Leeds
+6288,"('Powergen', 'Cup')"
+6289,Leeds
+6290,Spain
+6291,Spain
+6292,Football
+6293,Federation
+6294,"('Football', 'Federation')"
+6295,"('Luis', 'Aragones')"
+6296,"('Thierry', 'Henry')"
+6297,Aragones
+6298,Aragones
+6299,October
+6300,Spain
+6301,"('Angel', 'Maria', 'Villar')"
+6302,Aragones
+6303,Henry
+6304,Arsenal
+6305,"('Jose', 'Antonio', 'Reyes')"
+6306,England
+6307,Spain
+6308,Madrid
+6309,Spanish
+6310,England
+6311,Spain
+6312,Spain
+6313,Federation
+6314,"('Jaime', 'Lissavetzky')"
+6315,Everyone
+6316,Greek
+6317,Sprinters
+6318,"('Kostas', 'Kenteris')"
+6319,"('Katerina', 'Thanou')"
+6320,IAAF
+6321,Athens
+6322,Olympics
+6323,"('Athens', 'Olympics')"
+6324,Greek
+6325,Athletics
+6326,Federation
+6327,IAAF
+6328,Court
+6329,Arbitration
+6330,Sport
+6331,"('Greek', 'Athletics')"
+6332,"('Athletics', 'Federation')"
+6333,"('Greek', 'Athletics', 'Federation')"
+6334,"('Christos', 'Tzekos')"
+6335,Kenteris
+6336,Thanou
+6337,Tel
+6338,Aviv
+6339,Chicago
+6340,Athens
+6341,Olympics
+6342,"('Tel', 'Aviv')"
+6343,Olympics
+6344,Olympic
+6345,Village
+6346,August
+6347,"('Olympic', 'Village')"
+6348,International
+6349,Olympic
+6350,Committee
+6351,IAAF
+6352,Greek
+6353,"('International', 'Olympic')"
+6354,"('Olympic', 'Committee')"
+6355,"('International', 'Olympic', 'Committee')"
+6356,Athens
+6357,"('Kostas', 'Panagopoulos')"
+6358,Kenteris
+6359,Thanou
+6360,Kenteris
+6361,Mr
+6362,Kenteris
+6363,"('Gregory', 'Ioannidis')"
+6364,January
+6365,Mr
+6366,Kenteris
+6367,International
+6368,Olympic
+6369,Committee
+6370,"('International', 'Olympic')"
+6371,"('Olympic', 'Committee')"
+6372,"('International', 'Olympic', 'Committee')"
+6373,Mr
+6374,Kenteris
+6375,IAAF
+6376,Spokesman
+6377,Greek
+6378,"('Nick', 'Davies')"
+6379,English
+6380,Manchester
+6381,United
+6382,Ruud
+6383,Achilles
+6384,FA
+6385,Cup
+6386,Everton
+6387,Saturday
+6388,"('Van', 'Nistelrooy')"
+6389,"('Manchester', 'United')"
+6390,"('FA', 'Cup')"
+6391,Champions
+6392,League
+6393,AC
+6394,Milan
+6395,February
+6396,"('Champions', 'League')"
+6397,"('AC', 'Milan')"
+6398,Manchester
+6399,United
+6400,Sir
+6401,"('Manchester', 'United')"
+6402,"('Alex', 'Ferguson')"
+6403,Everton
+6404,Holland
+6405,Ferguson
+6406,Ruud
+6407,Tuesday
+6408,Holland
+6409,Even
+6410,United
+6411,Manchester
+6412,City
+6413,Sunday
+6414,"('Van', 'Nistelrooy')"
+6415,"('Manchester', 'City')"
+6416,Dutch
+6417,West
+6418,Brom
+6419,November
+6420,"('West', 'Brom')"
+6421,Ferguson
+6422,"('Van', 'Nistelrooy')"
+6423,United
+6424,"('Alan', 'Smith')"
+6425,"('Louis', 'Saha')"
+6426,"('Van', 'Nistelrooy')"
+6427,"('Wayne', 'Rooney')"
+6428,City
+6429,Sunday
+6430,Israeli
+6431,Africa
+6432,Four
+6433,African
+6434,Zimbabwe
+6435,Israeli
+6436,Hapoel
+6437,Bnei
+6438,Sakhnin
+6439,Uefa
+6440,Cup
+6441,"('Africa', 'Four')"
+6442,"('Four', 'African')"
+6443,"('Energy', 'Murambadoro')"
+6444,"('Hapoel', 'Bnei')"
+6445,"('Bnei', 'Sakhnin')"
+6446,"('Uefa', 'Cup')"
+6447,"('Africa', 'Four', 'African')"
+6448,"('Hapoel', 'Bnei', 'Sakhnin')"
+6449,Bnei
+6450,Sakhnin
+6451,Arab
+6452,European
+6453,English
+6454,Premiership
+6455,Newcastle
+6456,United
+6457,"('Bnei', 'Sakhnin')"
+6458,"('English', 'Premiership')"
+6459,"('Newcastle', 'United')"
+6460,Warriors
+6461,Murambadoro
+6462,African
+6463,Nations
+6464,Cup
+6465,Tunisia
+6466,Bnei
+6467,Sakhnin
+6468,Albania
+6469,Partizani
+6470,Tirana
+6471,"('African', 'Nations')"
+6472,"('Nations', 'Cup')"
+6473,"('Bnei', 'Sakhnin')"
+6474,"('Partizani', 'Tirana')"
+6475,"('African', 'Nations', 'Cup')"
+6476,Murambadoro
+6477,Israel
+6478,South
+6479,African
+6480,Hellenic
+6481,"('South', 'African')"
+6482,Israeli
+6483,Cup
+6484,Sakhnin
+6485,Haifa
+6486,"('Israeli', 'Cup')"
+6487,Israel
+6488,Africans
+6489,Cameroon
+6490,DR
+6491,Congo
+6492,Nigerian
+6493,Tunisian
+6494,Esperance
+6495,"('Ernest', 'Etchi')"
+6496,"('DR', 'Congo')"
+6497,"('Alain', 'Masudi')"
+6498,"('Edith', 'Agoye')"
+6499,Parry
+6500,Gerrard
+6501,Listen
+6502,Sport
+6503,Five
+6504,BBC
+6505,Sport
+6506,GMT
+6507,"('BBC', 'Sport')"
+6508,Parry
+6509,BBC
+6510,Sport
+6511,Gerrard
+6512,Chelsea
+6513,"('BBC', 'Sport')"
+6514,BBC
+6515,Five
+6516,Live
+6517,Steven
+6518,"('BBC', 'Five')"
+6519,"('Five', 'Live')"
+6520,"('BBC', 'Five', 'Live')"
+6521,Liverpool
+6522,Steven
+6523,Liverpool
+6524,Parry
+6525,BBC
+6526,Sport
+6527,Liverpool
+6528,"('BBC', 'Sport')"
+6529,"('Alan', 'Hansen')"
+6530,"('Steve', 'Morgan')"
+6531,Parry
+6532,Liverpool
+6533,July
+6534,Premier
+6535,League
+6536,"('Premier', 'League')"
+6537,Anfield
+6538,"('Rafael', 'Benitez')"
+6539,"('Steven', 'Gerrard')"
+6540,Liverpool
+6541,Parry
+6542,Real
+6543,Madrid
+6544,England
+6545,"('Real', 'Madrid')"
+6546,"('Fernando', 'Morientes')"
+6547,Real
+6548,Madrid
+6549,Steven
+6550,"('Fernando', 'Morientes')"
+6551,"('Real', 'Madrid')"
+6552,Gerrard
+6553,Liverpool
+6554,Parry
+6555,Steven
+6556,Rafa
+6557,Steven
+6558,Steven
+6559,Liverpool
+6560,Chelsea
+6561,Liverpool
+6562,Parry
+6563,Steven
+6564,Parry
+6565,Chelsea
+6566,Maybe
+6567,Maybe
+6568,Steven
+6569,Steven
+6570,Steven
+6571,Steven
+6572,Parry
+6573,Liverpool
+6574,Stanley
+6575,Park
+6576,"('Stanley', 'Park')"
+6577,Arsenal
+6578,Emirates
+6579,Anfield
+6580,Arsenal
+6581,Arsenal
+6582,Liverpool
+6583,Parry
+6584,Time
+6585,Anfield
+6586,Parry
+6587,Liverpool
+6588,Middle
+6589,East
+6590,"('Middle', 'East')"
+6591,"('Steve', 'Morgan')"
+6592,Liverpool
+6593,Parry
+6594,Steve
+6595,Steve
+6596,Quite
+6597,AGM
+6598,December
+6599,Steve
+6600,Steve
+6601,Liverpool
+6602,Gerrard
+6603,Directors
+6604,Gerrard
+6605,Gerrard
+6606,Critical
+6607,Liverpool
+6608,Gerrard
+6609,Ideally
+6610,"('Michael', 'Owen')"
+6611,Rafa
+6612,Gerrard
+6613,Gerrard
+6614,Parry
+6615,Gerrard
+6616,Upping
+6617,Parry
+6618,Gerrard
+6619,Gerrard
+6620,Clearly
+6621,League
+6622,Hearts
+6623,Livingston
+6624,Hearts
+6625,Scottish
+6626,Cup
+6627,Livingston
+6628,"('Livingston', 'Hearts')"
+6629,"('Scottish', 'Cup')"
+6630,"('Lee', 'Miller')"
+6631,"('Colin', 'Meldrum')"
+6632,"('Jamie', 'McAllister')"
+6633,McAllister
+6634,"('Saul', 'Mikoliunas')"
+6635,Hearts
+6636,"('Craig', 'Easton')"
+6637,Miller
+6638,"('Gus', 'Bahoken')"
+6639,McAllister
+6640,Livi
+6641,Miller
+6642,Meldrum
+6643,Mikoliunas
+6644,McAllister
+6645,Meldrum
+6646,Moments
+6647,Miller
+6648,McAllister
+6649,Meldrum
+6650,"('Stephen', 'Simmons')"
+6651,Mikoliunas
+6652,Meldrum
+6653,Livi
+6654,Bahoken
+6655,"('Richard', 'Gough')"
+6656,"('Goran', 'Stanic')"
+6657,"('Gabor', 'Vincze')"
+6658,"('Ferenc', 'Horvath')"
+6659,"('Derek', 'Lilley')"
+6660,"('Mark', 'Wilson')"
+6661,However
+6662,West
+6663,Lothian
+6664,"('West', 'Lothian')"
+6665,McPake
+6666,"('Eric', 'Deloumeaux')"
+6667,"('Jason', 'Dair')"
+6668,Livi
+6669,Dair
+6670,Easton
+6671,McPake
+6672,"('Alan', 'Freeland')"
+6673,Livi
+6674,Dair
+6675,"('Burton', ""O'Brien"")"
+6676,"('Neil', 'MacFarlane')"
+6677,Barcelona
+6678,Barcelona
+6679,Spanish
+6680,Sunday
+6681,Atletico
+6682,Madrid
+6683,"('Atletico', 'Madrid')"
+6684,Athletico
+6685,"('Fernando', 'Torres')"
+6686,Ronaldino
+6687,Barca
+6688,Torres
+6689,Real
+6690,Madrid
+6691,Espanyol
+6692,Saturday
+6693,Barca
+6694,"('Real', 'Madrid')"
+6695,Former
+6696,Everton
+6697,Real
+6698,Bernabeu
+6699,"('Former', 'Everton')"
+6700,"('Thomas', 'Gravesen')"
+6701,Raul
+6702,"('Zinedine', 'Zidane')"
+6703,Gravesen
+6704,Zidane
+6705,England
+6706,Holland
+6707,"('David', 'Beckham')"
+6708,"('Sven-Goran', 'Eriksson')"
+6709,England
+6710,Raul
+6711,"('Michael', 'Owen')"
+6712,Real
+6713,Primera
+6714,Liga
+6715,"('Primera', 'Liga')"
+6716,"('Wanderley', 'Luxemburgo')"
+6717,GB
+6718,Holmes
+6719,European
+6720,Indoor
+6721,Championships
+6722,"('Kelly', 'Holmes')"
+6723,"('European', 'Indoor')"
+6724,"('Indoor', 'Championships')"
+6725,"('European', 'Indoor', 'Championships')"
+6726,European
+6727,Indoors
+6728,Madrid
+6729,"('European', 'Indoors')"
+6730,UK
+6731,Athletics
+6732,Holmes
+6733,"('UK', 'Athletics')"
+6734,"('Max', 'Jones')"
+6735,Holmes
+6736,GB
+6737,Madrid
+6738,March
+6739,Jones
+6740,Birmingham
+6741,Grand
+6742,Prix
+6743,"('Grand', 'Prix')"
+6744,Holmes
+6745,Norwich
+6746,Union
+6747,GB
+6748,"('Norwich', 'Union')"
+6749,"('Union', 'GB')"
+6750,"('Norwich', 'Union', 'GB')"
+6751,Meanwhile
+6752,Great
+6753,Britain
+6754,Tuesday
+6755,"('Great', 'Britain')"
+6756,Defending
+6757,"('Jason', 'Gardener')"
+6758,Vienna
+6759,"('Mark', 'Lewis-Francis')"
+6760,"('Darren', 'Chin')"
+6761,"('Kelly', 'Sotherton')"
+6762,"('Carolina', 'Kluft')"
+6763,Sotherton
+6764,Olympic
+6765,Athens
+6766,Swede
+6767,GB
+6768,Jones
+6769,"('Dave', 'Collins')"
+6770,Jones
+6771,Olympic
+6772,Games
+6773,UKA
+6774,"('Olympic', 'Games')"
+6775,European
+6776,Indoor
+6777,Championships
+6778,"('European', 'Indoor')"
+6779,"('Indoor', 'Championships')"
+6780,"('European', 'Indoor', 'Championships')"
+6781,Madrid
+6782,Beijing
+6783,Olympics
+6784,Radcliffe
+6785,New
+6786,York
+6787,City
+6788,Marathon
+6789,Sunday
+6790,"('Paula', 'Radcliffe')"
+6791,"('New', 'York')"
+6792,"('York', 'City')"
+6793,"('City', 'Marathon')"
+6794,"('New', 'York', 'City')"
+6795,"('York', 'City', 'Marathon')"
+6796,Back
+6797,Athens
+6798,Olympics
+6799,"('Athens', 'Olympics')"
+6800,BBC
+6801,Sport
+6802,Radcliffe
+6803,"('BBC', 'Sport')"
+6804,Every
+6805,Radcliffe
+6806,Sports
+6807,"('Hugh', 'Richards')"
+6808,Richards
+6809,BBC
+6810,Sport
+6811,"('BBC', 'Sport')"
+6812,Paula
+6813,Athens
+6814,New
+6815,York
+6816,"('New', 'York')"
+6817,Radcliffe
+6818,Athletes
+6819,Richards
+6820,Olympians
+6821,Radcliffe
+6822,New
+6823,York
+6824,"('Liz', 'Yelling')"
+6825,"('New', 'York')"
+6826,Yelling
+6827,BBC
+6828,Sport
+6829,"('BBC', 'Sport')"
+6830,Radcliffe
+6831,New
+6832,York
+6833,"('New', 'York')"
+6834,Richards
+6835,Richards
+6836,Paula
+6837,Staten
+6838,Island
+6839,Central
+6840,Park
+6841,"('Staten', 'Island')"
+6842,"('Central', 'Park')"
+6843,Radcliffe
+6844,Radcliffe
+6845,Athens
+6846,Yelling
+6847,Paula
+6848,Richards
+6849,New
+6850,York
+6851,Radcliffe
+6852,"('New', 'York')"
+6853,Athens
+6854,New
+6855,York
+6856,"('New', 'York')"
+6857,Radcliffe
+6858,Athens
+6859,Richards
+6860,Yelling
+6861,New
+6862,York
+6863,"('New', 'York')"
+6864,Richards
+6865,One
+6866,Yelling
+6867,Paula
+6868,Moyes
+6869,U-turn
+6870,Beattie
+6871,Everton
+6872,Chelsea
+6873,"('David', 'Moyes')"
+6874,"('James', 'Beattie')"
+6875,"('William', 'Gallas')"
+6876,Scot
+6877,Beattie
+6878,Everton
+6879,Gallas
+6880,Moyes
+6881,Saturday
+6882,Beattie
+6883,Saturday
+6884,Gallas
+6885,Moyes
+6886,Although
+6887,James
+6888,James
+6889,Everton
+6890,However
+6891,Chelsea
+6892,Speaking
+6893,Moyes
+6894,"('John', 'Terry')"
+6895,Beattie
+6896,Gallas
+6897,"('William', 'Gallas')"
+6898,Johnson
+6899,GB
+6900,Britain
+6901,Cross
+6902,International
+6903,Zornotza
+6904,Amorebieta
+6905,Spain
+6906,"('Kathy', 'Butler')"
+6907,"('Hayley', 'Yelling')"
+6908,"('Benita', 'Johnson')"
+6909,"('Cross', 'International')"
+6910,"('International', 'Zornotza')"
+6911,"('Cross', 'International', 'Zornotza')"
+6912,Butler
+6913,Yelling
+6914,Australian
+6915,Johnson
+6916,"('Edith', 'Masai')"
+6917,Masai
+6918,Kenyan
+6919,"('Alice', 'Timbilil')"
+6920,Johnson
+6921,Butler
+6922,Yelling
+6923,European
+6924,"('Paula', 'Radcliffe')"
+6925,Johnson
+6926,Great
+6927,EdinburghInternational
+6928,Cross
+6929,Country
+6930,January
+6931,"('Great', 'EdinburghInternational')"
+6932,"('EdinburghInternational', 'Cross')"
+6933,"('Cross', 'Country')"
+6934,"('Great', 'EdinburghInternational', 'Cross')"
+6935,"('EdinburghInternational', 'Cross', 'Country')"
+6936,Everton
+6937,Weir
+6938,Euro
+6939,Everton
+6940,European
+6941,Premiership
+6942,Liverpool
+6943,"('David', 'Weir')"
+6944,Weir
+6945,BBC
+6946,Radio
+6947,Five
+6948,Live
+6949,"('BBC', 'Radio')"
+6950,"('Radio', 'Five')"
+6951,"('Five', 'Live')"
+6952,"('BBC', 'Radio', 'Five')"
+6953,"('Radio', 'Five', 'Live')"
+6954,Also
+6955,Wenger
+6956,Arsenal
+6957,January
+6958,"('Arsene', 'Wenger')"
+6959,Wenger
+6960,Spaniard
+6961,"('Manuel', 'Almunia')"
+6962,"('Jens', 'Lehmann')"
+6963,Wenger
+6964,New
+6965,Year
+6966,"('New', 'Year')"
+6967,Evening
+6968,Standard
+6969,January
+6970,"('Evening', 'Standard')"
+6971,Gunners
+6972,Almunia
+6973,Highbury
+6974,Lehmann
+6975,Chelsea
+6976,Sunday
+6977,Almunia
+6978,Rosenborg
+6979,Arsenal
+6980,Champions
+6981,League
+6982,Tuesday
+6983,Birmingham
+6984,"('Champions', 'League')"
+6985,Wenger
+6986,Everyone
+6987,Wenger
+6988,Arsenal
+6989,Middlesbrough
+6990,Fulham
+6991,Edwin
+6992,Sar
+6993,Parma
+6994,"('Mark', 'Schwarzer')"
+6995,"('Sebastien', 'Frey')"
+6996,Wenger
+6997,England
+6998,Under-21
+6999,Leicester
+7000,"('England', 'Under-21')"
+7001,"('Stuart', 'Taylor')"
+7002,Murray
+7003,Scotland
+7004,Scotland
+7005,Saturday
+7006,Six
+7007,Nations
+7008,Ireland
+7009,"('Euan', 'Murray')"
+7010,"('Six', 'Nations')"
+7011,Glasgow
+7012,February
+7013,Murray
+7014,Monday
+7015,Hopefully
+7016,Six
+7017,Nations
+7018,"('Six', 'Nations')"
+7019,Davies
+7020,Gloucester
+7021,Wales
+7022,English
+7023,Gloucester
+7024,Neath-Swansea
+7025,Ospreys
+7026,"('Mefin', 'Davies')"
+7027,"('Neath-Swansea', 'Ospreys')"
+7028,BBC
+7029,Wales
+7030,Ospreys
+7031,"('BBC', 'Wales')"
+7032,Davies
+7033,Saturday
+7034,RBS
+7035,Six
+7036,Nations
+7037,England
+7038,Kingsholm
+7039,"('RBS', 'Six')"
+7040,"('Six', 'Nations')"
+7041,"('RBS', 'Six', 'Nations')"
+7042,Zurich
+7043,Premiership
+7044,"('Zurich', 'Premiership')"
+7045,Celtic
+7046,Warriors
+7047,Davies
+7048,Neath
+7049,RFC
+7050,"('Celtic', 'Warriors')"
+7051,"('Neath', 'RFC')"
+7052,Although
+7053,Ospreys
+7054,Wales
+7055,Gloucester
+7056,WRU
+7057,Davies
+7058,Stade
+7059,Francais
+7060,Wales
+7061,"('Stade', 'Francais')"
+7062,TV
+7063,Carroll
+7064,Spurs
+7065,Manchester
+7066,United
+7067,"('Martin', 'Jol')"
+7068,"('Manchester', 'United')"
+7069,"('Pedro', 'Mendes')"
+7070,Jol
+7071,Pedro
+7072,Mendes
+7073,United
+7074,"('Roy', 'Carroll')"
+7075,Jol
+7076,TV
+7077,Mendes
+7078,Manchester
+7079,United
+7080,Sir
+7081,Tottenham
+7082,"('Manchester', 'United')"
+7083,"('Alex', 'Ferguson')"
+7084,Ferguson
+7085,MUTV
+7086,Thirty
+7087,Arsenal
+7088,"('Arsene', 'Wenger')"
+7089,Old
+7090,Trafford
+7091,Wenger
+7092,"('Old', 'Trafford')"
+7093,Anelka
+7094,Manchester
+7095,City
+7096,"('Manchester', 'City')"
+7097,"('Nicolas', 'Anelka')"
+7098,Anelka
+7099,French
+7100,Champions
+7101,League
+7102,"('Champions', 'League')"
+7103,Nicolas
+7104,French
+7105,"('John', 'Wardle')"
+7106,Nicolas
+7107,Wardle
+7108,Arsenal
+7109,Real
+7110,Madrid
+7111,"('Real', 'Madrid')"
+7112,French
+7113,PSG
+7114,Anelka
+7115,May
+7116,Barcelona
+7117,Liverpool
+7118,Reds
+7119,Anfield
+7120,"('Steven', 'Gerrard')"
+7121,Wardle
+7122,Nicolas
+7123,Anelka
+7124,"('Nicolas', 'Anelka')"
+7125,No-one
+7126,"('Nicolas', 'Anelka')"
+7127,"('Nicolas', 'Anelka')"
+7128,"('Kevin', 'Keegan')"
+7129,Nicolas
+7130,Wardle
+7131,England
+7132,"('Shaun', 'Wright-Phillips')"
+7133,"('Shaun', 'Wright-Phillips')"
+7134,Manchester
+7135,City
+7136,Football
+7137,Club
+7138,"('Manchester', 'City')"
+7139,"('City', 'Football')"
+7140,"('Football', 'Club')"
+7141,"('Manchester', 'City', 'Football')"
+7142,"('City', 'Football', 'Club')"
+7143,City
+7144,Wardle
+7145,January
+7146,Like
+7147,Kevin
+7148,Bosman
+7149,Everton
+7150,Bolton
+7151,Campbell
+7152,Arsenal
+7153,Arsenal
+7154,Portsmouth
+7155,"('Sol', 'Campbell')"
+7156,England
+7157,Arsenal
+7158,Chelsea
+7159,Campbell
+7160,Pompey
+7161,"('Ricardo', 'Fuller')"
+7162,Portsmouth
+7163,Arsenal
+7164,"('Patrick', 'Vieira')"
+7165,Arjan
+7166,Zeeuw
+7167,Pompey
+7168,"('Thierry', 'Henry')"
+7169,"('Linvoy', 'Primus')"
+7170,Fuller
+7171,Portsmouth
+7172,Arsenal
+7173,Robin
+7174,Persie
+7175,Henry
+7176,"('Jamie', 'Ashdown')"
+7177,Ashdown
+7178,Arsenal
+7179,Henry
+7180,"('Kolo', 'Toure')"
+7181,"('Van', 'Persie')"
+7182,Henry
+7183,Vieira
+7184,Ashdown
+7185,Pompey
+7186,"('Matthew', 'Taylor')"
+7187,Portsmouth
+7188,Referee
+7189,Toure
+7190,Pompey
+7191,"('Howard', 'Webb')"
+7192,"('Steve', 'Stone')"
+7193,"('Gary', ""O'Neil"")"
+7194,Henry
+7195,Fuller
+7196,Toure
+7197,Fuller
+7198,"('Patrik', 'Berger')"
+7199,Vieira
+7200,Webb
+7201,Fuller
+7202,"('Aiyegbeni', 'Yakubu')"
+7203,Ashdown
+7204,Henry
+7205,"('Van', 'Persie')"
+7206,Portsmouth
+7207,Berger
+7208,"('Manuel', 'Almunia')"
+7209,Arsenal
+7210,Campbell
+7211,England
+7212,Pompey
+7213,Ashdown
+7214,Arsenal
+7215,Henry
+7216,"('Mathieu', 'Flamini')"
+7217,Almunia
+7218,Berger
+7219,Ashdown
+7220,"('Dennis', 'Bergkamp')"
+7221,Man
+7222,Utd
+7223,Cup
+7224,Everton
+7225,Manchester
+7226,United
+7227,FA
+7228,Cup
+7229,"('Man', 'Utd')"
+7230,"('Wayne', 'Rooney')"
+7231,"('Manchester', 'United')"
+7232,"('FA', 'Cup')"
+7233,Rooney
+7234,Quinton
+7235,Fortune
+7236,Goodison
+7237,Park
+7238,"('Quinton', 'Fortune')"
+7239,"('Cristiano', 'Ronaldo')"
+7240,"('Goodison', 'Park')"
+7241,Fortune
+7242,Ronaldo
+7243,"('Nigel', 'Martyn')"
+7244,"('Paul', 'Scholes')"
+7245,Everton
+7246,"('Marcus', 'Bent')"
+7247,"('Roy', 'Carroll')"
+7248,Rooney
+7249,Rooney
+7250,Everton
+7251,Fortune
+7252,Bent
+7253,United
+7254,Goodison
+7255,Park
+7256,"('Goodison', 'Park')"
+7257,Fortune
+7258,United
+7259,Ronaldo
+7260,Portuguese
+7261,"('Gary', 'Naysmith')"
+7262,United
+7263,Bent
+7264,Carroll
+7265,"('Mikel', 'Arteta')"
+7266,"('Gabriel', 'Heintze')"
+7267,United
+7268,Ronaldo
+7269,Martyn
+7270,"('Tony', 'Hibbert')"
+7271,Martyn
+7272,Everton
+7273,Rooney
+7274,Martyn
+7275,United
+7276,Scholes
+7277,Martyn
+7278,Ronaldo
+7279,Everton
+7280,"('James', 'McFadden')"
+7281,Everton
+7282,Carroll
+7283,Rooney
+7284,Everton
+7285,Martyn
+7286,Stubbs
+7287,Martyn
+7288,England
+7289,IAAF
+7290,Greek
+7291,International
+7292,Association
+7293,Athletics
+7294,Federations
+7295,Greek
+7296,"('International', 'Association')"
+7297,"('Athletics', 'Federations')"
+7298,"('Kostas', 'Kenteris')"
+7299,"('Katerina', 'Thanou')"
+7300,Greek
+7301,Athletics
+7302,Federation
+7303,Segas
+7304,"('Greek', 'Athletics')"
+7305,"('Athletics', 'Federation')"
+7306,"('Greek', 'Athletics', 'Federation')"
+7307,IAAF
+7308,Court
+7309,Arbitration
+7310,Sport
+7311,CAS
+7312,IAAF
+7313,Doping
+7314,Review
+7315,Board
+7316,"('Doping', 'Review')"
+7317,"('Review', 'Board')"
+7318,"('Doping', 'Review', 'Board')"
+7319,CAS
+7320,Segas
+7321,IAAF
+7322,Segas
+7323,"('Vassilis', 'Sevastis')"
+7324,Kenteris
+7325,Olympic
+7326,Olympics
+7327,Thanou
+7328,IAAF
+7329,December
+7330,Athens
+7331,Games
+7332,"('Athens', 'Games')"
+7333,However
+7334,Tel
+7335,Aviv
+7336,Chicago
+7337,Athens
+7338,Olympics
+7339,"('Tel', 'Aviv')"
+7340,Kenteris
+7341,IAAF
+7342,BBC
+7343,Sport
+7344,"('Gregory', 'Ioannidis')"
+7345,"('BBC', 'Sport')"
+7346,IAAF
+7347,Ioannidis
+7348,IAAF
+7349,Kenteris
+7350,Thanou
+7351,Olympics
+7352,Olympic
+7353,Village
+7354,August
+7355,"('Olympic', 'Village')"
+7356,International
+7357,Olympic
+7358,Committee
+7359,IAAF
+7360,"('International', 'Olympic')"
+7361,"('Olympic', 'Committee')"
+7362,"('International', 'Olympic', 'Committee')"
+7363,Thanou
+7364,Kenteris
+7365,Kluft
+7366,Olympic
+7367,Britain
+7368,Birmingham
+7369,"('Carolina', 'Kluft')"
+7370,"('Kelly', 'Sotherton')"
+7371,Friday
+7372,European
+7373,Indoor
+7374,Championships
+7375,Madrid
+7376,"('European', 'Indoor')"
+7377,"('Indoor', 'Championships')"
+7378,"('European', 'Indoor', 'Championships')"
+7379,Sotherton
+7380,Swede
+7381,Athens
+7382,Kluft
+7383,Kluft
+7384,Tuesday
+7385,Stockholm
+7386,GE
+7387,Galan
+7388,"('GE', 'Galan')"
+7389,Sotherton
+7390,Sheffield
+7391,Norwich
+7392,Union
+7393,European
+7394,AAA
+7395,Championships
+7396,"('Norwich', 'Union')"
+7397,"('Union', 'European')"
+7398,"('AAA', 'Championships')"
+7399,"('Jade', 'Johnson')"
+7400,"('Norwich', 'Union', 'European')"
+7401,Bees
+7402,Man
+7403,Utd
+7404,Brentford
+7405,Manchester
+7406,United
+7407,FA
+7408,Cup
+7409,Southampton
+7410,"('Man', 'Utd')"
+7411,"('Manchester', 'United')"
+7412,"('FA', 'Cup')"
+7413,League
+7414,One
+7415,Saints
+7416,St
+7417,Mary
+7418,Sir
+7419,Alex
+7420,Ferguson
+7421,"('League', 'One')"
+7422,"('St', 'Mary')"
+7423,"('Alex', 'Ferguson')"
+7424,Newcastle
+7425,Tottenham
+7426,Nottingham
+7427,Forest
+7428,"('Nottingham', 'Forest')"
+7429,Bolton
+7430,Arsenal
+7431,Sheffield
+7432,United
+7433,Leicester
+7434,Burnley
+7435,Blackburn
+7436,"('Sheffield', 'United')"
+7437,March
+7438,United
+7439,Tuesday
+7440,Premiership
+7441,Southampton
+7442,United
+7443,Brentford
+7444,Saturday
+7445,United
+7446,United
+7447,Bournemouth
+7448,West
+7449,Ham
+7450,"('West', 'Ham')"
+7451,FA
+7452,Cup
+7453,"('FA', 'Cup')"
+7454,Iranian
+7455,Israel
+7456,Iranian
+7457,Israel
+7458,Bayern
+7459,Munich
+7460,Champions
+7461,League
+7462,Maccabi
+7463,Tel
+7464,Aviv
+7465,Wednesday
+7466,"('Vahid', 'Hashemian')"
+7467,"('Bayern', 'Munich')"
+7468,"('Champions', 'League')"
+7469,"('Maccabi', 'Tel')"
+7470,"('Tel', 'Aviv')"
+7471,"('Maccabi', 'Tel', 'Aviv')"
+7472,German
+7473,Iran
+7474,Israel
+7475,Bayern
+7476,Monday
+7477,Hashemian
+7478,Israel
+7479,Iran
+7480,Israeli
+7481,Athens
+7482,Olympics
+7483,"('Arash', 'Miresmaeili')"
+7484,"('Athens', 'Olympics')"
+7485,International
+7486,Judo
+7487,Federation
+7488,Miresmaeili
+7489,"('International', 'Judo')"
+7490,"('Judo', 'Federation')"
+7491,"('International', 'Judo', 'Federation')"
+7492,Highbury
+7493,Football
+7494,Association
+7495,Arsenal
+7496,Manchester
+7497,United
+7498,"('Football', 'Association')"
+7499,"('Manchester', 'United')"
+7500,Arsenal
+7501,"('Patrick', 'Vieira')"
+7502,"('Gary', 'Neville')"
+7503,Vieira
+7504,"('Roy', 'Keane')"
+7505,"('Graham', 'Poll')"
+7506,FA
+7507,United
+7508,Highbury
+7509,"('Brian', 'Barwick')"
+7510,Vieira
+7511,"('Roy', 'Keane')"
+7512,"('Gary', 'Neville')"
+7513,Neville
+7514,Especially
+7515,Neville
+7516,"('Mikael', 'Silvestre')"
+7517,"('Freddie', 'Ljungberg')"
+7518,Keane
+7519,Vieira
+7520,"('Patrick', 'Vieira')"
+7521,"('Gary', 'Neville')"
+7522,"('Gary', 'Neville')"
+7523,Manchester
+7524,United
+7525,Sir
+7526,Vieira
+7527,"('Manchester', 'United')"
+7528,"('Alex', 'Ferguson')"
+7529,"('Patrick', 'Vieira')"
+7530,England
+7531,England
+7532,Tottenham
+7533,Holland
+7534,"('Ledley', 'King')"
+7535,Chelsea
+7536,Wednesday
+7537,Villa
+7538,Park
+7539,"('John', 'Terry')"
+7540,"('Wayne', 'Bridge')"
+7541,"('Sven-Goran', 'Eriksson')"
+7542,"('Villa', 'Park')"
+7543,Injured
+7544,"('Rio', 'Ferdinand')"
+7545,"('Sol', 'Campbell')"
+7546,"('Matthew', 'Upson')"
+7547,"('Wes', 'Brown')"
+7548,"('Jamie', 'Carragher')"
+7549,Terry
+7550,Chelsea
+7551,Premiership
+7552,Campbell
+7553,Ferdinand
+7554,Carragher
+7555,Brown
+7556,Manchester
+7557,United
+7558,Brown
+7559,England
+7560,Australia
+7561,Upton
+7562,Park
+7563,February
+7564,"('Manchester', 'United')"
+7565,"('Upton', 'Park')"
+7566,Sunday
+7567,Upson
+7568,Brown
+7569,England
+7570,King
+7571,England
+7572,Eriksson
+7573,Bridge
+7574,"('Phil', 'Neville')"
+7575,Collins
+7576,UK
+7577,Athletics
+7578,UK
+7579,Athletics
+7580,"('UK', 'Athletics')"
+7581,"('UK', 'Athletics')"
+7582,"('Dave', 'Collins')"
+7583,Collins
+7584,British
+7585,Olympics
+7586,"('Max', 'Jones')"
+7587,Six
+7588,Charles
+7589,Commenee
+7590,British
+7591,"('Denise', 'Lewis')"
+7592,"('Keith', 'Connor')"
+7593,UKA
+7594,"('David', 'Moorcroft')"
+7595,David
+7596,Collins
+7597,UK
+7598,Collins
+7599,Royal
+7600,Marine
+7601,PE
+7602,"('Steve', 'Backley')"
+7603,"('Royal', 'Marine')"
+7604,Edinburgh
+7605,University
+7606,"('Edinburgh', 'University')"
+7607,Great
+7608,Britain
+7609,Winter
+7610,Olympics
+7611,"('Great', 'Britain')"
+7612,"('Winter', 'Olympics')"
+7613,Collins
+7614,Athens
+7615,Britain
+7616,"('Mark', 'Lewis-Francis')"
+7617,Collins
+7618,Great
+7619,Britain
+7620,American
+7621,Football
+7622,"('Great', 'Britain')"
+7623,"('Britain', 'American')"
+7624,"('American', 'Football')"
+7625,"('Great', 'Britain', 'American')"
+7626,"('Britain', 'American', 'Football')"
+7627,British
+7628,Despite
+7629,GB
+7630,Athens
+7631,"('Kelly', 'Holmes')"
+7632,Many
+7633,Britain
+7634,Italy
+7635,Collins
+7636,Beijing
+7637,Olympics
+7638,"('Beijing', 'Olympics')"
+7639,Sir
+7640,May
+7641,"('Andrew', 'Foster')"
+7642,UK
+7643,Sport
+7644,Sport
+7645,England
+7646,UK
+7647,Athletics
+7648,Government
+7649,World
+7650,Championships
+7651,Helsinki
+7652,"('UK', 'Sport')"
+7653,"('Sport', 'England')"
+7654,"('UK', 'Athletics')"
+7655,"('World', 'Championships')"
+7656,Dutch
+7657,Olympic
+7658,Committee
+7659,Connor
+7660,"('Van', 'Commenee')"
+7661,"('Dutch', 'Olympic')"
+7662,"('Olympic', 'Committee')"
+7663,"('Dutch', 'Olympic', 'Committee')"
+7664,Foster
+7665,"('David', 'Collins')"
+7666,"('Kelly', 'Holmes')"
+7667,Last
+7668,April
+7669,BBC
+7670,Sport
+7671,Olympics
+7672,"('Last', 'April')"
+7673,"('Kelly', 'Holmes')"
+7674,"('BBC', 'Sport')"
+7675,Four
+7676,Holmes
+7677,Olympic
+7678,Dame
+7679,BBC
+7680,Sport
+7681,Personality
+7682,Year
+7683,"('BBC', 'Sport')"
+7684,"('Sport', 'Personality')"
+7685,"('BBC', 'Sport', 'Personality')"
+7686,Holmes
+7687,Holmes
+7688,European
+7689,Indoor
+7690,Championships
+7691,"('European', 'Indoor')"
+7692,"('Indoor', 'Championships')"
+7693,"('European', 'Indoor', 'Championships')"
+7694,Olympic
+7695,Well
+7696,Olympic
+7697,Olympian
+7698,BBC
+7699,"('Steve', 'Cram')"
+7700,Holmes
+7701,Kent
+7702,Holmes
+7703,New
+7704,Year
+7705,"('New', 'Year')"
+7706,Holmes
+7707,US
+7708,Olympic
+7709,Britain
+7710,Olympic
+7711,"('Michael', 'Johnson')"
+7712,"('Daley', 'Thompson')"
+7713,Holmes
+7714,Whilst
+7715,Olympic
+7716,Holmes
+7717,Unless
+7718,Kent
+7719,Athens
+7720,Holmes
+7721,Madrid
+7722,World
+7723,Championships
+7724,Helsinki
+7725,"('World', 'Championships')"
+7726,Holmes
+7727,Athens
+7728,Olympic
+7729,Cram
+7730,Kelly
+7731,Athletics
+7732,"('Kelly', 'Holmes')"
+7733,Olympic
+7734,Holmes
+7735,Kelly
+7736,Cram
+7737,Kelly
+7738,Reds
+7739,Magpies
+7740,Liverpool
+7741,Newcastle
+7742,Anfield
+7743,"('Titus', 'Bramble')"
+7744,Newcastle
+7745,Bramble
+7746,"('Patrick', 'Kluivert')"
+7747,"('Steven', 'Gerrard')"
+7748,Liverpool
+7749,Czech
+7750,Shay
+7751,Given
+7752,"('Neil', 'Mellor')"
+7753,"('Milan', 'Baros')"
+7754,"('Shay', 'Given')"
+7755,Newcastle
+7756,"('Lee', 'Bowyer')"
+7757,Liverpool
+7758,Newcastle
+7759,Kluivert
+7760,"('Luis', 'Garcia')"
+7761,"('Craig', 'Bellamy')"
+7762,Garcia
+7763,Baros
+7764,Newcastle
+7765,"('Olivier', 'Bernard')"
+7766,Souness
+7767,Kluivert
+7768,Bowyer
+7769,Dutchman
+7770,"('Kieron', 'Dyer')"
+7771,Liverpool
+7772,Bramble
+7773,Gerrard
+7774,"('Sami', 'Hyypia')"
+7775,Liverpool
+7776,Baros
+7777,Mellor
+7778,Given
+7779,Garcia
+7780,Given
+7781,"('Xabi', 'Alonso')"
+7782,Newcastle
+7783,Baros
+7784,Given
+7785,"('Harry', 'Kewell')"
+7786,Newcastle
+7787,Shola
+7788,Ameobi
+7789,"('Jermaine', 'Jenas')"
+7790,"('Shola', 'Ameobi')"
+7791,Bowyer
+7792,Alonso
+7793,Liverpool
+7794,"('Graham', 'Poll')"
+7795,"('Florent', 'Sinama-Pongolle')"
+7796,Hamm
+7797,US
+7798,Women
+7799,"('US', 'Women')"
+7800,"('Mia', 'Hamm')"
+7801,Hamm
+7802,Athens
+7803,Olympics
+7804,US
+7805,Mexico
+7806,"('Athens', 'Olympics')"
+7807,Hamm
+7808,US
+7809,Fifa
+7810,World
+7811,Cup
+7812,Olympic
+7813,"('World', 'Cup')"
+7814,Hamm
+7815,US
+7816,"('Julie', 'Foudy')"
+7817,"('Joy', 'Fawcett')"
+7818,Hamm
+7819,Chicago
+7820,Cubs
+7821,"('Chicago', 'Cubs')"
+7822,"('Nomar', 'Garciaparra')"
+7823,Cubs
+7824,July
+7825,Ferguson
+7826,Boss
+7827,Sir
+7828,Manchester
+7829,United
+7830,Chelsea
+7831,Everton
+7832,Arsenal
+7833,Fulham
+7834,"('Boss', 'Sir')"
+7835,"('Alex', 'Ferguson')"
+7836,"('Manchester', 'United')"
+7837,Premiership
+7838,Chelsea
+7839,Gunners
+7840,Sunday
+7841,United
+7842,Ferguson
+7843,United
+7844,"('Alan', 'Smith')"
+7845,"('Bouba', 'Diop')"
+7846,Ferguson
+7847,United
+7848,Fulham
+7849,Ferguson
+7850,Arsenal
+7851,Chelsea
+7852,France
+7853,England
+7854,Sunday
+7855,"('Bernard', 'Laporte')"
+7856,French
+7857,Scotland
+7858,Six
+7859,Nations
+7860,Saturday
+7861,"('Six', 'Nations')"
+7862,Twickenham
+7863,French
+7864,Meanwhile
+7865,Perpignan
+7866,France
+7867,"('Jean-Philippe', 'Granclaude')"
+7868,Playing
+7869,France
+7870,England
+7871,Twickenham
+7872,Six
+7873,Nations
+7874,"('Six', 'Nations')"
+7875,Laporte
+7876,Wednesday
+7877,French
+7878,Marcoussis
+7879,Paris
+7880,Wales
+7881,Wales
+7882,France
+7883,Six
+7884,Nations
+7885,"('Mike', 'Ruddock')"
+7886,"('Six', 'Nations')"
+7887,Man-of-the-match
+7888,Stade
+7889,France
+7890,"('Stephen', 'Jones')"
+7891,Two
+7892,Six
+7893,Nations
+7894,"('Six', 'Nations')"
+7895,Welshman
+7896,Double
+7897,Grand
+7898,Slam
+7899,Wales
+7900,"('Martyn', 'Williams')"
+7901,"('Grand', 'Slam')"
+7902,Two
+7903,Grand
+7904,Slam
+7905,"('Grand', 'Slam')"
+7906,Scotland
+7907,Murrayfield
+7908,Yachvili
+7909,France
+7910,France
+7911,England
+7912,Six
+7913,Nations
+7914,Twickenham
+7915,"('Dimitri', 'Yachvili')"
+7916,"('Six', 'Nations')"
+7917,Yachvili
+7918,France
+7919,Scotland
+7920,England
+7921,England
+7922,Twickenham
+7923,Yachvili
+7924,England
+7925,"('Charlie', 'Hodgson')"
+7926,"('Olly', 'Barkley')"
+7927,France
+7928,England
+7929,Twickenham
+7930,"('Fabien', 'Pelous')"
+7931,France
+7932,Pelous
+7933,No-one
+7934,England
+7935,France
+7936,"('Bernard', 'Laporte')"
+7937,Bomb
+7938,Bernabeu
+7939,Spectators
+7940,Real
+7941,Madrid
+7942,Bernabeu
+7943,Sunday
+7944,Real
+7945,Sociedad
+7946,"('Real', 'Madrid')"
+7947,"('Real', 'Sociedad')"
+7948,Basque
+7949,Gara
+7950,Real
+7951,Madrid
+7952,"('Real', 'Madrid')"
+7953,"('Florentino', 'Perez')"
+7954,Madrid
+7955,Guti
+7956,Spanish
+7957,Cadena
+7958,Ser
+7959,"('Cadena', 'Ser')"
+7960,Real
+7961,Brazilian
+7962,Ronaldo
+7963,Sociedad
+7964,Turkish
+7965,"('Nihat', 'Kahveci')"
+7966,Real
+7967,Barcelona
+7968,Albacete
+7969,Saturday
+7970,Initial
+7971,Basque
+7972,ETA
+7973,Bernabeu
+7974,ETA
+7975,May
+7976,Madrid
+7977,FC
+7978,Barcelona
+7979,Champions
+7980,League
+7981,"('FC', 'Barcelona')"
+7982,"('Champions', 'League')"
+7983,Relay
+7984,MBE
+7985,New
+7986,Year
+7987,Honours
+7988,List
+7989,Great
+7990,Britain
+7991,Olympics
+7992,"('Jason', 'Gardener')"
+7993,"('New', 'Year')"
+7994,"('Year', 'Honours')"
+7995,"('Honours', 'List')"
+7996,"('Great', 'Britain')"
+7997,"('New', 'Year', 'Honours')"
+7998,"('Year', 'Honours', 'List')"
+7999,Gardener
+8000,MBEs
+8001,USA
+8002,"('Darren', 'Campbell')"
+8003,"('Marlon', 'Devonish')"
+8004,"('Mark', 'Lewis-Francis')"
+8005,Lewis-Francis
+8006,British
+8007,Americans
+8008,USA
+8009,Britain
+8010,"('Justin', 'Gatlin')"
+8011,"('Coby', 'Miller')"
+8012,Lewis-Francis
+8013,Team
+8014,GB
+8015,"('Maurice', 'Greene')"
+8016,"('Team', 'GB')"
+8017,Winning
+8018,"('Birchfield', 'Harrier')"
+8019,Gardener
+8020,Olympic
+8021,Life
+8022,Campbell
+8023,MBE
+8024,Newport-based
+8025,London
+8026,Marathon
+8027,"('James', 'Clarke')"
+8028,"('London', 'Marathon')"
+8029,OBE
+8030,Holmes
+8031,GB
+8032,Britain
+8033,"('Kelly', 'Holmes')"
+8034,Holmes
+8035,Olympic
+8036,January
+8037,Norwich
+8038,Union
+8039,International
+8040,Glasgow
+8041,"('Norwich', 'Union')"
+8042,"('Union', 'International')"
+8043,"('Norwich', 'Union', 'International')"
+8044,Grand
+8045,Prix
+8046,Birmingham
+8047,February
+8048,AAA
+8049,Sheffield
+8050,"('Grand', 'Prix')"
+8051,British
+8052,Greece
+8053,Glasgow
+8054,Holmes
+8055,Sweden
+8056,France
+8057,Russia
+8058,Italy
+8059,Gebrselassie
+8060,London
+8061,Double
+8062,Olympic
+8063,London
+8064,Marathon
+8065,"('Double', 'Olympic')"
+8066,"('Haile', 'Gebrselassie')"
+8067,"('London', 'Marathon')"
+8068,Ethiopian
+8069,Sunday
+8070,Almeria
+8071,Spain
+8072,Achilles
+8073,London
+8074,Haile
+8075,"('David', 'Bedford')"
+8076,Gebrselassie
+8077,Olympic
+8078,"('Stefano', 'Baldini')"
+8079,"('Jaouad', 'Gharib')"
+8080,"('Paul', 'Tergat')"
+8081,Gebrselassie
+8082,Kewell
+8083,Liverpool
+8084,Achilles
+8085,March
+8086,"('Harry', 'Kewell')"
+8087,Kewell
+8088,Fulham
+8089,Champions
+8090,League
+8091,Bayer
+8092,Leverkusen
+8093,February
+8094,"('Champions', 'League')"
+8095,"('Bayer', 'Leverkusen')"
+8096,"('Bernie', 'Mandic')"
+8097,Mandic
+8098,Sydney
+8099,Morning
+8100,Herald
+8101,Harry
+8102,"('Sydney', 'Morning')"
+8103,"('Morning', 'Herald')"
+8104,"('Sydney', 'Morning', 'Herald')"
+8105,Harry
+8106,Fulham
+8107,Leverkusen
+8108,Kewell
+8109,December
+8110,Australia
+8111,South
+8112,Africa
+8113,Durban
+8114,Wednesday
+8115,"('South', 'Africa')"
+8116,Republic
+8117,China
+8118,Italy
+8119,Republic
+8120,Ireland
+8121,China
+8122,Italy
+8123,Lansdowne
+8124,Road
+8125,March
+8126,August
+8127,"('Lansdowne', 'Road')"
+8128,Chinese
+8129,March
+8130,World
+8131,Cup
+8132,Israel
+8133,Tel
+8134,Aviv
+8135,"('Brian', 'Kerr')"
+8136,"('World', 'Cup')"
+8137,"('Tel', 'Aviv')"
+8138,Italy
+8139,August
+8140,World
+8141,Cup
+8142,"('World', 'Cup')"
+8143,Irish
+8144,Italy
+8145,World
+8146,Cup
+8147,Finals
+8148,"('World', 'Cup')"
+8149,"('Cup', 'Finals')"
+8150,"('World', 'Cup', 'Finals')"
+8151,However
+8152,Republic
+8153,Italians
+8154,March
+8155,Republic
+8156,China
+8157,June
+8158,Irish
+8159,Sapporo
+8160,Japan
+8161,China
+8162,"('Brian', 'Kerr')"
+8163,Asian
+8164,World
+8165,Cup
+8166,China
+8167,"('World', 'Cup')"
+8168,Italy
+8169,Dublin
+8170,World
+8171,Cup
+8172,"('World', 'Cup')"
+8173,Ireland
+8174,World
+8175,Cup
+8176,France
+8177,September
+8178,Cyprus
+8179,October
+8180,Switzerland
+8181,October
+8182,"('World', 'Cup')"
+8183,McCall
+8184,Tannadice
+8185,Dundee
+8186,United
+8187,"('Dundee', 'United')"
+8188,"('Ian', 'McCall')"
+8189,"('Eddie', 'Thompson')"
+8190,McCall
+8191,Sheffield
+8192,Wednesday
+8193,Tannadice
+8194,"('Sheffield', 'Wednesday')"
+8195,"('Paul', 'Sturrock')"
+8196,Sturrock
+8197,Thompson
+8198,League
+8199,Cup
+8200,"('Ian', 'McCall')"
+8201,"('League', 'Cup')"
+8202,However
+8203,Dundee
+8204,United
+8205,McCall
+8206,Scottish
+8207,Cup
+8208,Queen
+8209,South
+8210,"('Dundee', 'United')"
+8211,"('Scottish', 'Cup')"
+8212,"('Jim', 'McIntyre')"
+8213,Hopefully
+8214,Keeper
+8215,McIntyre
+8216,"('Tony', 'Bullock')"
+8217,"('Ian', 'McCall')"
+8218,Saturday
+8219,Sturrock
+8220,Wednesday
+8221,League
+8222,One
+8223,"('League', 'One')"
+8224,Dundee
+8225,United
+8226,"('Dundee', 'United')"
+8227,Dundee
+8228,United
+8229,"('Dundee', 'United')"
+8230,Radcliffe
+8231,"('Paula', 'Radcliffe')"
+8232,Doping
+8233,Sunday
+8234,Times
+8235,"('Sunday', 'Times')"
+8236,Radcliffe
+8237,American
+8238,Often
+8239,Holmes
+8240,GB
+8241,Britain
+8242,"('Kelly', 'Holmes')"
+8243,Holmes
+8244,Olympic
+8245,January
+8246,Norwich
+8247,Union
+8248,International
+8249,Glasgow
+8250,"('Norwich', 'Union')"
+8251,"('Union', 'International')"
+8252,"('Norwich', 'Union', 'International')"
+8253,Grand
+8254,Prix
+8255,Birmingham
+8256,February
+8257,AAA
+8258,Sheffield
+8259,"('Grand', 'Prix')"
+8260,British
+8261,Greece
+8262,Glasgow
+8263,Holmes
+8264,Sweden
+8265,France
+8266,Russia
+8267,Italy
+8268,Balco
+8269,Bay
+8270,Area
+8271,Laboratory
+8272,Cooperative
+8273,Balco
+8274,"('Bay', 'Area')"
+8275,"('Area', 'Laboratory')"
+8276,"('Laboratory', 'Cooperative')"
+8277,"('Bay', 'Area', 'Laboratory')"
+8278,"('Area', 'Laboratory', 'Cooperative')"
+8279,US
+8280,Wednesday
+8281,June
+8282,"('Susan', 'Illston')"
+8283,September
+8284,Balco
+8285,"('Victor', 'Conte')"
+8286,"('James', 'Valente')"
+8287,"('Remy', 'Korchemny')"
+8288,"('Greg', 'Anderson')"
+8289,Anderson
+8290,"('Barry', 'Bonds')"
+8291,Balco
+8292,San
+8293,Francisco
+8294,"('San', 'Francisco')"
+8295,June
+8296,Balco
+8297,Anderson
+8298,Conte
+8299,Anderson
+8300,Ilston
+8301,Balco
+8302,United
+8303,States
+8304,Anti-Doping
+8305,Agency
+8306,USADA
+8307,THG
+8308,"('United', 'States')"
+8309,"('States', 'Anti-Doping')"
+8310,"('Anti-Doping', 'Agency')"
+8311,"('United', 'States', 'Anti-Doping')"
+8312,"('States', 'Anti-Doping', 'Agency')"
+8313,Former
+8314,Olympic
+8315,Balco
+8316,"('Kelli', 'White')"
+8317,"('Alvin', 'Harrison')"
+8318,Britain
+8319,European
+8320,THG
+8321,"('Dwain', 'Chambers')"
+8322,American
+8323,Conte
+8324,"('Marion', 'Jones')"
+8325,Pearce
+8326,Keegan
+8327,Joint
+8328,Manchester
+8329,City
+8330,"('Stuart', 'Pearce')"
+8331,"('Kevin', 'Keegan')"
+8332,"('Manchester', 'City')"
+8333,Keegan
+8334,City
+8335,Einstein
+8336,Pearce
+8337,BBC
+8338,GMR
+8339,"('BBC', 'GMR')"
+8340,Pearce
+8341,City
+8342,Keegan
+8343,"('Arthur', 'Cox')"
+8344,England
+8345,Nottingham
+8346,Forest
+8347,"('Nottingham', 'Forest')"
+8348,Oldham
+8349,Keegan
+8350,Pearce
+8351,Pearce
+8352,City
+8353,Kevin
+8354,Obviously
+8355,Man
+8356,City
+8357,Manchester
+8358,City
+8359,"('Man', 'City')"
+8360,"('Richard', 'Dunne')"
+8361,"('Manchester', 'City')"
+8362,City
+8363,"('Kevin', 'Keegan')"
+8364,Early
+8365,Hopefully
+8366,City
+8367,Newcastle
+8368,Dunne
+8369,January
+8370,"('Graeme', 'Souness')"
+8371,Dubliner
+8372,Eastlands
+8373,City
+8374,Keegan
+8375,January
+8376,Dunne
+8377,Keegan
+8378,Dunne
+8379,Newcastle
+8380,Middlesbrough
+8381,Keegan
+8382,Blackburn
+8383,Tuesday
+8384,"('Nicky', 'Weaver')"
+8385,Former
+8386,England
+8387,Under-21
+8388,Weaver
+8389,"('Former', 'England')"
+8390,"('England', 'Under-21')"
+8391,"('Former', 'England', 'Under-21')"
+8392,Robben
+8393,Cole
+8394,Chelsea
+8395,Cheslea
+8396,Portsmouth
+8397,Premiership
+8398,Pompey
+8399,"('Arjen', 'Robben')"
+8400,Chelsea
+8401,"('Joe', 'Cole')"
+8402,Pompey
+8403,"('Nigel', 'Quashie')"
+8404,Fratton
+8405,Park
+8406,Portsmouth
+8407,Chelsea
+8408,"('Fratton', 'Park')"
+8409,Striker
+8410,"('Didier', 'Drogba')"
+8411,"('Shaka', 'Hislop')"
+8412,"('Frank', 'Lampard')"
+8413,"('Arjan', 'De', 'Zeeuw')"
+8414,Pompey
+8415,Chelsea
+8416,Quashie
+8417,"('Petr', 'Cech')"
+8418,Pompey
+8419,Arsenal
+8420,Chelsea
+8421,"('Velimir', 'Zajec')"
+8422,Drogba
+8423,Hislop
+8424,Arjan
+8425,Zeeuw
+8426,Gudjohnsen
+8427,Pompey
+8428,"('Glen', 'Johnson')"
+8429,Icelandic
+8430,Arsenal
+8431,Portsmouth
+8432,Robben
+8433,Hislop
+8434,"('Matthew', 'Taylor')"
+8435,Cole
+8436,Pompey
+8437,Laporte
+8438,France
+8439,England
+8440,Saturday
+8441,Six
+8442,Nations
+8443,Wales
+8444,"('Bernard', 'Laporte')"
+8445,"('Six', 'Nations')"
+8446,Grand
+8447,Slam
+8448,"('Yannick', 'Nyanga')"
+8449,"('Grand', 'Slam')"
+8450,"('Imanol', 'Harinordoquy')"
+8451,"('Julien', 'Laharrague')"
+8452,"('Aurelien', 'Rougerie')"
+8453,"('Yannick', 'Jauzion')"
+8454,Laporte
+8455,"('Frederic', 'Michalak')"
+8456,Michalak
+8457,"('Yann', 'Delaigue')"
+8458,Laharrague
+8459,Brive
+8460,"('Jo', 'Maso')"
+8461,World
+8462,Cup
+8463,"('World', 'Cup')"
+8464,Jauzion
+8465,France
+8466,South
+8467,African-born
+8468,Liebeneberg
+8469,"('South', 'African-born')"
+8470,Stade
+8471,Toulousain
+8472,"('Stade', 'Toulousain')"
+8473,"('Damien', 'Traille')"
+8474,Jauzion
+8475,Laporte
+8476,Newcastle
+8477,Gloucester
+8478,Newcastle
+8479,Gloucester
+8480,"('Gloucester', 'Newcastle')"
+8481,"('Mathew', 'Tait')"
+8482,Falcons
+8483,Tait
+8484,England
+8485,Six
+8486,Nations
+8487,"('Six', 'Nations')"
+8488,Luke
+8489,Narraway
+8490,"('Luke', 'Narraway')"
+8491,Gloucester
+8492,"('Henry', 'Paul')"
+8493,"('Seti', 'Kiole')"
+8494,Newcastle
+8495,"('Joe', 'Shaw')"
+8496,"('Dave', 'Walder')"
+8497,"('Mark', 'Mayerholfer')"
+8498,Black
+8499,Tait
+8500,Walder
+8501,Newcastle
+8502,"('Michael', 'Stephenson')"
+8503,Mayerhofler
+8504,Tait
+8505,Walder
+8506,Mayerhofler
+8507,Walder
+8508,Newcastle
+8509,"('Hall', 'Charlton')"
+8510,Narraway
+8511,Henry
+8512,Gloucester
+8513,Kiole
+8514,Charlton
+8515,"('Tom', 'May')"
+8516,Thomas
+8517,Six
+8518,Nations
+8519,Wales
+8520,Six
+8521,Nations
+8522,"('Six', 'Nations')"
+8523,"('Nations', 'Wales')"
+8524,"('Gareth', 'Thomas')"
+8525,"('Six', 'Nations')"
+8526,"('Six', 'Nations', 'Wales')"
+8527,Monday
+8528,France
+8529,Saturday
+8530,Welsh
+8531,Wales
+8532,Thomas
+8533,Grand
+8534,Slam
+8535,"('Phil', 'Bennett')"
+8536,"('Grand', 'Slam')"
+8537,Bennett
+8538,BBC
+8539,Sport
+8540,"('BBC', 'Sport')"
+8541,"('Kevin', 'Morgan')"
+8542,"('Rhys', 'Williams')"
+8543,Thomas
+8544,Scotland
+8545,March
+8546,Irish
+8547,Bennett
+8548,Thomas
+8549,Williams
+8550,Paris
+8551,Gareth
+8552,Wales
+8553,"('Michael', 'Owen')"
+8554,"('Mike', 'Ruddock')"
+8555,France
+8556,Wales
+8557,Edinburgh
+8558,Scotland
+8559,Ireland
+8560,Cardiff
+8561,Grand
+8562,Slam
+8563,"('Grand', 'Slam')"
+8564,Bennett
+8565,Llanelli
+8566,Wales
+8567,Wales
+8568,Bennett
+8569,BBC
+8570,Radio
+8571,Five
+8572,Live
+8573,Sportsweek
+8574,"('BBC', 'Radio')"
+8575,"('Radio', 'Five')"
+8576,"('Five', 'Live')"
+8577,"('BBC', 'Radio', 'Five')"
+8578,"('Radio', 'Five', 'Live')"
+8579,France
+8580,Wales
+8581,Wales
+8582,Blacks
+8583,Ferguson
+8584,Boss
+8585,Sir
+8586,Manchester
+8587,United
+8588,Chelsea
+8589,Everton
+8590,Arsenal
+8591,Fulham
+8592,"('Boss', 'Sir')"
+8593,"('Alex', 'Ferguson')"
+8594,"('Manchester', 'United')"
+8595,Premiership
+8596,Chelsea
+8597,Gunners
+8598,Sunday
+8599,United
+8600,Ferguson
+8601,United
+8602,"('Alan', 'Smith')"
+8603,"('Bouba', 'Diop')"
+8604,Ferguson
+8605,United
+8606,Fulham
+8607,Ferguson
+8608,Arsenal
+8609,Chelsea
+8610,Costin
+8611,"('Jamie', 'Costin')"
+8612,Olympic
+8613,Stadium
+8614,Athens
+8615,Walk
+8616,"('Olympic', 'Stadium')"
+8617,Waterford
+8618,Jamie
+8619,Olympics
+8620,Jamie
+8621,Athens
+8622,Within
+8623,Ireland
+8624,Doctors
+8625,Athens
+8626,Jamie
+8627,Greek
+8628,Mater
+8629,Dublin
+8630,Mater
+8631,Jamie
+8632,January
+8633,Walking
+8634,Physio
+8635,Limerick
+8636,"('Johnston', 'McEvoy')"
+8637,Johnston
+8638,Needles
+8639,Jamie
+8640,Polish
+8641,Spala
+8642,Olympic
+8643,"('Robert', 'Korzeniowski')"
+8644,Basically
+8645,Jamie
+8646,Poland
+8647,Sunday
+8648,Jamie
+8649,Lying
+8650,March
+8651,Hopefully
+8652,White
+8653,Balco
+8654,Banned
+8655,American
+8656,Bay
+8657,Area
+8658,Lab
+8659,Co-Operative
+8660,Balco
+8661,"('Banned', 'American')"
+8662,"('Kelli', 'White')"
+8663,"('Bay', 'Area')"
+8664,"('Area', 'Lab')"
+8665,"('Lab', 'Co-Operative')"
+8666,"('Victor', 'Conte')"
+8667,"('Bay', 'Area', 'Lab')"
+8668,"('Area', 'Lab', 'Co-Operative')"
+8669,Conte
+8670,White
+8671,White
+8672,San
+8673,Francisco
+8674,Chronicle
+8675,"('San', 'Francisco')"
+8676,"('Francisco', 'Chronicle')"
+8677,"('San', 'Francisco', 'Chronicle')"
+8678,White
+8679,Conte
+8680,White
+8681,May
+8682,White
+8683,Victor
+8684,White
+8685,LA
+8686,Times
+8687,"('LA', 'Times')"
+8688,Whether
+8689,White
+8690,Conte
+8691,Balco
+8692,"('Remy', 'Korchemy')"
+8693,White
+8694,Parry
+8695,Anfield
+8696,BBC
+8697,Sport
+8698,Liverpool
+8699,"('BBC', 'Sport')"
+8700,"('Rick', 'Parry')"
+8701,Chief
+8702,Parry
+8703,Liverpool
+8704,Parry
+8705,Stanley
+8706,Park
+8707,"('Stanley', 'Park')"
+8708,Liverpool
+8709,European
+8710,Parry
+8711,Premier
+8712,League
+8713,"('Premier', 'League')"
+8714,Liverpool
+8715,Anfield
+8716,Chelsea
+8717,Manchester
+8718,United
+8719,Arsenal
+8720,"('Manchester', 'United')"
+8721,Throw
+8722,Parry
+8723,"('Steven', 'Gerrard')"
+8724,Liverpool
+8725,Kop
+8726,Parry
+8727,Liverpool
+8728,Liverpool
+8729,Liverpool
+8730,Parry
+8731,Parry
+8732,"('Rafael', 'Benitez')"
+8733,Spaniard
+8734,Benitez
+8735,Parry
+8736,Parry
+8737,Liverpool
+8738,Captain
+8739,Gerrard
+8740,Liverpool
+8741,Parry
+8742,Parry
+8743,Liverpool
+8744,Gerrard
+8745,Hawkpoint
+8746,March
+8747,Thailand
+8748,Prime
+8749,Minister
+8750,"('Thailand', 'Prime')"
+8751,"('Prime', 'Minister')"
+8752,"('Thaksin', 'Shiniwatra')"
+8753,"('Steve', 'Morgan')"
+8754,"('Thailand', 'Prime', 'Minister')"
+8755,Morgan
+8756,BBC
+8757,Sport
+8758,Morgan
+8759,Liverpool
+8760,Parry
+8761,"('BBC', 'Sport')"
+8762,Morgan
+8763,Liverpool
+8764,December
+8765,Liverpool
+8766,Morgan
+8767,Middle
+8768,East
+8769,America
+8770,Anfield
+8771,"('Middle', 'East')"
+8772,Parry
+8773,Liverpool
+8774,Liverpool
+8775,Parry
+8776,North
+8777,London
+8778,Liverpool
+8779,"('North', 'London')"
+8780,Liverpool
+8781,Arsenal
+8782,Emirates
+8783,Stadium
+8784,Ashburton
+8785,"('Emirates', 'Stadium')"
+8786,Parry
+8787,Liverpool
+8788,Liverpool
+8789,Gerrard
+8790,Directors
+8791,Gerrard
+8792,Gerrard
+8793,Critical
+8794,Liverpool
+8795,Gerrard
+8796,Ideally
+8797,"('Michael', 'Owen')"
+8798,Rafa
+8799,Gerrard
+8800,Gerrard
+8801,Parry
+8802,Gerrard
+8803,Upping
+8804,Parry
+8805,Gerrard
+8806,Gerrard
+8807,Clearly
+8808,League
+8809,Weir
+8810,Sunderland
+8811,Larne
+8812,Sunderland
+8813,Stoke
+8814,City
+8815,"('Robbie', 'Weir')"
+8816,"('Stoke', 'City')"
+8817,Irish
+8818,League
+8819,Rangers
+8820,Fulham
+8821,"('Irish', 'League')"
+8822,"('Mick', 'McCarthy')"
+8823,Larne
+8824,Weir
+8825,Inver
+8826,Park
+8827,"('Jimmy', 'McGeough')"
+8828,"('Inver', 'Park')"
+8829,Sunday
+8830,Sunderland
+8831,Robbie
+8832,Larne
+8833,Sunderland
+8834,Ferdinand
+8835,Glazer
+8836,American
+8837,Manchester
+8838,United
+8839,"('Rio', 'Ferdinand')"
+8840,"('Malcolm', 'Glazer')"
+8841,"('Manchester', 'United')"
+8842,Glazer
+8843,Family
+8844,Partnership
+8845,"('Family', 'Partnership')"
+8846,Ferdinand
+8847,BBC
+8848,Radio
+8849,Five
+8850,Live
+8851,Glazer
+8852,"('BBC', 'Radio')"
+8853,"('Radio', 'Five')"
+8854,"('Five', 'Live')"
+8855,"('BBC', 'Radio', 'Five')"
+8856,"('Radio', 'Five', 'Live')"
+8857,Glazer
+8858,United
+8859,Manchester
+8860,United
+8861,Glazer
+8862,"('Manchester', 'United')"
+8863,Glazer
+8864,United
+8865,Glazer
+8866,"('John', 'Magnier')"
+8867,"('JP', 'McManus')"
+8868,Irish
+8869,Glazer
+8870,Premier
+8871,League
+8872,Cole
+8873,Premier
+8874,League
+8875,Chelsea
+8876,"('Premier', 'League')"
+8877,"('Premier', 'League')"
+8878,"('Ashley', 'Cole')"
+8879,Chelsea
+8880,Arsenal
+8881,Premier
+8882,League
+8883,"('Premier', 'League')"
+8884,Premier
+8885,League
+8886,BBC
+8887,Sport
+8888,"('Premier', 'League')"
+8889,"('BBC', 'Sport')"
+8890,Arsenal
+8891,England
+8892,Cole
+8893,Blues
+8894,London
+8895,"('Jose', 'Mourinho')"
+8896,"('Peter', 'Kenyon')"
+8897,Chelsea
+8898,Premier
+8899,League
+8900,K3
+8901,"('Premier', 'League')"
+8902,Gunners
+8903,Cole
+8904,Gunners
+8905,Arsenal
+8906,England
+8907,Highbury
+8908,"('Robert', 'Pires')"
+8909,Pires
+8910,Evening
+8911,Standard
+8912,Arsenal
+8913,"('Evening', 'Standard')"
+8914,Arsenal
+8915,Chelsea
+8916,Ashley
+8917,Everybody
+8918,Newry
+8919,Newry
+8920,City
+8921,Friday
+8922,Nationwide
+8923,Irish
+8924,Cup
+8925,"('Newry', 'City')"
+8926,"('Nationwide', 'Irish')"
+8927,"('Irish', 'Cup')"
+8928,"('Nationwide', 'Irish', 'Cup')"
+8929,IFA
+8930,Newry
+8931,"('Andy', 'Crawford')"
+8932,Newry
+8933,FC
+8934,Newry
+8935,"('Newry', 'FC')"
+8936,"('Roy', 'McCreadie')"
+8937,Wednesday
+8938,IFA
+8939,Crawford
+8940,Bangor
+8941,Newry
+8942,Portadown
+8943,Newry
+8944,McCreadie
+8945,Wednesday
+8946,Wednesday
+8947,McCreadie
+8948,News
+8949,Letter
+8950,"('News', 'Letter')"
+8951,Irish
+8952,Cup
+8953,Bangor
+8954,Portadown
+8955,"('Irish', 'Cup')"
+8956,IAAF
+8957,Greek
+8958,Greek
+8959,Wednesday
+8960,"('Kostas', 'Kenteris')"
+8961,"('Katerina', 'Thanou')"
+8962,International
+8963,Association
+8964,Athletics
+8965,Federations
+8966,IAAF
+8967,Tuesday
+8968,"('International', 'Association')"
+8969,"('Athletics', 'Federations')"
+8970,Kenteris
+8971,Thanou
+8972,Olympics
+8973,Greek
+8974,"('Christos', 'Tzekos')"
+8975,However
+8976,IAAF
+8977,Greek
+8978,Kenteris
+8979,Thanou
+8980,Court
+8981,Arbitration
+8982,Sport
+8983,IAAF
+8984,IAAF
+8985,Tzekos
+8986,Qatar
+8987,Crete
+8988,Kenteris
+8989,Thanou
+8990,Tel
+8991,Aviv
+8992,Chicago
+8993,Greece
+8994,"('Tel', 'Aviv')"
+8995,Olympics
+8996,Athens
+8997,Games
+8998,Kenteris
+8999,Sydney
+9000,Olympics
+9001,Thanou
+9002,"('Sydney', 'Olympics')"
+9003,Trial
+9004,Balco
+9005,US
+9006,Balco
+9007,US
+9008,San
+9009,Francisco
+9010,"('Susan', 'Ilston')"
+9011,"('San', 'Francisco')"
+9012,March
+9013,January
+9014,January
+9015,Balco
+9016,"('Victor', 'Conte')"
+9017,"('James', 'Valente')"
+9018,"('Greg', 'Anderson')"
+9019,"('Remy', 'Korchemny')"
+9020,Conte
+9021,American
+9022,TV
+9023,Friday
+9024,"('American', 'TV')"
+9025,Balco
+9026,Bay
+9027,Area
+9028,Laboratory
+9029,Cooperative
+9030,"('Bay', 'Area')"
+9031,"('Area', 'Laboratory')"
+9032,"('Laboratory', 'Cooperative')"
+9033,"('Bay', 'Area', 'Laboratory')"
+9034,"('Area', 'Laboratory', 'Cooperative')"
+9035,United
+9036,States
+9037,Anti-Doping
+9038,Agency
+9039,USADA
+9040,THG
+9041,"('United', 'States')"
+9042,"('States', 'Anti-Doping')"
+9043,"('Anti-Doping', 'Agency')"
+9044,"('United', 'States', 'Anti-Doping')"
+9045,"('States', 'Anti-Doping', 'Agency')"
+9046,USADA
+9047,THG
+9048,Former
+9049,Olympic
+9050,Balco
+9051,"('Kelli', 'White')"
+9052,"('Alvin', 'Harrison')"
+9053,Britain
+9054,European
+9055,THG
+9056,"('Dwain', 'Chambers')"
+9057,World
+9058,Anti-Doping
+9059,Agency
+9060,IAAF
+9061,"('World', 'Anti-Doping')"
+9062,"('Anti-Doping', 'Agency')"
+9063,"('Kostas', 'Kenteris')"
+9064,"('Katerina', 'Thanou')"
+9065,"('World', 'Anti-Doping', 'Agency')"
+9066,Greek
+9067,Athletics
+9068,Federation
+9069,"('Greek', 'Athletics')"
+9070,"('Athletics', 'Federation')"
+9071,"('Greek', 'Athletics', 'Federation')"
+9072,IAAF
+9073,"('Dick', 'Pound')"
+9074,Court
+9075,Arbitration
+9076,Sport
+9077,Kenteris
+9078,Pound
+9079,"('Gregory', 'Ioannidis')"
+9080,Comments
+9081,IAAF
+9082,BBC
+9083,Sport
+9084,"('BBC', 'Sport')"
+9085,Kenteris
+9086,Thanou
+9087,Tel
+9088,Aviv
+9089,Chicago
+9090,Athens
+9091,Olympics
+9092,"('Tel', 'Aviv')"
+9093,Athens
+9094,Games
+9095,Olympic
+9096,August
+9097,"('Athens', 'Games')"
+9098,Athens
+9099,However
+9100,"('Christos', 'Tzekos')"
+9101,Kenteris
+9102,Thanou
+9103,Greek
+9104,Athens
+9105,Games
+9106,"('Athens', 'Games')"
+9107,Collins
+9108,World
+9109,Olympics
+9110,"('Kim', 'Collins')"
+9111,"('Dwain', 'Chambers')"
+9112,Chambers
+9113,THG
+9114,November
+9115,Collins
+9116,British
+9117,Olympic
+9118,Association
+9119,Olympics
+9120,"('British', 'Olympic')"
+9121,"('Olympic', 'Association')"
+9122,"('British', 'Olympic', 'Association')"
+9123,Collins
+9124,Radio
+9125,Five
+9126,Live
+9127,"('Radio', 'Five')"
+9128,"('Five', 'Live')"
+9129,"('Radio', 'Five', 'Live')"
+9130,Chambers
+9131,America
+9132,American
+9133,Collins
+9134,Dwain
+9135,Even
+9136,Old
+9137,Firm
+9138,Celtic
+9139,Rangers
+9140,Old
+9141,Firm
+9142,"('Old', 'Firm')"
+9143,"('Henri', 'Camara')"
+9144,"('Nacho', 'Novo')"
+9145,"('Old', 'Firm')"
+9146,Novo
+9147,Camara
+9148,Novo
+9149,Celtic
+9150,"('Stephen', 'Pearson')"
+9151,Camara
+9152,"('Gregory', 'Vignal')"
+9153,Rangers
+9154,Novo
+9155,"('Alex', 'McLeish')"
+9156,Celtic
+9157,Dundee
+9158,United
+9159,Rangers
+9160,Kilmarnock
+9161,"('Dundee', 'United')"
+9162,December
+9163,Camara
+9164,Livingston
+9165,Novo
+9166,Dundee
+9167,United
+9168,Dunfermline
+9169,"('Dundee', 'United')"
+9170,SFA
+9171,Friday
+9172,Meanwhile
+9173,Rangers
+9174,Rangers
+9175,"('Bob', 'Malcolm')"
+9176,Malcolm
+9177,Rangers
+9178,SFA
+9179,Malcolm
+9180,Rangers
+9181,Real
+9182,Real
+9183,Madrid
+9184,Real
+9185,Socieded
+9186,Sunday
+9187,"('Real', 'Madrid')"
+9188,"('Real', 'Socieded')"
+9189,Bernabeu
+9190,January
+9191,Brazilian
+9192,Ronaldo
+9193,England
+9194,"('David', 'Beckham')"
+9195,Real
+9196,Sociedad
+9197,"('Real', 'Sociedad')"
+9198,"('Jose', 'Luis', 'Astiazaran')"
+9199,Hundreds
+9200,Tourists
+9201,Spanish
+9202,FA
+9203,Monday
+9204,Astiazaran
+9205,FA
+9206,"('Spanish', 'FA')"
+9207,Real
+9208,Madrid
+9209,"('Real', 'Madrid')"
+9210,"('Emilio', 'Butragueno')"
+9211,Butragueno
+9212,Tuesday
+9213,Ronaldo
+9214,Zidane
+9215,Butragueno
+9216,Partido
+9217,Pobreza
+9218,Game
+9219,Poverty
+9220,Football
+9221,O'Gara
+9222,Ireland
+9223,Ireland
+9224,England
+9225,"('Ronan', ""O'Gara"")"
+9226,Munster
+9227,Grand
+9228,Slam
+9229,"('Grand', 'Slam')"
+9230,BBC
+9231,Sport
+9232,England
+9233,"('BBC', 'Sport')"
+9234,England
+9235,Ireland
+9236,O'Gara
+9237,England
+9238,Six
+9239,Nations
+9240,"('Shane', 'Byrne')"
+9241,"('Six', 'Nations')"
+9242,Byrne
+9243,Ireland
+9244,England
+9245,"('Brian', ""O'Driscoll"")"
+9246,Ireland
+9247,England
+9248,"('Eddie', ""O'Sullivan"")"
+9249,"('Andy', 'Robinson')"
+9250,"('Mark', 'Cueto')"
+9251,Andy
+9252,Andy
+9253,O'Sullivan
+9254,England
+9255,O'Sullivan
+9256,Robinson
+9257,England
+9258,O'Driscoll
+9259,Ireland
+9260,Six
+9261,Nations
+9262,"('Six', 'Nations')"
+9263,Hopefully
+9264,"('Geordan', 'Murphy')"
+9265,"('Denis', 'Hickie')"
+9266,Hodgson
+9267,England
+9268,Fly-half
+9269,England
+9270,France
+9271,"('Charlie', 'Hodgson')"
+9272,Hodgson
+9273,England
+9274,Hodgson
+9275,Hodgson
+9276,"('Olly', 'Barkley')"
+9277,"('Andy', 'Robinson')"
+9278,However
+9279,England
+9280,France
+9281,England
+9282,France
+9283,"('Dimitri', 'Yachvili')"
+9284,England
+9285,France
+9286,"('Jason', 'Robinson')"
+9287,Last

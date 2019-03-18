@@ -1,0 +1,4250 @@
+,Candidates,Labels,Prediction
+0,Fuming,0,0
+1,Robinson,1,1
+2,England,0,0
+3,Sunday,0,0
+4,Six,0,0
+5,Nations,0,0
+6,Ireland,0,0
+7,Dublin,0,0
+8,"('Andy', 'Robinson')",1,1
+9,"('Six', 'Nations')",0,0
+10,TV,0,0
+11,England,0,0
+12,"('Mark', 'Cueto')",1,0
+13,Robinson,1,1
+14,BBC,0,0
+15,Sport,0,0
+16,"('BBC', 'Sport')",0,0
+17,South,0,0
+18,African,0,0
+19,Cueto,1,0
+20,Sale,0,0
+21,"('South', 'African')",0,0
+22,"('Jonathan', 'Kaplan')",1,1
+23,"('Charlie', 'Hodgson')",1,1
+24,Kaplan,1,1
+25,Irish,0,0
+26,"('Josh', 'Lewsey')",1,1
+27,Robinson,1,1
+28,"('Mark', 'Cueto')",1,1
+29,"('Josh', 'Lewsey')",1,1
+30,Cueto,1,0
+31,"('Matt', 'Stevens')",1,1
+32,"('Charlie', 'Hodgson')",1,1
+33,"('Martin', 'Corry')",1,1
+34,"('Lewis', 'Moody')",1,1
+35,"('Josh', 'Lewsey')",1,1
+36,Given,0,0
+37,Ireland,0,0
+38,Six,0,0
+39,Nations,0,0
+40,"('Six', 'Nations')",0,0
+41,England,0,0
+42,Six,0,0
+43,Nations,0,0
+44,Robinson,0,1
+45,Sir,0,0
+46,September,0,0
+47,"('Six', 'Nations')",0,0
+48,"('Clive', 'Woodward')",1,1
+49,Greek,0,0
+50,IAAF,0,0
+51,"('Kostas', 'Kenteris')",1,1
+52,"('Katerina', 'Thanou')",1,1
+53,Athletics,0,0
+54,Athens,0,0
+55,Olympics,0,0
+56,"('Athens', 'Olympics')",0,0
+57,Greek,0,0
+58,Track,0,1
+59,Field,0,0
+60,Federation,0,1
+61,"('Greek', 'Track')",0,0
+62,"('Field', 'Federation')",0,1
+63,Kenteris,1,1
+64,BBC,0,0
+65,Sport,0,0
+66,"('Gregory', 'Ioannidis')",1,1
+67,"('BBC', 'Sport')",0,0
+68,Ioannidis,1,1
+69,University,0,0
+70,Buckingham,0,0
+71,One,0,0
+72,IAAF,0,0
+73,"('Christos', 'Tzekos')",1,1
+74,Kenteris,1,1
+75,Olympic,0,0
+76,Thanou,1,0
+77,Games,0,0
+78,Sydney,0,0
+79,Olympics,0,0
+80,August,0,0
+81,Testers,0,0
+82,Olympic,0,0
+83,Tel,0,0
+84,Aviv,0,0
+85,Chicago,0,0
+86,Athens,0,0
+87,Games,0,0
+88,"('Tel', 'Aviv')",0,0
+89,December,0,0
+90,IAAF,0,0
+91,Whatever,0,0
+92,Court,0,0
+93,Arbitration,0,0
+94,Sport,0,0
+95,Hellenic,0,0
+96,Olympic,0,0
+97,Committee,0,0
+98,"('Hellenic', 'Olympic')",0,0
+99,"('Olympic', 'Committee')",0,0
+100,"('Hellenic', 'Olympic', 'Committee')",0,0
+101,GMT,0,0
+102,Saturday,0,0
+103,"('Konstantinos', 'Panagopoulos')",1,1
+104,"('Panagiotis', 'Dimakos')",1,0
+105,"('Haralabos', 'Hrisanthakis')",1,1
+106,"('Stilianos', 'Perakis')",1,1
+107,"('Ioannis', 'Karmis')",1,1
+108,Kenteris,1,1
+109,Thanou,1,0
+110,Greece,0,0
+111,Eight,0,0
+112,Tzekos,1,0
+113,Smith,1,1
+114,Scotland,0,0
+115,"('Walter', 'Smith')",1,1
+116,Smith,1,1
+117,Manchester,0,0
+118,World,0,0
+119,Cup,0,0
+120,Scotland,0,0
+121,Smith,1,1
+122,"('World', 'Cup')",0,0
+123,Obviously,0,0
+124,Italian,0,0
+125,Moldova,0,0
+126,Smith,0,1
+127,Monday,0,0
+128,Mottram,0,0
+129,Hall,0,0
+130,Cheshire,0,1
+131,Manchester,0,0
+132,United,0,0
+133,Carrington,0,0
+134,"('Mottram', 'Hall')",0,1
+135,"('Manchester', 'United')",0,0
+136,Smith,1,1
+137,Sardinia,0,0
+138,Wednesday,0,0
+139,Italy,0,0
+140,Russia,0,0
+141,Man,0,0
+142,City,0,0
+143,Man,0,0
+144,Utd,0,0
+145,Manchester,0,0
+146,United,0,0
+147,Chelsea,0,0
+148,Premiership,0,0
+149,Manchester,0,0
+150,City,0,0
+151,"('Man', 'City')",0,0
+152,"('Man', 'Utd')",0,0
+153,"('Utd', 'Manchester')",0,0
+154,"('Manchester', 'United')",0,0
+155,"('Manchester', 'City')",0,0
+156,"('Man', 'Utd', 'Manchester')",0,1
+157,"('Utd', 'Manchester', 'United')",0,0
+158,United,0,0
+159,"('Wayne', 'Rooney')",1,1
+160,"('Gary', 'Neville')",1,1
+161,"('Richard', 'Dunne')",1,1
+162,Seven,0,0
+163,Dunne,1,1
+164,"('David', 'James')",1,0
+165,City,0,0
+166,"('Steve', 'McManaman')",1,1
+167,United,0,0
+168,Chelsea,0,0
+169,"('Paul', 'Scholes')",1,1
+170,City,0,1
+171,"('Shaun', 'Wright-Phillips')",1,1
+172,"('Gabriel', 'Heinze')",1,1
+173,Wright-Phillips,1,1
+174,"('Wes', 'Brown')",1,1
+175,Wright-Phillips,1,0
+176,Brown,1,1
+177,McManaman,1,0
+178,Liverpool,0,0
+179,United,0,0
+180,"('John', ""O'Shea"")",1,1
+181,"('Sylvain', 'Distin')",1,1
+182,"('Cristiano', 'Ronaldo')",1,1
+183,United,0,0
+184,"('Ben', 'Thatcher')",1,1
+185,Rooney,1,1
+186,Dunne,1,0
+187,United,0,0
+188,Neville,1,1
+189,City,0,0
+190,Rooney,1,1
+191,McManaman,1,0
+192,Dunne,1,1
+193,Worse,0,0
+194,Dunne,1,0
+195,Rooney,1,1
+196,United,0,0
+197,However,0,0
+198,City,0,0
+199,Fowler,1,1
+200,United,0,0
+201,"('Roy', 'Carroll')",1,1
+202,"('Kiki', 'Musampa')",1,1
+203,United,0,0
+204,"('Ryan', 'Giggs')",1,1
+205,Jones,1,1
+206,Conte,1,0
+207,Balco,0,0
+208,"('Marion', 'Jones')",1,1
+209,"('Victor', 'Conte')",1,1
+210,Sydney,0,0
+211,Olympic,0,0
+212,Conte,1,0
+213,"('Sydney', 'Olympic')",0,0
+214,Conte,1,0
+215,US,0,0
+216,February,0,0
+217,Associated,0,0
+218,Press,0,1
+219,Wednesday,0,0
+220,Conte,1,1
+221,"('Associated', 'Press')",0,1
+222,Jones,1,1
+223,Sydney,0,0
+224,US,0,0
+225,District,0,0
+226,Court,0,0
+227,San,0,0
+228,Francisco,0,0
+229,"('US', 'District')",0,0
+230,"('District', 'Court')",0,0
+231,"('San', 'Francisco')",0,0
+232,"('US', 'District', 'Court')",0,0
+233,Conte,1,1
+234,ABC,0,0
+235,Jones,1,0
+236,Marion,0,1
+237,"('Richard', 'Nicholls')",1,1
+238,Victor,0,0
+239,Conte,1,1
+240,America,0,0
+241,"('Marion', 'Jones')",1,1
+242,Mr,0,0
+243,Conte,1,1
+244,Mr,0,0
+245,Conte,1,1
+246,"('Marion', 'Jones')",1,1
+247,Mr,0,0
+248,Conte,1,1
+249,"('Marion', 'Jones')",1,1
+250,IAAF,0,0
+251,Conte,1,1
+252,US,0,0
+253,Anti-Doping,0,0
+254,Agency,0,0
+255,"('US', 'Anti-Doping')",0,0
+256,"('Anti-Doping', 'Agency')",0,0
+257,"('US', 'Anti-Doping', 'Agency')",0,0
+258,Communications,0,0
+259,IAAF,0,0
+260,Conte,1,0
+261,"('Nick', 'Davies')",1,1
+262,Davies,1,1
+263,American,0,0
+264,Jones,1,0
+265,Conte,1,1
+266,USA,0,0
+267,Track,0,1
+268,Field,0,0
+269,"('USA', 'Track')",0,0
+270,US,0,0
+271,Anti-Doping,0,0
+272,Agency,0,0
+273,"('US', 'Anti-Doping')",0,0
+274,"('Anti-Doping', 'Agency')",0,0
+275,"('US', 'Anti-Doping', 'Agency')",0,0
+276,Jones,0,0
+277,US,0,0
+278,Anti-Doping,0,0
+279,Agency,0,0
+280,Balco,0,0
+281,Conte,1,1
+282,"('US', 'Anti-Doping')",0,0
+283,"('Anti-Doping', 'Agency')",0,0
+284,"('US', 'Anti-Doping', 'Agency')",0,0
+285,Jones,1,0
+286,Athens,0,0
+287,August,0,0
+288,Meanwhile,0,0
+289,Conte,1,0
+290,March,0,0
+291,Celtic,0,0
+292,Bulgaria,0,0
+293,Bulgaria,0,0
+294,Celtic,0,0
+295,"('Martin', ""O'Neill"")",1,1
+296,"('Stilian', 'Petrov')",1,1
+297,Celtic,0,0
+298,Valenciana,0,0
+299,Spain,0,0
+300,December,0,0
+301,Christmas,0,0
+302,O'Neill,1,1
+303,Bulgarian,0,0
+304,FA,0,0
+305,"('Bulgarian', 'FA')",0,0
+306,Bulgaria,0,0
+307,Celtic,0,0
+308,Boxing,0,0
+309,Day,0,0
+310,Hearts,0,0
+311,January,0,0
+312,Livingston,0,0
+313,"('Boxing', 'Day')",0,0
+314,Barcelona,0,0
+315,Bulgarian,0,0
+316,"('Hristo', 'Stoichkov')",1,1
+317,Bulgaria,0,0
+318,Lewsey,1,1
+319,England,0,0
+320,Six,0,0
+321,Nations,0,0
+322,Ireland,0,0
+323,"('Josh', 'Lewsey')",1,1
+324,"('Six', 'Nations')",0,0
+325,Wasps,0,0
+326,"('Jonathan', 'Kaplan')",1,1
+327,Lewsey,1,1
+328,BBC,0,0
+329,Sport,0,0
+330,"('BBC', 'Sport')",0,0
+331,Lewsey,1,1
+332,One,0,0
+333,Irish,0,0
+334,"('Mark', 'Cueto')",1,0
+335,"('Charlie', 'Hodgson')",1,1
+336,Cueto,1,0
+337,Kaplan,1,0
+338,Sale,0,0
+339,Today,0,0
+340,Beckham,1,1
+341,Real,0,0
+342,Madrid,0,0
+343,"('Real', 'Madrid')",0,0
+344,"('David', 'Beckham')",1,1
+345,England,0,0
+346,Canal,0,0
+347,Plus,0,0
+348,"('Canal', 'Plus')",0,0
+349,Bobby,0,1
+350,Charlton,0,0
+351,"('Bobby', 'Charlton')",0,0
+352,London,0,0
+353,LA,0,0
+354,Unicef,0,0
+355,Beckham,1,1
+356,Spanish,0,0
+357,Real,0,0
+358,Madrid,0,0
+359,"('Real', 'Madrid')",0,0
+360,Real,0,0
+361,Barcelona,0,0
+362,Sevilla,0,0
+363,Wednesday,0,0
+364,Beckham,1,1
+365,La,0,0
+366,Liga,0,0
+367,Real,0,0
+368,Madrid,0,0
+369,"('La', 'Liga')",0,0
+370,"('Real', 'Madrid')",0,0
+371,Beckham,1,0
+372,Argentina,0,0
+373,Asked,0,0
+374,Argentina,0,0
+375,Sir,0,0
+376,"('Alex', 'Ferguson')",1,1
+377,Yelling,1,1
+378,Cardiff,0,0
+379,European,0,0
+380,Hayley,0,0
+381,Yelling,0,1
+382,Reebok,0,0
+383,Cardiff,0,0
+384,Cross,0,0
+385,Challenge,0,0
+386,Bute,0,0
+387,Park,0,0
+388,Sunday,0,0
+389,"('Hayley', 'Yelling')",0,1
+390,"('Reebok', 'Cardiff')",0,0
+391,"('Cardiff', 'Cross')",0,0
+392,"('Cross', 'Challenge')",0,0
+393,"('Bute', 'Park')",0,1
+394,"('Reebok', 'Cardiff', 'Cross')",0,0
+395,"('Cardiff', 'Cross', 'Challenge')",0,0
+396,Irish,0,0
+397,"('Jolene', 'Byrne')",1,1
+398,Another,0,0
+399,Great,0,0
+400,Britain,0,0
+401,England,0,0
+402,"('Another', 'Great')",0,0
+403,"('Great', 'Britain')",0,0
+404,"('Louise', 'Damen')",1,1
+405,"('Another', 'Great', 'Britain')",0,0
+406,GB,0,0
+407,European,0,0
+408,Championships,0,0
+409,"('Peter', 'Riley')",1,1
+410,"('European', 'Championships')",0,0
+411,Riley,1,0
+412,England,0,0
+413,Ireland,0,0
+414,"('Gary', 'Murray')",1,1
+415,UK,0,0
+416,Inter-Countries,0,0
+417,England,0,0
+418,Cross-Country,0,0
+419,"('Glynn', 'Tromans')",1,1
+420,"('UK', 'Inter-Countries')",0,0
+421,"('England', 'Cross-Country')",0,0
+422,Holmes,1,1
+423,Worlds,0,1
+424,Britain,0,0
+425,"('Jolanda', 'Ceplak')",1,1
+426,"('Kelly', 'Holmes')",1,1
+427,Double,0,0
+428,Olympic,0,0
+429,Holmes,1,1
+430,Worlds,0,1
+431,European,0,0
+432,Indoors,0,0
+433,"('Double', 'Olympic')",0,0
+434,"('European', 'Indoors')",0,0
+435,World,0,0
+436,Indoor,0,0
+437,Ceplak,1,0
+438,"('World', 'Indoor')",0,1
+439,Ceplak,1,1
+440,Holmes,0,0
+441,Briton,0,0
+442,Holmes,1,1
+443,Slovenian,0,0
+444,European,0,0
+445,Championships,0,0
+446,"('European', 'Championships')",0,0
+447,Ceplak,1,1
+448,Holmes,1,0
+449,British,0,0
+450,Indoor,0,0
+451,Norwich,0,0
+452,Union,0,0
+453,Grand,0,0
+454,Prix,0,0
+455,Birmingham,0,0
+456,"('British', 'Indoor')",0,0
+457,"('Norwich', 'Union')",0,0
+458,"('Union', 'Grand')",0,0
+459,"('Grand', 'Prix')",0,0
+460,"('Norwich', 'Union', 'Grand')",0,0
+461,"('Union', 'Grand', 'Prix')",0,0
+462,Ceplak,1,1
+463,Meanwhile,0,0
+464,Ceplak,1,1
+465,Saturday,0,0
+466,Boston,0,0
+467,Friday,0,0
+468,Night,0,1
+469,Athletics,0,0
+470,Erfurt,0,0
+471,Germany,0,0
+472,Britain,0,0
+473,Erfurt,0,0
+474,Leipzig,0,0
+475,Sunday,0,0
+476,"('Jason', 'Gardener')",1,1
+477,Gardener,0,1
+478,Scotland,0,0
+479,British,0,0
+480,Norwich,0,0
+481,Union,0,0
+482,European,0,0
+483,Sheffield,0,0
+484,"('Ian', 'Mackie')",1,1
+485,"('Norwich', 'Union')",0,0
+486,"('Union', 'European')",0,0
+487,"('Norwich', 'Union', 'European')",0,0
+488,Sociedad,0,1
+489,Mladenovic,1,0
+490,Rangers,0,0
+491,Real,0,0
+492,Sociedad,0,0
+493,January,0,0
+494,"('Dragan', 'Mladenovic')",1,1
+495,"('Real', 'Sociedad')",0,0
+496,Sociedad,0,0
+497,Spanish,0,0
+498,FA,0,0
+499,"('Spanish', 'FA')",0,0
+500,Mladenovic,1,0
+501,Rangers,0,0
+502,Everton,0,0
+503,"('Mikel', 'Arteta')",1,1
+504,Sociedad,0,0
+505,Rangers,0,0
+506,Serbia,0,0
+507,Montenegro,0,0
+508,Mladenovic,1,1
+509,Rangers,0,0
+510,Red,0,0
+511,Star,0,0
+512,Belgrade,0,0
+513,San,0,0
+514,Sebastian,0,0
+515,Bulgaria,0,0
+516,"('Red', 'Star')",0,0
+517,"('Star', 'Belgrade')",0,0
+518,"('San', 'Sebastian')",0,0
+519,"('Red', 'Star', 'Belgrade')",0,0
+520,Sociedad,0,1
+521,Primera,0,0
+522,Liga,0,0
+523,"('Primera', 'Liga')",0,0
+524,Special,0,0
+525,Spanish,0,0
+526,FA,0,0
+527,"('Spanish', 'FA')",0,0
+528,"('Igor', 'Jauregi')",1,1
+529,Mladenovic,1,0
+530,Rangers,0,0
+531,Mladenovic,1,1
+532,Ibrox,0,0
+533,Glasgow,0,0
+534,Bell,1,0
+535,England,0,0
+536,Bath,0,0
+537,England,0,0
+538,Ireland,0,0
+539,RBS,0,0
+540,Six,0,0
+541,Nations,0,0
+542,"('Duncan', 'Bell')",1,0
+543,"('RBS', 'Six')",0,0
+544,"('Six', 'Nations')",0,0
+545,"('RBS', 'Six', 'Nations')",0,0
+546,Bell,1,1
+547,England,0,0
+548,"('Phil', 'Vickery')",1,1
+549,"('Julian', 'White')",1,1
+550,Bell,1,0
+551,Wales,0,0
+552,December,0,0
+553,International,0,0
+554,Rugby,0,0
+555,Board,0,1
+556,England,0,0
+557,"('International', 'Rugby')",0,0
+558,"('Rugby', 'Board')",0,0
+559,"('International', 'Rugby', 'Board')",0,0
+560,England,0,0
+561,Sale,0,0
+562,Sharks,0,1
+563,"('Andy', 'Robinson')",1,1
+564,"('Sale', 'Sharks')",0,0
+565,"('Andrew', 'Sheridan')",1,1
+566,Sheridan,1,1
+567,Bell,1,0
+568,England,0,0
+569,France,0,1
+570,Robinson,1,1
+571,Bath,0,0
+572,Gloucester,0,0
+573,"('Olly', 'Barkley')",1,1
+574,Monday,0,0
+575,Gloucester,0,0
+576,Bath,0,0
+577,Kingsholm,0,0
+578,"('Henry', 'Paul')",1,1
+579,Despite,0,0
+580,Barkley,1,1
+581,France,0,0
+582,Leicester,0,0
+583,"('Ollie', 'Smith')",1,1
+584,Bath,0,0
+585,Barkley,1,0
+586,Dublin,0,0
+587,"('John', 'Connolly')",1,1
+588,Uncapped,0,0
+589,Ireland,0,0
+590,Leicester,0,0
+591,Newcastle,0,0
+592,Sunday,0,0
+593,"('Andy', 'Goode')",1,1
+594,England,0,0
+595,Surrey,0,0
+596,Monday,0,0
+597,Brizzel,1,1
+598,AAA,0,0
+599,Sheffield,0,0
+600,Ballymena,0,0
+601,Ireland,0,0
+602,European,0,0
+603,Indoor,0,0
+604,AAA,0,0
+605,Championships,0,0
+606,"('Sheffield', 'Ballymena')",0,0
+607,"('Paul', 'Brizzel')",1,1
+608,"('European', 'Indoor')",0,0
+609,US-based,0,0
+610,Irish,0,0
+611,Europeans,0,0
+612,Sheffield,0,0
+613,"('Alistair', 'Cragg')",1,1
+614,"('Mark', 'Carroll')",1,1
+615,Brizzel,1,1
+616,British,0,0
+617,In-form,0,0
+618,British,0,0
+619,Madrid,0,0
+620,"('James', 'McIlroy')",1,1
+621,McIlroy,1,1
+622,European,0,0
+623,Madrid,0,0
+624,Corkman,0,1
+625,Cragg,1,1
+626,European,0,0
+627,Championships,0,0
+628,"('Mark', 'Carroll')",1,1
+629,"('European', 'Championships')",0,0
+630,Carroll,1,1
+631,Cragg,1,1
+632,Meanwhile,0,0
+633,Northern,0,0
+634,Ireland,0,0
+635,Cross,0,0
+636,Country,0,0
+637,Championships,0,0
+638,Coleraine,0,1
+639,Saturday,0,0
+640,"('Dermot', 'Donnelly')",1,1
+641,"('Northern', 'Ireland')",0,0
+642,"('Ireland', 'Cross')",0,0
+643,"('Cross', 'Country')",0,0
+644,"('Country', 'Championships')",0,0
+645,"('Northern', 'Ireland', 'Cross')",0,0
+646,"('Ireland', 'Cross', 'Country')",0,0
+647,"('Cross', 'Country', 'Championships')",0,0
+648,Donnelly,1,1
+649,BBC,0,0
+650,Sport,0,0
+651,Friday,0,0
+652,"('Annadale', 'Striders')",1,1
+653,"('John', 'McLaughlin')",1,1
+654,"('BBC', 'Sport')",0,0
+655,Willowfield,0,1
+656,Annadale,1,1
+657,"('Paul', 'Rowan')",1,1
+658,"('Andrew', 'Dunwoody')",1,1
+659,"('Noel', 'Pollock')",1,1
+660,African,0,0
+661,Edinburgh,0,1
+662,World,0,0
+663,View,0,0
+664,Great,0,0
+665,Edinburgh,0,0
+666,Cross,0,0
+667,Country,0,0
+668,"('Edinburgh', 'World')",0,0
+669,"('Eliud', 'Kipchoge')",1,1
+670,"('Great', 'Edinburgh')",0,0
+671,"('Edinburgh', 'Cross')",0,0
+672,"('Cross', 'Country')",0,0
+673,"('Great', 'Edinburgh', 'Cross')",0,0
+674,"('Edinburgh', 'Cross', 'Country')",0,0
+675,Kenyan,0,0
+676,Newcastle,0,0
+677,Ethiopian,0,0
+678,Kipchoge,1,1
+679,"('Gebre', 'Gebremariam')",1,1
+680,"('Dejene', 'Berhanu')",1,1
+681,Briton,0,0
+682,British,0,0
+683,"('Gavin', 'Thompson')",1,1
+684,"('Nick', 'McCormick')",1,1
+685,"('Morpeth', 'Harrier')",1,1
+686,"('Mike', 'Skinner')",1,1
+687,"('Andrew', 'Baddeley')",1,1
+688,McCormick,1,0
+689,British,0,0
+690,World,0,0
+691,Championships,0,0
+692,Helsinki,0,0
+693,"('World', 'Championships')",0,0
+694,Ethiopia,0,0
+695,"('Tirunesh', 'Dibaba')",1,1
+696,"('Benita', 'Johnson')",1,1
+697,Australian,0,0
+698,Johnson,1,0
+699,African,0,0
+700,Brussels,0,0
+701,March,0,0
+702,Dibaba,1,1
+703,Britons,0,0
+704,"('Kathy', 'Butler')",1,1
+705,"('Hayley', 'Yelling')",1,1
+706,Thanou,1,0
+707,Greek,0,0
+708,Greek,0,0
+709,"('Katerina', 'Thanou')",1,1
+710,Thanou,1,0
+711,Olympics,0,0
+712,IAAF,0,0
+713,Greece,0,0
+714,Thanou,1,1
+715,Vima,0,0
+716,Athens,0,0
+717,Olympics,0,0
+718,"('Athens', 'Olympics')",0,0
+719,Thanou,1,0
+720,IAAF,0,0
+721,December,0,0
+722,"('Kostas', 'Kenteris')",1,1
+723,Athens,0,0
+724,Olympics,0,0
+725,"('Athens', 'Olympics')",0,0
+726,Greek,0,0
+727,Athletics,0,0
+728,Federation,0,1
+729,March,0,0
+730,"('Greek', 'Athletics')",0,0
+731,"('Athletics', 'Federation')",0,0
+732,"('Greek', 'Athletics', 'Federation')",0,0
+733,IAAF,0,0
+734,Greek,0,0
+735,Court,0,0
+736,Arbitration,0,0
+737,Sport,0,0
+738,However,0,0
+739,World,0,0
+740,Anti-Doping,0,0
+741,Authority,0,0
+742,IAAF,0,0
+743,"('Dick', 'Pound')",1,1
+744,"('World', 'Anti-Doping')",0,0
+745,"('Anti-Doping', 'Authority')",0,0
+746,"('World', 'Anti-Doping', 'Authority')",0,0
+747,Thanou,1,0
+748,Kenteris,1,1
+749,Thanou,1,1
+750,PR,0,0
+751,Bellamy,1,1
+752,Newcastle,0,0
+753,Welsh,0,1
+754,"('Craig', 'Bellamy')",1,1
+755,"('Graeme', 'Souness')",1,1
+756,Bellamy,1,0
+757,Tuesday,0,0
+758,Magpies,0,0
+759,Newcastle,0,0
+760,Evening,0,0
+761,Chronicle,0,0
+762,"('Freddy', 'Shepherd')",1,1
+763,"('Newcastle', 'Evening')",0,0
+764,"('Evening', 'Chronicle')",0,1
+765,"('Newcastle', 'Evening', 'Chronicle')",0,0
+766,Souness,0,1
+767,Bellamy,1,0
+768,Sunday,0,0
+769,Arsenal,0,0
+770,Welshman,0,1
+771,Bellamy,1,0
+772,Souness,1,0
+773,Wales,0,0
+774,Evening,0,0
+775,Chronicle,0,0
+776,"('Evening', 'Chronicle')",0,1
+777,Souness,1,0
+778,Bellamy,1,1
+779,Bellamy,1,1
+780,Souness,0,1
+781,Shepherd,1,0
+782,Bellamy,1,0
+783,Shepherd,1,0
+784,Craig,1,1
+785,Friday,0,0
+786,Graeme,1,1
+787,Bellamy,1,1
+788,Bellamy,1,1
+789,Graeme,1,0
+790,Bellamy,1,1
+791,Newcastle,0,0
+792,Bellamy,1,1
+793,Newcastle,0,0
+794,Strachan,1,1
+795,Pompey,0,0
+796,Former,0,0
+797,Southampton,0,0
+798,Portsmouth,0,0
+799,"('Pompey', 'Former')",0,1
+800,"('Former', 'Southampton')",0,0
+801,"('Gordon', 'Strachan')",1,1
+802,"('Pompey', 'Former', 'Southampton')",0,0
+803,Scot,0,0
+804,Pompey,0,1
+805,Fratton,0,0
+806,Park,0,0
+807,Saints,0,0
+808,December,0,1
+809,"('Milan', 'Mandaric')",1,1
+810,"('Harry', 'Redknapp')",1,1
+811,"('Fratton', 'Park')",0,1
+812,Southampton,0,0
+813,Strachan,1,1
+814,BBC,0,0
+815,Club,0,0
+816,Strachan,1,0
+817,Saturday,0,0
+818,"('Terry', 'Brady')",1,1
+819,Scotland,0,0
+820,Southampton,0,0
+821,Everything,0,1
+822,Southampton,0,0
+823,Since,0,0
+824,Redknapp,1,1
+825,"('Velimir', 'Zajec')",1,1
+826,"('Joe', 'Jordan')",1,1
+827,Sunday,0,0
+828,Arsenal,0,0
+829,Premiership,0,0
+830,Strachan,1,1
+831,St,0,0
+832,Mary,0,0
+833,February,0,0
+834,"('St', 'Mary')",0,0
+835,Coventry,0,0
+836,Lewis-Francis,1,1
+837,Olympic,0,0
+838,World,0,0
+839,Championship,0,0
+840,"('Mark', 'Lewis-Francis')",1,1
+841,"('World', 'Championship')",0,0
+842,Athens,0,0
+843,Team,0,0
+844,GB,0,0
+845,"('Maurice', 'Greene')",1,1
+846,"('Team', 'GB')",0,0
+847,World,0,0
+848,Junior,0,0
+849,Championship,0,0
+850,"('Birchfield', 'Harrier')",1,1
+851,"('World', 'Junior')",0,0
+852,"('Junior', 'Championship')",0,0
+853,"('World', 'Junior', 'Championship')",0,0
+854,Athens,0,0
+855,Lewis-Francis,1,1
+856,Norwich,0,0
+857,Union,0,0
+858,Grand,0,0
+859,Prix,0,0
+860,Birmingham,0,0
+861,February,0,0
+862,Britain,0,0
+863,"('Norwich', 'Union')",0,0
+864,"('Union', 'Grand')",0,0
+865,"('Grand', 'Prix')",0,0
+866,"('Jason', 'Gardener')",1,1
+867,"('Norwich', 'Union', 'Grand')",0,0
+868,"('Union', 'Grand', 'Prix')",0,0
+869,Helsinki,0,0
+870,Johnson,1,1
+871,Euro,0,0
+872,European,0,0
+873,Indoor,0,0
+874,Championships,0,0
+875,Madrid,0,0
+876,AAAs,0,0
+877,Saturday,0,0
+878,"('Jade', 'Johnson')",1,1
+879,"('European', 'Indoor')",0,0
+880,"('Indoor', 'Championships')",0,0
+881,"('European', 'Indoor', 'Championships')",0,0
+882,European,0,0
+883,Johnson,1,0
+884,Johnson,1,1
+885,Olympic,0,0
+886,Games,0,0
+887,"('Olympic', 'Games')",0,0
+888,Commonwealth,0,0
+889,European,0,0
+890,Johnson,1,0
+891,Johnson,1,1
+892,Birmingham,0,0
+893,Grand,0,0
+894,Prix,0,0
+895,February,0,0
+896,"('Birmingham', 'Grand')",0,0
+897,"('Grand', 'Prix')",0,0
+898,"('Birmingham', 'Grand', 'Prix')",0,0
+899,Gronkjaer,1,1
+900,Madrid,0,0
+901,Atletico,0,0
+902,Madrid,0,0
+903,Birmingham,0,0
+904,City,0,0
+905,"('Jesper', 'Gronkjaer')",1,1
+906,"('Atletico', 'Madrid')",0,0
+907,"('Birmingham', 'City')",0,0
+908,St,0,0
+909,Andrews,0,1
+910,Chelsea,0,0
+911,July,0,0
+912,Denmark,0,0
+913,Euro,0,0
+914,"('St', 'Andrews')",0,1
+915,January,0,0
+916,Atletico,0,0
+917,"('Toni', 'Munoz')",1,1
+918,Gronkjaer,1,1
+919,Blues,0,0
+920,Everton,0,0
+921,Boss,0,0
+922,Danish,0,0
+923,"('Steve', 'Bruce')",1,1
+924,Ref,0,0
+925,Scotland,0,0
+926,Saturday,0,0
+927,France,0,0
+928,Scotland,0,0
+929,Six,0,0
+930,Nations,0,0
+931,"('Scotland', 'Six')",0,0
+932,"('Six', 'Nations')",0,0
+933,"('Matt', 'Williams')",1,1
+934,"('Scotland', 'Six', 'Nations')",0,0
+935,Scotland,0,0
+936,"('Nigel', 'Williams')",1,1
+937,Meanwhile,0,0
+938,Scottish,0,0
+939,Rugby,0,0
+940,Union,0,0
+941,"('Matt', 'Williams')",1,1
+942,"('Scottish', 'Rugby')",0,0
+943,"('Rugby', 'Union')",0,0
+944,"('Scottish', 'Rugby', 'Union')",0,0
+945,Nonetheless,0,0
+946,Scottish,0,0
+947,Daily,0,0
+948,Mail,0,0
+949,"('Nigel', 'Williams')",1,1
+950,"('Scottish', 'Daily')",0,0
+951,"('Daily', 'Mail')",0,0
+952,"('Matt', 'Williams')",1,1
+953,"('Scottish', 'Daily', 'Mail')",0,0
+954,Matt,1,1
+955,Ultimately,0,0
+956,Robertson,1,0
+957,Euro,0,0
+958,Hearts,0,0
+959,Uefa,0,0
+960,Cup,0,0
+961,"('John', 'Robertson')",1,1
+962,"('Uefa', 'Cup')",0,0
+963,European,0,0
+964,Robertson,1,1
+965,Ferencvaros,0,1
+966,Basle,0,1
+967,Feyenoord,0,0
+968,European,0,0
+969,Robertson,1,0
+970,Europe,0,0
+971,Murrayfield,0,0
+972,Tynecastle,0,0
+973,Uefa,0,0
+974,Robertson,1,1
+975,Heineken,0,0
+976,Cup,0,0
+977,"('Heineken', 'Cup')",0,0
+978,Tynecastle,0,0
+979,Murrayfield,0,0
+980,Hearts,0,0
+981,Hopefully,0,0
+982,European,0,0
+983,Radcliffe,1,1
+984,London,0,0
+985,Flora,0,0
+986,London,0,0
+987,Marathon,0,0
+988,"('Paula', 'Radcliffe')",1,1
+989,"('Flora', 'London')",0,0
+990,"('London', 'Marathon')",0,0
+991,"('Flora', 'London', 'Marathon')",0,0
+992,April,0,0
+993,"('David', 'Bedford')",1,1
+994,Three,0,0
+995,Radcliffe,1,0
+996,Bedford,0,0
+997,London,0,0
+998,Chicago,0,0
+999,October,0,0
+1000,Radcliffe,1,1
+1001,Olympic,0,0
+1002,Athens,0,0
+1003,August,0,0
+1004,New,0,0
+1005,York,0,0
+1006,Marathon,0,0
+1007,November,0,0
+1008,"('New', 'York')",0,0
+1009,"('York', 'Marathon')",0,0
+1010,"('New', 'York', 'Marathon')",0,0
+1011,Radcliffe,1,1
+1012,Big,0,0
+1013,City,0,0
+1014,"('Big', 'City')",0,0
+1015,Chicago,0,0
+1016,London,0,0
+1017,New,0,0
+1018,York,0,0
+1019,Boston,0,0
+1020,Marathon,0,0
+1021,London,0,0
+1022,"('New', 'York')",0,0
+1023,"('Boston', 'Marathon')",0,0
+1024,Boston,0,0
+1025,London,0,0
+1026,Radcliffe,1,0
+1027,Tomlinson,1,0
+1028,Europe,0,0
+1029,Long,0,0
+1030,European,0,0
+1031,Indoor,0,0
+1032,Championships,0,0
+1033,"('Europe', 'Long')",0,0
+1034,"('Chris', 'Tomlinson')",1,1
+1035,"('European', 'Indoor')",0,0
+1036,"('Indoor', 'Championships')",0,0
+1037,"('European', 'Indoor', 'Championships')",0,0
+1038,Madrid,0,0
+1039,Lievin,0,0
+1040,Lanzarote,0,0
+1041,"('Peter', 'Stanley')",1,1
+1042,Birmingham,0,0
+1043,Sprinter,0,0
+1044,Madrid,0,0
+1045,Thursday,0,0
+1046,"('Mark', 'Lewis-Francis')",1,1
+1047,Birmingham,0,0
+1048,Birmingham,0,0
+1049,European,0,0
+1050,Indoor,0,0
+1051,Championships,0,0
+1052,"('European', 'Indoor')",0,0
+1053,"('Indoor', 'Championships')",0,0
+1054,"('European', 'Indoor', 'Championships')",0,0
+1055,Lewis-Francis,1,0
+1056,British,0,0
+1057,Europeans,0,0
+1058,"('Jason', 'Gardener')",1,1
+1059,Meanwhile,0,0
+1060,Tomlinson,1,1
+1061,Madrid,0,0
+1062,Middlesbrough,0,0
+1063,Birmingham,0,0
+1064,Grand,0,0
+1065,Prix,0,0
+1066,"('Birmingham', 'Grand')",0,0
+1067,"('Grand', 'Prix')",0,0
+1068,"('Savante', 'Stringfellow')",1,0
+1069,"('Birmingham', 'Grand', 'Prix')",0,0
+1070,Bridge,1,1
+1071,Chelsea,0,0
+1072,"('Wayne', 'Bridge')",1,1
+1073,England,0,0
+1074,Londoners,0,0
+1075,FA,0,0
+1076,Cup,0,0
+1077,Newcastle,0,0
+1078,Sunday,0,0
+1079,"('Alan', 'Shearer')",1,1
+1080,"('FA', 'Cup')",0,0
+1081,Chelsea,0,0
+1082,Barcelona,0,0
+1083,Champions,0,0
+1084,League,0,0
+1085,Liverpool,0,0
+1086,Carling,0,0
+1087,Cup,0,0
+1088,"('Jose', 'Mourinho')",1,1
+1089,"('Champions', 'League')",0,0
+1090,"('Carling', 'Cup')",0,0
+1091,Barcelona,0,0
+1092,"('William', 'Gallas')",1,0
+1093,"('Damien', 'Duff')",1,1
+1094,France,0,0
+1095,Gallas,1,0
+1096,Ireland,0,0
+1097,Duff,1,0
+1098,Chelsea,0,0
+1099,St,0,0
+1100,James,0,0
+1101,Park,0,0
+1102,"('St', 'James')",0,0
+1103,Bridge,0,1
+1104,Mourinho,1,1
+1105,Chelsea,0,0
+1106,"('Carlo', 'Cudicini')",1,1
+1107,Cudicini,1,0
+1108,Barcelona,0,0
+1109,Carling,0,0
+1110,Cup,0,0
+1111,Cardiff,0,0
+1112,"('Carling', 'Cup')",0,0
+1113,Barcelona,0,0
+1114,Bridge,0,0
+1115,January,0,0
+1116,Newcastle,0,0
+1117,Gallas,1,1
+1118,"('Celestine', 'Babayaro')",1,0
+1119,Newcastle,0,0
+1120,"('Paulo', 'Ferreira')",1,1
+1121,"('Glen', 'Johnson')",1,1
+1122,Youngsters,0,0
+1123,Mourinho,1,1
+1124,Champions,0,0
+1125,League,0,0
+1126,"('Ben', 'Hudell')",1,1
+1127,"('Joe', 'Keenan')",1,0
+1128,"('Sam', 'Tillen')",1,1
+1129,"('Champions', 'League')",0,0
+1130,Bridge,0,1
+1131,Mourinho,1,0
+1132,Arsenal,0,0
+1133,"('Ashley', 'Cole')",1,1
+1134,Bridge,1,0
+1135,Barcelona,0,0
+1136,Liverpool,0,0
+1137,Carling,0,0
+1138,Cup,0,0
+1139,"('Carling', 'Cup')",0,0
+1140,Gallas,1,0
+1141,Duff,1,0
+1142,Tuesday,0,0
+1143,Shearer,1,1
+1144,Bridge,1,1
+1145,Mourinho,1,0
+1146,"('Arjen', 'Robben')",1,1
+1147,Newcastle,0,0
+1148,Bolton,0,0
+1149,Bolton,0,0
+1150,"('Kieron', 'Dyer')",1,1
+1151,Newcastle,0,0
+1152,"('Lee', 'Bowyer')",1,1
+1153,"('Stephen', 'Carr')",1,1
+1154,Wanderers,0,0
+1155,"('Stelios', 'Giannakopoulos')",1,0
+1156,Dyer,1,1
+1157,"('Alan', 'Shearer')",1,1
+1158,Neither,0,0
+1159,Bolton,0,0
+1160,Shearer,1,1
+1161,Dyer,1,0
+1162,"('Jussi', 'Jaaskelainen')",1,1
+1163,Magpies,0,0
+1164,Bowyer,1,1
+1165,Carr,1,0
+1166,Carr,1,0
+1167,Bolton,0,0
+1168,Giannakopoulos,1,1
+1169,Greek,0,0
+1170,"('Jay-Jay', 'Okocha')",1,1
+1171,"('Kevin', 'Davies')",1,1
+1172,"('Gary', 'Speed')",1,1
+1173,Magpies,0,0
+1174,Davies,1,1
+1175,Giannakopoulos,1,1
+1176,Given,0,0
+1177,Dyer,1,0
+1178,"('Fernando', 'Hierro')",1,0
+1179,"('Laurent', 'Robert')",1,1
+1180,Bolton,0,0
+1181,Magpies,0,0
+1182,Dyer,1,1
+1183,Jaaskelainen,1,0
+1184,"('Alan', 'Shearer')",1,1
+1185,Bellamy,1,1
+1186,Newcastle,0,0
+1187,Welshman,0,1
+1188,Magpies,0,0
+1189,"('Graeme', 'Souness')",1,1
+1190,"('Craig', 'Bellamy')",1,1
+1191,Bellamy,1,1
+1192,Newcastle,0,0
+1193,Celtic,0,0
+1194,Souness,1,0
+1195,Souness,1,1
+1196,Bellamy,1,1
+1197,Souness,1,0
+1198,Bellamy,1,1
+1199,Birmingham,0,0
+1200,Celtic,0,0
+1201,Welsh,0,1
+1202,Earlier,0,0
+1203,Souness,1,1
+1204,Bellamy,1,1
+1205,Souness,1,0
+1206,Newcastle,0,0
+1207,St,0,0
+1208,James,0,0
+1209,Park,0,0
+1210,"('St', 'James')",0,0
+1211,However,0,0
+1212,Newcastle,0,0
+1213,Souness,1,1
+1214,McIlroy,1,1
+1215,TEAG,0,0
+1216,Erfurt,0,0
+1217,"('James', 'McIlroy')",1,1
+1218,Northern,0,0
+1219,Ireland,0,0
+1220,European,0,0
+1221,Indoor,0,0
+1222,Championships,0,0
+1223,"('Northern', 'Ireland')",0,0
+1224,"('European', 'Indoor')",0,0
+1225,"('Indoor', 'Championships')",0,1
+1226,"('European', 'Indoor', 'Championships')",0,0
+1227,McIlroyv,1,1
+1228,Sunday,0,0
+1229,Leipzig,0,0
+1230,Northern,0,0
+1231,Irishman,0,0
+1232,"('Northern', 'Irishman')",0,0
+1233,"('Ricky', 'Simms')",1,1
+1234,McIlroy,1,1
+1235,Friday,0,0
+1236,McIlroy,1,0
+1237,AAA,0,0
+1238,German,0,0
+1239,"('Wolfram', 'Mulle')",1,1
+1240,McIlroy,1,1
+1241,Sparkassen,0,0
+1242,Cup,0,0
+1243,Stuttgart,0,0
+1244,"('Sparkassen', 'Cup')",0,0
+1245,Erfurt,0,0
+1246,Robinson,1,1
+1247,England,0,0
+1248,Six,0,0
+1249,Nations,0,0
+1250,Wales,0,0
+1251,"('Andy', 'Robinson')",1,1
+1252,"('Six', 'Nations')",0,0
+1253,Robinson,1,1
+1254,Sunday,0,0
+1255,France,0,0
+1256,Twickenham,0,0
+1257,"('Lewis', 'Moody')",1,1
+1258,"('Martin', 'Corry')",1,1
+1259,"('Mathew', 'Tait')",1,1
+1260,"('Jamie', 'Noon')",1,1
+1261,England,0,0
+1262,Tait,1,0
+1263,"('Olly', 'Barkley')",1,1
+1264,Bath,0,0
+1265,France,0,0
+1266,Tait,1,0
+1267,Noon,1,1
+1268,Tait,1,0
+1269,Robinson,1,1
+1270,Cardiff,0,0
+1271,Robinson,1,1
+1272,England,0,0
+1273,Tait,1,0
+1274,"('Gavin', 'Henson')",1,1
+1275,Hopefully,0,0
+1276,France,0,0
+1277,Newcastle,0,0
+1278,Noon,1,0
+1279,Test,0,0
+1280,Wales,0,0
+1281,"('Michael', 'Owen')",1,1
+1282,"('Gavin', 'Henson')",1,1
+1283,England,0,0
+1284,Moody,0,0
+1285,"('Chris', 'Jones')",1,1
+1286,Leicester,0,0
+1287,French,0,0
+1288,"('Andy', 'Hazell')",1,1
+1289,Lock,0,0
+1290,England,0,0
+1291,"('Ben', 'Kay')",1,0
+1292,Wenger,1,1
+1293,Mutu,1,1
+1294,Arsenal,0,0
+1295,"('Arsene', 'Wenger')",1,1
+1296,"('Adrian', 'Mutu')",1,1
+1297,Mutu,1,0
+1298,Chelsea,0,0
+1299,Friday,0,0
+1300,Wenger,0,1
+1301,Mutu,1,0
+1302,Football,0,0
+1303,Association,0,0
+1304,"('Football', 'Association')",0,0
+1305,Chelsea,0,0
+1306,Mutu,1,1
+1307,Chelsea,0,0
+1308,Sunday,0,0
+1309,Mirror,0,0
+1310,"('Sunday', 'Mirror')",0,0
+1311,Chelsea,0,0
+1312,Professional,0,0
+1313,Footballers,0,0
+1314,Association,0,0
+1315,"('Professional', 'Footballers')",0,0
+1316,Mutu,1,1
+1317,McClaren,1,1
+1318,Champions,0,0
+1319,League,0,0
+1320,Middlesbrough,0,0
+1321,Premiership,0,0
+1322,Champions,0,0
+1323,League,0,0
+1324,"('Champions', 'League')",0,0
+1325,"('League', 'Middlesbrough')",0,0
+1326,"('Steve', 'McClaren')",1,1
+1327,"('Champions', 'League')",0,0
+1328,"('Champions', 'League', 'Middlesbrough')",0,0
+1329,Manchester,0,0
+1330,City,0,0
+1331,McClaren,1,1
+1332,"('Manchester', 'City')",0,0
+1333,McClaren,1,1
+1334,"('Stewart', 'Downing')",1,1
+1335,"('Mark', 'Viduka')",1,1
+1336,"('Jimmy', 'Floyd', 'Hasselbaink')",1,1
+1337,Stewart,1,1
+1338,"('Sven-Goran', 'Eriksson')",1,1
+1339,O'Sullivan,1,1
+1340,Worlds,0,1
+1341,World,0,0
+1342,Cross,0,0
+1343,Country,0,0
+1344,Championships,0,0
+1345,St,0,0
+1346,Etienne,0,1
+1347,"('Sonia', ""O'Sullivan"")",1,1
+1348,"('World', 'Cross')",0,0
+1349,"('Cross', 'Country')",0,0
+1350,"('Country', 'Championships')",0,0
+1351,"('St', 'Etienne')",0,1
+1352,"('World', 'Cross', 'Country')",0,0
+1353,"('Cross', 'Country', 'Championships')",0,0
+1354,Athletics,0,0
+1355,Ireland,0,0
+1356,Cobh,0,0
+1357,France,0,0
+1358,March,0,0
+1359,"('Athletics', 'Ireland')",0,0
+1360,Provincial,0,0
+1361,Saturday,0,0
+1362,Nationals,0,0
+1363,Santry,0,1
+1364,O'Sullivan,1,1
+1365,London,0,0
+1366,April,0,0
+1367,O'Sullivan,1,1
+1368,Australia,0,0
+1369,Ireland,0,0
+1370,Santry,0,1
+1371,Saturday,0,0
+1372,"('Jolene', 'Byrne')",1,1
+1373,"('Maria', 'McCambridge')",1,1
+1374,"('Fionnualla', 'Britton')",1,1
+1375,O'Sullivan,1,1
+1376,Bupa,0,0
+1377,Great,0,0
+1378,Ireland,0,0
+1379,Run,0,0
+1380,April,0,0
+1381,Dublin,0,0
+1382,"('Bupa', 'Great')",0,1
+1383,"('Great', 'Ireland')",0,0
+1384,"('Ireland', 'Run')",0,0
+1385,"('Bupa', 'Great', 'Ireland')",0,0
+1386,"('Great', 'Ireland', 'Run')",0,0
+1387,Houllier,1,1
+1388,Benitez,1,0
+1389,Former,0,0
+1390,Liverpool,0,0
+1391,Anfield,0,0
+1392,"('Former', 'Liverpool')",0,0
+1393,"('Gerard', 'Houllier')",1,1
+1394,"('Rafael', 'Benitez')",1,1
+1395,Houllier,1,1
+1396,Benitez,1,0
+1397,Spaniard,0,1
+1398,Liverpool,0,0
+1399,Houllier,1,1
+1400,BBC,0,0
+1401,Sport,0,0
+1402,Rafa,1,1
+1403,"('BBC', 'Sport')",0,0
+1404,Rafa,1,1
+1405,Liverpool,0,0
+1406,Houllier,1,0
+1407,Liverpool,0,0
+1408,May,0,0
+1409,Anfield,0,0
+1410,France,0,0
+1411,Wales,0,0
+1412,"('Mark', 'Hughes')",1,1
+1413,Uefa,0,0
+1414,Premiership,0,0
+1415,French,0,0
+1416,Brazil,0,0
+1417,"('Alberto', 'Perreira')",1,1
+1418,Houllier,1,1
+1419,Liverpool,0,0
+1420,Houllier,1,1
+1421,Premiership,0,0
+1422,Chelsea,0,0
+1423,"('Jose', 'Mourinho')",1,1
+1424,Chelsea,0,0
+1425,Newcastle,0,0
+1426,"('Damien', 'Duff')",1,1
+1427,"('Arjen', 'Robben')",1,1
+1428,"('Didier', 'Drogba')",1,1
+1429,Jose,0,0
+1430,Jose,1,1
+1431,Chelsea,0,0
+1432,Premiership,0,0
+1433,Houllier,1,0
+1434,Liverpool,0,0
+1435,Premiership,0,0
+1436,Games,0,0
+1437,Premiership,0,0
+1438,Mansfield,0,1
+1439,Leyton,0,0
+1440,Orient,0,0
+1441,Mansfield,0,0
+1442,"('Leyton', 'Orient')",0,1
+1443,"('Andy', 'Scott')",1,0
+1444,Early,0,0
+1445,Scott,0,1
+1446,"('Wayne', 'Carlisle')",1,1
+1447,Orient,0,1
+1448,Mansfield,0,0
+1449,"('Alan', 'White')",1,1
+1450,"('Kevin', 'Pilkington')",1,1
+1451,"('Michael', 'Simpson')",1,1
+1452,Mansfield,0,1
+1453,"('Keith', 'Haslam')",1,1
+1454,Ferguson,1,1
+1455,Henry,1,1
+1456,Sir,0,0
+1457,Football,0,0
+1458,Association,0,0
+1459,Arsenal,0,0
+1460,"('Alex', 'Ferguson')",1,1
+1461,"('Football', 'Association')",0,0
+1462,"('Thierry', 'Henry')",1,1
+1463,"('Gabriel', 'Heinze')",1,1
+1464,Ferguson,1,1
+1465,Henry,1,1
+1466,Heinze,1,0
+1467,United,0,0
+1468,United,0,0
+1469,Ruud,0,0
+1470,Nistelrooy,0,0
+1471,"('Ashley', 'Cole')",1,1
+1472,FA,0,0
+1473,Heinze,1,1
+1474,Clubs,0,0
+1475,FA,0,0
+1476,Heinze,1,0
+1477,"('Freddie', 'Ljungberg')",1,1
+1478,Henry,1,1
+1479,Argentine,0,0
+1480,Heinze,1,1
+1481,"('Mike', 'Riley')",1,1
+1482,Ferguson,1,1
+1483,Arsenal,0,0
+1484,Edu,1,1
+1485,Scholes,1,0
+1486,Arsenal,0,0
+1487,Heinze,1,0
+1488,Ronaldo,1,0
+1489,Vieira,1,1
+1490,"('Phil', 'Neville')",1,1
+1491,Sunday,0,1
+1492,Beattie,1,1
+1493,Everton,0,0
+1494,Tuesday,0,0
+1495,Saturday,0,0
+1496,"('James', 'Beattie')",1,0
+1497,Beattie,1,1
+1498,Birmingham,0,0
+1499,Everton,0,1
+1500,Aston,0,0
+1501,Villa,0,0
+1502,"('Aston', 'Villa')",0,0
+1503,Everton,0,0
+1504,"('Ian', 'Ross')",1,0
+1505,"('David', 'Moyes')",1,1
+1506,Beattie,1,1
+1507,Aston,0,0
+1508,Villa,0,0
+1509,Chelsea,0,0
+1510,Merseyside,0,0
+1511,Liverpool,0,0
+1512,March,0,0
+1513,"('Aston', 'Villa')",0,0
+1514,Isinbayeva,1,0
+1515,Birmingham,0,0
+1516,Olympic,0,0
+1517,Norwich,0,0
+1518,Union,0,0
+1519,Grand,0,0
+1520,Prix,0,0
+1521,Birmingham,0,0
+1522,February,0,0
+1523,"('Birmingham', 'Olympic')",0,0
+1524,"('Yelena', 'Isinbayeva')",1,1
+1525,"('Norwich', 'Union')",0,0
+1526,"('Union', 'Grand')",0,0
+1527,"('Grand', 'Prix')",0,0
+1528,"('Norwich', 'Union', 'Grand')",0,0
+1529,"('Union', 'Grand', 'Prix')",0,0
+1530,Everybody,0,1
+1531,Britain,0,0
+1532,Isinbayeva,1,0
+1533,Olympic,0,0
+1534,Birmingham,0,0
+1535,Athens,0,0
+1536,"('Kelly', 'Holmes')",1,1
+1537,"('Carolina', 'Kluft')",1,1
+1538,Isinbayeva,1,0
+1539,Russian,0,0
+1540,"('Svetlana', 'Feofanova')",1,0
+1541,Athens,0,0
+1542,Isinbayeva,1,0
+1543,Isinbayeva,1,0
+1544,British,0,0
+1545,UK,0,0
+1546,Athletics,0,0
+1547,UK,0,0
+1548,Athletics,0,0
+1549,Great,0,0
+1550,Britain,0,0
+1551,"('UK', 'Athletics')",0,0
+1552,"('UK', 'Athletics')",0,0
+1553,"('Great', 'Britain')",0,0
+1554,German-based,0,0
+1555,Team,0,0
+1556,GB,0,0
+1557,Olympics,0,0
+1558,Olympic,0,0
+1559,"('Team', 'GB')",0,0
+1560,UK,0,0
+1561,Athletics,0,0
+1562,Athens,0,0
+1563,"('UK', 'Athletics')",0,0
+1564,"('David', 'Moorcroft')",1,0
+1565,European,0,0
+1566,World,0,0
+1567,Moorcroft,1,1
+1568,UK,0,0
+1569,Athletics,0,0
+1570,Red,0,0
+1571,Bull,0,0
+1572,"('UK', 'Athletics')",0,0
+1573,"('Red', 'Bull')",0,0
+1574,Mutu,1,0
+1575,Juventus,0,0
+1576,Disgraced,0,0
+1577,Chelsea,0,0
+1578,Juventus,0,0
+1579,"('Juventus', 'Disgraced')",0,0
+1580,"('Adrian', 'Mutu')",1,1
+1581,Mutu,1,1
+1582,Juventus,0,0
+1583,Fiorentina,0,0
+1584,Juventus,0,0
+1585,Mutu,1,0
+1586,Chelsea,0,0
+1587,Juve,0,0
+1588,"('Alessandro', 'Moggi')",1,1
+1589,"('Luciano', 'Moggi')",1,1
+1590,Mutu,1,0
+1591,English,0,0
+1592,FA,0,0
+1593,May,0,0
+1594,"('English', 'FA')",0,0
+1595,Mutu,1,0
+1596,Romanian,0,0
+1597,Dinamo,0,0
+1598,Bucharest,0,0
+1599,Bucharest,0,0
+1600,"('Dinamo', 'Bucharest')",0,0
+1601,Jansen,1,1
+1602,Blackburn,0,0
+1603,"('Matt', 'Jansen')",1,1
+1604,"('Lorenzo', 'Amoruso')",1,1
+1605,Rovers,0,0
+1606,Matt,1,1
+1607,"('Mark', 'Bowen')",1,1
+1608,Lorenzo,1,1
+1609,Jansen,1,1
+1610,Blackburn,0,0
+1611,Portsmouth,0,0
+1612,"('Mark', 'Hughes')",1,1
+1613,Bowen,1,1
+1614,Rovers,0,0
+1615,Amoruso,1,0
+1616,Bowen,1,1
+1617,Arnesen,1,1
+1618,Tottenham,0,0
+1619,White,0,0
+1620,Hart,0,0
+1621,Lane,0,0
+1622,"('Santini', 'Tottenham')",0,0
+1623,"('Frank', 'Arnesen')",1,1
+1624,"('Jacques', 'Santini')",1,1
+1625,"('White', 'Hart')",0,1
+1626,"('Hart', 'Lane')",0,1
+1627,"('White', 'Hart', 'Lane')",0,0
+1628,Santini,1,1
+1629,Arnesen,1,1
+1630,Arnesen,1,1
+1631,BBC,0,0
+1632,Radio,0,0
+1633,Five,0,0
+1634,Live,0,0
+1635,"('BBC', 'Radio')",0,0
+1636,"('Radio', 'Five')",0,0
+1637,"('Five', 'Live')",0,0
+1638,"('BBC', 'Radio', 'Five')",0,0
+1639,"('Radio', 'Five', 'Live')",0,0
+1640,Arnesen,1,1
+1641,Santini,1,1
+1642,Jacques,1,1
+1643,Monday,0,0
+1644,Arnesen,1,1
+1645,Tottenham,0,0
+1646,Premiership,0,0
+1647,Charlton,0,0
+1648,Santini,1,1
+1649,Spurs,0,1
+1650,Tottenham,0,0
+1651,Arnesen,1,1
+1652,July,0,0
+1653,Tottenham,0,0
+1654,However,0,0
+1655,Spurs,0,1
+1656,England,0,0
+1657,"('Gary', 'Stevens')",1,1
+1658,White,0,0
+1659,Hart,0,0
+1660,Lane,0,0
+1661,Santini,1,0
+1662,Stevens,1,1
+1663,Five,0,0
+1664,Live,0,0
+1665,"('White', 'Hart')",0,1
+1666,"('Hart', 'Lane')",0,1
+1667,"('Five', 'Live')",0,0
+1668,"('White', 'Hart', 'Lane')",0,0
+1669,Frank,0,1
+1670,Arnesen,0,1
+1671,Santini,1,0
+1672,"('Frank', 'Arnesen')",0,0
+1673,Radcliffe,1,1
+1674,GB,0,0
+1675,World,0,0
+1676,Cross-Country,0,0
+1677,Championships,0,0
+1678,"('Paula', 'Radcliffe')",1,1
+1679,"('World', 'Cross-Country')",0,0
+1680,"('Cross-Country', 'Championships')",0,0
+1681,"('World', 'Cross-Country', 'Championships')",0,0
+1682,March,0,0
+1683,France,0,0
+1684,London,0,0
+1685,Marathon,0,0
+1686,April,0,0
+1687,"('London', 'Marathon')",0,0
+1688,Paula,1,1
+1689,GB,0,0
+1690,UK,0,0
+1691,Athletics,0,0
+1692,"('Zara', 'Hyde')",1,1
+1693,"('UK', 'Athletics')",0,0
+1694,Radcliffe,1,1
+1695,Tuesday,0,0
+1696,British,0,0
+1697,Radcliffe,1,0
+1698,"('Hayley', 'Yelling')",1,1
+1699,Paula,1,0
+1700,European,0,0
+1701,Radcliffe,1,1
+1702,GB,0,0
+1703,Brussels,0,0
+1704,Ethiopia,0,0
+1705,Boston,0,0
+1706,Indoor,0,0
+1707,Games,0,0
+1708,"('Tirunesh', 'Dibaba')",1,1
+1709,"('Boston', 'Indoor')",0,0
+1710,"('Indoor', 'Games')",0,0
+1711,"('Boston', 'Indoor', 'Games')",0,0
+1712,Dibaba,1,1
+1713,Ethiopian,0,0
+1714,Stuttgart,0,0
+1715,"('Berhane', 'Adera')",1,1
+1716,Kenenisa,0,0
+1717,Bekele,0,1
+1718,"('Kenenisa', 'Bekele')",0,1
+1719,Ireland,0,0
+1720,Bekele,1,1
+1721,"('Alistair', 'Cragg')",1,1
+1722,Cragg,1,1
+1723,Bekele,1,1
+1724,Sweden,0,0
+1725,Olympic,0,0
+1726,Slovenia,0,0
+1727,"('Carolina', 'Kluft')",1,1
+1728,"('Jolanda', 'Ceplak')",1,1
+1729,Kluft,1,1
+1730,Ceplak,1,0
+1731,Mourinho,1,0
+1732,Chelsea,0,0
+1733,Chelsea,0,0
+1734,Sir,0,0
+1735,"('Jose', 'Mourinho')",1,1
+1736,"('Alex', 'Ferguson')",1,1
+1737,"('Arsene', 'Wenger')",1,1
+1738,Mourinho,1,1
+1739,FA,0,0
+1740,Cup,0,0
+1741,Newcastle,0,0
+1742,Sunday,0,0
+1743,Barcelona,0,0
+1744,Champions,0,0
+1745,League,0,0
+1746,Nou,0,0
+1747,Camp,0,0
+1748,"('FA', 'Cup')",0,0
+1749,"('Champions', 'League')",0,0
+1750,"('Nou', 'Camp')",0,0
+1751,Arsenal,0,0
+1752,Manchester,0,0
+1753,United,0,0
+1754,"('Manchester', 'United')",0,0
+1755,Mourinho,1,1
+1756,Carling,0,0
+1757,Cup,0,0
+1758,"('Carling', 'Cup')",0,0
+1759,FA,0,0
+1760,Cup,0,0
+1761,"('FA', 'Cup')",0,0
+1762,Champions,0,0
+1763,League,0,0
+1764,Chelsea,0,0
+1765,"('Champions', 'League')",0,0
+1766,Mourinho,1,1
+1767,Newcastle,0,0
+1768,FA,0,0
+1769,Cup,0,0
+1770,"('FA', 'Cup')",0,0
+1771,Asked,0,0
+1772,Chelsea,0,0
+1773,Mourinho,1,1
+1774,Ajax,0,0
+1775,Jol,1,0
+1776,Ajax,0,0
+1777,Tottenham,0,0
+1778,Dutch,0,0
+1779,Amsterdam,0,0
+1780,"('Martin', 'Jol')",1,1
+1781,Jol,1,0
+1782,Holland,0,0
+1783,Spurs,0,1
+1784,Premiership,0,0
+1785,Ajax,0,0
+1786,BBC,0,0
+1787,Sport,0,0
+1788,Dutch,0,0
+1789,"('BBC', 'Sport')",0,0
+1790,Ajax,0,0
+1791,Uefa,0,0
+1792,Cup,0,0
+1793,"('Ronald', 'Koeman')",1,1
+1794,"('Uefa', 'Cup')",0,0
+1795,Jol,1,1
+1796,Ajax,0,0
+1797,Spurs,0,1
+1798,"('Frank', 'Arnesen')",1,1
+1799,Spurs,0,1
+1800,Jol,1,0
+1801,Ajax,0,0
+1802,Dutch,0,0
+1803,Barcelona,0,0
+1804,"('Johann', 'Cruyff')",1,1
+1805,Cruyff,1,1
+1806,RFC,0,0
+1807,Waalwijk,0,0
+1808,Jol,1,0
+1809,Spurs,0,1
+1810,"('RFC', 'Waalwijk')",0,0
+1811,"('Jacques', 'Santini')",1,1
+1812,Ajax,0,0
+1813,Dutch,0,1
+1814,"('Ruud', 'Krol')",1,1
+1815,"('Tonny', 'Bruins', 'Slot')",1,0
+1816,Stam,1,1
+1817,Man,0,0
+1818,Utd,0,0
+1819,AC,0,0
+1820,Milan,0,0
+1821,Manchester,0,0
+1822,United,0,0
+1823,"('Man', 'Utd')",0,1
+1824,"('AC', 'Milan')",0,0
+1825,"('Jaap', 'Stam')",1,1
+1826,"('Manchester', 'United')",0,0
+1827,Old,0,0
+1828,Trafford,0,0
+1829,Champions,0,0
+1830,League,0,0
+1831,Wednesday,0,0
+1832,Dutchman,0,0
+1833,"('Old', 'Trafford')",0,0
+1834,"('Champions', 'League')",0,0
+1835,United,0,0
+1836,Stam,1,1
+1837,Uefa,0,0
+1838,Champions,0,0
+1839,Manchester,0,0
+1840,United,0,0
+1841,"('Manchester', 'United')",0,0
+1842,Sir,0,0
+1843,Stam,1,0
+1844,Dutchman,0,0
+1845,Lazio,0,0
+1846,August,0,0
+1847,"('Alex', 'Ferguson')",1,1
+1848,Stam,1,1
+1849,Ferguson,1,1
+1850,PSV,0,0
+1851,Eindhoven,0,0
+1852,"('PSV', 'Eindhoven')",0,0
+1853,Ferguson,1,1
+1854,Dutchman,0,0
+1855,Manchester,0,0
+1856,United,0,0
+1857,"('Manchester', 'United')",0,0
+1858,Wednesday,0,0
+1859,Old,0,0
+1860,Trafford,0,0
+1861,United,0,0
+1862,Milan,0,0
+1863,Stam,1,0
+1864,Cafu,1,0
+1865,"('Old', 'Trafford')",0,0
+1866,"('Wayne', 'Rooney')",1,1
+1867,"('Cristiano', 'Ronaldo')",1,1
+1868,"('Paolo', 'Maldini')",1,1
+1869,"('Alessandro', 'Costacurta')",1,1
+1870,Stam,1,1
+1871,Rooney,1,1
+1872,"('Wayne', 'Rooneys')",1,1
+1873,Starting,0,0
+1874,Kampen,0,0
+1875,Collins,1,1
+1876,Birmingham,0,0
+1877,World,0,0
+1878,Commonwealth,0,0
+1879,Norwich,0,0
+1880,Union,0,0
+1881,Grand,0,0
+1882,Prix,0,0
+1883,Birmingham,0,0
+1884,February,0,0
+1885,"('Birmingham', 'World')",0,0
+1886,"('Kim', 'Collins')",1,1
+1887,"('Norwich', 'Union')",0,0
+1888,"('Union', 'Grand')",0,0
+1889,"('Grand', 'Prix')",0,0
+1890,"('Norwich', 'Union', 'Grand')",0,0
+1891,"('Union', 'Grand', 'Prix')",0,0
+1892,St,0,0
+1893,Kitts,0,1
+1894,Nevis,0,0
+1895,British,0,0
+1896,Olympic,0,0
+1897,"('St', 'Kitts')",0,1
+1898,"('British', 'Olympic')",0,0
+1899,"('Jason', 'Gardener')",1,1
+1900,"('Mark', 'Lewis-Francis')",1,0
+1901,Sydney,0,0
+1902,Olympic,0,0
+1903,Athens,0,0
+1904,Olympic,0,0
+1905,"('Sydney', 'Olympic')",0,0
+1906,"('Maurice', 'Greene')",1,1
+1907,"('Athens', 'Olympic')",0,0
+1908,"('Francis', 'Obikwelu')",1,1
+1909,Collins,1,1
+1910,Birmingham,0,0
+1911,World,0,0
+1912,Indoor,0,0
+1913,Championships,0,0
+1914,"('World', 'Indoor')",0,0
+1915,"('Indoor', 'Championships')",0,0
+1916,"('World', 'Indoor', 'Championships')",0,0
+1917,NIA,0,0
+1918,Olympic,0,0
+1919,"('Jason', 'Gardener')",1,1
+1920,"('Mark', 'Lewis-Francis')",1,1
+1921,Britain,0,0
+1922,Collins,1,1
+1923,Olympic,0,0
+1924,Athens,0,0
+1925,World,0,0
+1926,Championships,0,0
+1927,Finland,0,0
+1928,"('World', 'Championships')",0,0
+1929,Helsinki,0,0
+1930,August,0,0
+1931,Uefa,0,0
+1932,Uefa,0,0
+1933,European,0,0
+1934,European,0,0
+1935,Executive,0,1
+1936,Committee,0,0
+1937,Wednesday,0,0
+1938,"('Executive', 'Committee')",0,0
+1939,Uefa,0,0
+1940,Uefa,0,0
+1941,Luton,0,0
+1942,Preston,0,0
+1943,Queens,0,0
+1944,Park,0,0
+1945,Rangers,0,0
+1946,Uefa,0,0
+1947,"('Queens', 'Park')",0,1
+1948,"('Park', 'Rangers')",0,1
+1949,"('Queens', 'Park', 'Rangers')",0,0
+1950,International,0,0
+1951,Uefa,0,0
+1952,People,0,0
+1953,England,0,0
+1954,Luton,0,0
+1955,QPR,0,0
+1956,"('Rob', 'Faulkner')",1,1
+1957,Several,0,0
+1958,Scandinavia,0,0
+1959,Russia,0,0
+1960,Europe,0,0
+1961,Champions,0,0
+1962,League,0,0
+1963,Uefa,0,0
+1964,Cup,0,0
+1965,"('Champions', 'League')",0,0
+1966,"('Uefa', 'Cup')",0,0
+1967,Edwards,1,1
+1968,Idowu,1,0
+1969,Euro,0,0
+1970,World,0,0
+1971,BBC,0,0
+1972,European,0,0
+1973,Indoor,0,0
+1974,Championships,0,0
+1975,"('Jonathan', 'Edwards')",1,1
+1976,"('Phillips', 'Idowu')",1,1
+1977,"('European', 'Indoor')",0,0
+1978,"('Indoor', 'Championships')",0,0
+1979,"('European', 'Indoor', 'Championships')",0,0
+1980,Idowu,1,1
+1981,British,0,0
+1982,Sheffield,0,0
+1983,Sheffield,0,0
+1984,Edwards,1,0
+1985,Idowu,1,1
+1986,Commonwealth,0,0
+1987,Edwards,1,0
+1988,Idowu,1,0
+1989,Manchester,0,0
+1990,Games,0,0
+1991,"('Manchester', 'Games')",0,0
+1992,European,0,0
+1993,Indoors,0,0
+1994,Madrid,0,0
+1995,Britain,0,0
+1996,"('European', 'Indoors')",0,0
+1997,Edwards,1,0
+1998,Phillips,1,0
+1999,Madrid,0,0
+2000,Madrid,0,0
+2001,Friday,0,0
+2002,Saturday,0,0
+2003,Olympic,0,0
+2004,"('Christian', 'Olsson')",1,1
+2005,Robben,1,1
+2006,European,0,0
+2007,Injured,0,0
+2008,Chelsea,0,0
+2009,Barcelona,0,0
+2010,Champions,0,0
+2011,League,0,0
+2012,"('Injured', 'Chelsea')",0,0
+2013,"('Arjen', 'Robben')",1,1
+2014,"('Champions', 'League')",0,0
+2015,Blackburn,0,0
+2016,Chelsea,0,0
+2017,Barcelona,0,0
+2018,March,0,0
+2019,Robben,1,1
+2020,Daily,0,0
+2021,Star,0,0
+2022,Barcelona,0,0
+2023,"('Daily', 'Star')",0,0
+2024,Robben,1,1
+2025,Chelsea,0,0
+2026,PSV,0,0
+2027,Einhoven,0,0
+2028,"('PSV', 'Einhoven')",0,1
+2029,Barcelona,0,0
+2030,Edu,1,1
+2031,Arsenal,0,0
+2032,Arsenal,0,0
+2033,Brazilian,0,0
+2034,Edu,1,1
+2035,"('Arsenal', 'Arsenal')",0,0
+2036,Edu,1,0
+2037,Spanish,0,0
+2038,Real,0,0
+2039,Madrid,0,0
+2040,Barcelona,0,0
+2041,Valencia,0,0
+2042,"('Real', 'Madrid')",0,0
+2043,BBC,0,0
+2044,Sport,0,0
+2045,"('BBC', 'Sport')",0,0
+2046,Edu,1,0
+2047,Arsenal,0,0
+2048,"('Amadeo', 'Fensao')",1,1
+2049,Edu,1,0
+2050,London,0,0
+2051,Thursday,0,0
+2052,January,0,0
+2053,Arsenal,0,0
+2054,Edu,1,1
+2055,Fifa,0,0
+2056,Brazilian,0,0
+2057,Spanish,0,0
+2058,Edu,1,1
+2059,Madrid,0,0
+2060,Valencia,0,0
+2061,Barcelona,0,0
+2062,"('Florentino', 'Perez')",1,1
+2063,Last,0,0
+2064,Wenger,1,1
+2065,Edu,1,1
+2066,Real,0,0
+2067,Madrid,0,0
+2068,Edu,1,0
+2069,"('Real', 'Madrid')",0,0
+2070,Edu,1,1
+2071,Wenger,1,1
+2072,"('Arsene', 'Wenger')",1,0
+2073,Souness,1,1
+2074,Owen,1,0
+2075,Newcastle,0,0
+2076,England,0,0
+2077,Real,0,0
+2078,Madrid,0,0
+2079,"('Graeme', 'Souness')",1,1
+2080,"('Real', 'Madrid')",0,0
+2081,"('Michael', 'Owen')",1,1
+2082,Owen,1,0
+2083,Shearer,1,1
+2084,"('Alan', 'Shearer')",1,1
+2085,Michael,1,1
+2086,BBC,0,0
+2087,Newcastle,0,0
+2088,"('BBC', 'Newcastle')",0,0
+2089,Real,0,0
+2090,Souness,1,1
+2091,Shearer,1,1
+2092,"('Jackie', 'Milburn')",1,1
+2093,Milburn,1,1
+2094,Shearer,1,0
+2095,Without,0,0
+2096,Souness,1,0
+2097,"('Jackie', 'Milburn')",1,1
+2098,Souness,1,1
+2099,January,0,0
+2100,"('Nolberto', 'Solano')",1,1
+2101,Peruvian,0,0
+2102,Aston,0,0
+2103,Villa,0,0
+2104,BBC,0,0
+2105,Newcastle,0,0
+2106,Souness,1,1
+2107,Villa,0,0
+2108,"('Aston', 'Villa')",0,0
+2109,"('BBC', 'Newcastle')",0,0
+2110,Rangers,0,0
+2111,Liverpool,0,0
+2112,Wenger,1,1
+2113,Arsenal,0,0
+2114,"('Arsene', 'Wenger')",1,1
+2115,Wenger,1,1
+2116,"('Keith', 'Edelman')",1,1
+2117,Edelman,1,1
+2118,BBC,0,0
+2119,Sport,0,0
+2120,"('BBC', 'Sport')",0,0
+2121,Hopefully,0,0
+2122,Arsene,1,0
+2123,Edelman,1,1
+2124,Wenger,1,1
+2125,Arsenal,0,0
+2126,Arsenal,0,0
+2127,Bayern,0,0
+2128,Munich,0,0
+2129,Champions,0,0
+2130,League,0,0
+2131,"('Arsene', 'Wenger')",1,1
+2132,"('Bayern', 'Munich')",0,0
+2133,"('Champions', 'League')",0,0
+2134,Gunners,0,0
+2135,Wenger,1,1
+2136,"('Kolo', 'Toure')",1,1
+2137,Goalscorer,0,0
+2138,Toure,1,1
+2139,Wenger,1,1
+2140,Toure,1,1
+2141,Wenger,1,1
+2142,Wenger,1,1
+2143,Bayern,0,0
+2144,"('Felix', 'Magath')",1,1
+2145,Arsenal,0,0
+2146,Arsenal,0,0
+2147,Bayern,0,0
+2148,"('Jens', 'Lehmann')",1,1
+2149,"('Oliver', 'Kahn')",1,1
+2150,Everything,0,1
+2151,Wenger,1,1
+2152,Sir,0,0
+2153,Manchester,0,0
+2154,United,0,0
+2155,"('Arsene', 'Wenger')",1,1
+2156,"('Alex', 'Ferguson')",1,1
+2157,"('Manchester', 'United')",0,0
+2158,Saturday,0,0
+2159,Ferguson,1,1
+2160,Arsenal,0,0
+2161,Wenger,1,1
+2162,Ferguson,1,1
+2163,Football,0,0
+2164,Association,0,0
+2165,"('Football', 'Association')",0,0
+2166,Ferguson,1,1
+2167,Wenger,1,0
+2168,Saturday,0,0
+2169,United,0,0
+2170,Independent,0,0
+2171,October,0,0
+2172,United,0,0
+2173,Old,0,0
+2174,Trafford,0,0
+2175,Ferguson,1,1
+2176,"('Old', 'Trafford')",0,0
+2177,Highbury,0,0
+2178,February,0,0
+2179,Wenger,0,1
+2180,Ferguson,1,1
+2181,Saturday,0,0
+2182,Wenger,1,0
+2183,Wenger,1,0
+2184,Saturday,0,0
+2185,Bolton,0,0
+2186,Arsenal,0,0
+2187,Chelsea,0,0
+2188,England,0,0
+2189,Saturday,0,0
+2190,Independent,0,0
+2191,Wenger,1,0
+2192,Arsenal,0,0
+2193,England,0,0
+2194,Reminded,0,0
+2195,Ferguson,1,1
+2196,Wenger,1,1
+2197,England,0,0
+2198,Ferguson,1,1
+2199,United,0,0
+2200,Arsenal,0,0
+2201,"('David', 'Gill')",1,0
+2202,"('David', 'Dein')",1,1
+2203,Ferguson,1,1
+2204,Arsenal,0,0
+2205,Gill,1,1
+2206,Dein,1,0
+2207,February,0,0
+2208,Arsenal,0,0
+2209,"('David', 'Gill')",1,0
+2210,Meanwhile,0,0
+2211,League,0,0
+2212,Managers,0,0
+2213,Association,0,0
+2214,"('League', 'Managers')",0,0
+2215,"('Managers', 'Association')",0,0
+2216,"('League', 'Managers', 'Association')",0,0
+2217,October,0,0
+2218,United,0,0
+2219,Ruud,0,0
+2220,Nistelrooy,0,0
+2221,Arsenal,0,0
+2222,"('Ashley', 'Cole')",1,1
+2223,Wenger,1,1
+2224,Football,0,0
+2225,Association,0,0
+2226,"('Van', 'Nistelrooy')",1,1
+2227,"('Football', 'Association')",0,0
+2228,Ferguson,1,1
+2229,Saturday,0,0
+2230,Dutchman,0,0
+2231,Cole,0,0
+2232,Arsenal,0,0
+2233,"('Van', 'Nistelrooy')",1,1
+2234,Wenger,1,1
+2235,Maybe,0,0
+2236,Manchester,0,0
+2237,United,0,0
+2238,"('Manchester', 'United')",0,0
+2239,Arsenal,0,0
+2240,Wenger,1,0
+2241,English,0,0
+2242,Euro,0,0
+2243,England,0,0
+2244,Champions,0,0
+2245,League,0,0
+2246,"('Champions', 'League')",0,0
+2247,Arsenal,0,0
+2248,Chelsea,0,0
+2249,Manchester,0,0
+2250,United,0,0
+2251,Liverpool,0,0
+2252,"('Manchester', 'United')",0,0
+2253,Rules,0,0
+2254,December,0,0
+2255,Chelsea,0,0
+2256,Barcelona,0,0
+2257,Real,0,0
+2258,Madrid,0,0
+2259,Milan,0,0
+2260,Juventus,0,0
+2261,Bayern,0,0
+2262,Munich,0,0
+2263,"('Real', 'Madrid')",0,0
+2264,"('Bayern', 'Munich')",0,0
+2265,Olympiakos,0,0
+2266,Wednesday,0,0
+2267,"('Steven', 'Gerrard')",1,1
+2268,Benitez,1,1
+2269,Liverpool,0,0
+2270,Deportivo,0,0
+2271,La,0,0
+2272,Coruna,0,1
+2273,Champions,0,0
+2274,League,0,0
+2275,"('Rafael', 'Benitez')",1,1
+2276,"('Deportivo', 'La')",0,1
+2277,"('La', 'Coruna')",0,1
+2278,"('Champions', 'League')",0,0
+2279,"('Deportivo', 'La', 'Coruna')",0,0
+2280,Liverpool,0,0
+2281,"('Jorge', 'Andrade')",1,1
+2282,Benitez,1,1
+2283,Benitez,1,1
+2284,"('Igor', 'Biscan')",1,1
+2285,"('Xabi', 'Alonso')",1,1
+2286,Benitez,1,1
+2287,Liverpool,0,0
+2288,Spain,0,0
+2289,Champions,0,0
+2290,League,0,0
+2291,Spain,0,0
+2292,"('Champions', 'League')",0,0
+2293,Liverpool,0,0
+2294,Benitez,1,1
+2295,Benitez,1,1
+2296,Xabi,1,0
+2297,"('Dietmar', 'Hamann')",1,1
+2298,"('Igor', 'Biscan')",1,1
+2299,Depor,0,1
+2300,Deportivo,0,1
+2301,Liverpool,0,0
+2302,"('Javier', 'Irureta')",1,1
+2303,Europe,0,0
+2304,Players,0,0
+2305,Collins,1,1
+2306,Sprinter,0,0
+2307,North,0,1
+2308,American,0,0
+2309,Court,0,0
+2310,Arbitration,0,0
+2311,Sport,0,0
+2312,CAS,0,0
+2313,"('Michelle', 'Collins')",1,1
+2314,"('North', 'American')",0,1
+2315,"('American', 'Court')",0,0
+2316,"('North', 'American', 'Court')",0,0
+2317,America,0,0
+2318,Collins,1,1
+2319,Balco,0,1
+2320,US,0,0
+2321,Anti-Doping,0,0
+2322,Agency,0,1
+2323,USADA,0,0
+2324,Collins,1,0
+2325,"('US', 'Anti-Doping')",0,0
+2326,"('Anti-Doping', 'Agency')",0,0
+2327,"('US', 'Anti-Doping', 'Agency')",0,0
+2328,CAS,0,0
+2329,USADA,0,1
+2330,USADA,0,0
+2331,Collins,1,1
+2332,EPO,0,0
+2333,THG,0,0
+2334,CAS,0,1
+2335,Collins,1,1
+2336,Balco,0,1
+2337,World,0,0
+2338,USADA,0,0
+2339,"('Tim', 'Montgomery')",1,1
+2340,CSA,0,0
+2341,June,0,0
+2342,Drug,0,0
+2343,US,0,0
+2344,USADA,0,1
+2345,Collins,1,1
+2346,"('Terry', 'Madden')",1,1
+2347,CAS,0,0
+2348,USADA,0,1
+2349,US,0,0
+2350,Madden,1,1
+2351,USADA,0,0
+2352,Balco,0,0
+2353,San,0,0
+2354,Francisco-based,0,0
+2355,Balco,0,0
+2356,"('San', 'Francisco-based')",0,0
+2357,"('Francisco-based', 'Balco')",0,0
+2358,"('San', 'Francisco-based', 'Balco')",0,0
+2359,March,0,0
+2360,Benitez,1,1
+2361,Reds,0,0
+2362,Liverpool,0,0
+2363,Bayer,0,0
+2364,Leverkusen,0,0
+2365,"('Rafael', 'Benitez')",1,1
+2366,"('Bayer', 'Leverkusen')",0,0
+2367,Benitez,1,0
+2368,Germany,0,0
+2369,Benitez,1,1
+2370,Franca,1,0
+2371,German,0,0
+2372,"('Jerzy', 'Dudek')",1,1
+2373,"('Dimitar', 'Berbatov')",1,1
+2374,Benitez,1,0
+2375,"('Jerzy', 'Dudek')",1,1
+2376,Jerzy,1,1
+2377,Germany,0,0
+2378,Liverpool,0,0
+2379,Anfield,0,0
+2380,Germany,0,0
+2381,"('Steven', 'Gerrard')",1,1
+2382,Benitez,1,0
+2383,"('Steven', 'Gerrard')",1,1
+2384,Steven,1,1
+2385,FA,0,0
+2386,Mourinho,1,0
+2387,Football,0,0
+2388,Association,0,0
+2389,Chelsea,0,0
+2390,Sunday,0,0
+2391,Carling,0,0
+2392,Cup,0,0
+2393,"('Football', 'Association')",0,0
+2394,"('Jose', 'Mourinho')",1,1
+2395,"('Carling', 'Cup')",0,0
+2396,Mourinho,1,0
+2397,Liverpool,0,0
+2398,FA,0,0
+2399,Mourinho,1,1
+2400,Porto,0,0
+2401,Liverpool,0,0
+2402,"('Phil', 'Crossley')",1,1
+2403,Chelsea,0,0
+2404,"('Steven', 'Gerrard')",1,1
+2405,Mourinho,1,0
+2406,FA,0,0
+2407,Manchester,0,0
+2408,United,0,0
+2409,January,0,0
+2410,Carling,0,0
+2411,Cup,0,0
+2412,Stamford,0,0
+2413,Bridge,0,0
+2414,"('Manchester', 'United')",0,0
+2415,"('Carling', 'Cup')",0,0
+2416,"('Stamford', 'Bridge')",0,0
+2417,Uefa,0,0
+2418,Mourinho,1,1
+2419,Chelsea,0,0
+2420,Champions,0,0
+2421,League,0,0
+2422,Barcelona,0,0
+2423,"('Champions', 'League')",0,0
+2424,Chelsea,0,0
+2425,Premiership,0,0
+2426,Blackburn,0,0
+2427,February,0,0
+2428,Carling,0,0
+2429,Cup,0,0
+2430,West,0,0
+2431,Ham,0,0
+2432,"('Carling', 'Cup')",0,0
+2433,"('West', 'Ham')",0,0
+2434,Premier,0,0
+2435,League,0,0
+2436,Chelsea,0,0
+2437,Arsenal,0,0
+2438,January,0,0
+2439,"('Premier', 'League')",0,0
+2440,"('Ashley', 'Cole')",1,1
+2441,Reyes,1,1
+2442,Real,0,0
+2443,Arsenal,0,0
+2444,Real,0,0
+2445,Madrid,0,0
+2446,"('Real', 'Madrid')",0,0
+2447,"('Jose', 'Antonio', 'Reyes')",1,0
+2448,Spaniard,0,1
+2449,Real,0,0
+2450,Madrid,0,0
+2451,"('Real', 'Madrid')",0,0
+2452,"('Emilio', 'Butragueno')",1,1
+2453,Real,0,0
+2454,Madrid,0,0
+2455,Cadena,0,0
+2456,Cope,0,0
+2457,"('Real', 'Madrid')",0,0
+2458,"('Cadena', 'Cope')",0,1
+2459,Hopefully,0,0
+2460,Madrid,0,0
+2461,Gunners,0,0
+2462,Seville,0,0
+2463,Arsenal,0,0
+2464,Premiership,0,0
+2465,Manchester,0,0
+2466,United,0,0
+2467,Chelsea,0,0
+2468,"('Manchester', 'United')",0,0
+2469,Real,0,1
+2470,Real,0,0
+2471,Madrid,0,0
+2472,Reyes,1,1
+2473,Spanish,0,0
+2474,Arsenal,0,0
+2475,Real,0,0
+2476,Madrid,0,0
+2477,Thursday,0,0
+2478,"('Real', 'Madrid')",0,0
+2479,Arsenal,0,0
+2480,Butragueno,1,0
+2481,Arsenal,0,0
+2482,Edwards,1,1
+2483,Idowu,1,0
+2484,Euro,0,0
+2485,World,0,0
+2486,BBC,0,0
+2487,European,0,0
+2488,Indoor,0,0
+2489,Championships,0,0
+2490,"('Jonathan', 'Edwards')",1,1
+2491,"('Phillips', 'Idowu')",1,1
+2492,"('European', 'Indoor')",0,0
+2493,"('Indoor', 'Championships')",0,0
+2494,"('European', 'Indoor', 'Championships')",0,0
+2495,Idowu,1,1
+2496,British,0,0
+2497,Sheffield,0,0
+2498,Sheffield,0,0
+2499,Edwards,0,0
+2500,Idowu,1,1
+2501,Commonwealth,0,0
+2502,Edwards,1,1
+2503,Idowu,0,0
+2504,Manchester,0,0
+2505,Games,0,0
+2506,"('Manchester', 'Games')",0,0
+2507,European,0,0
+2508,Indoors,0,0
+2509,Madrid,0,0
+2510,Britain,0,0
+2511,"('European', 'Indoors')",0,0
+2512,Edwards,1,0
+2513,Phillips,1,0
+2514,Madrid,0,0
+2515,Madrid,0,0
+2516,Friday,0,0
+2517,Saturday,0,0
+2518,Olympic,0,0
+2519,"('Christian', 'Olsson')",1,1
+2520,McClaren,1,1
+2521,Boro,0,0
+2522,Uefa,0,0
+2523,Middlesbrough,0,0
+2524,European,0,0
+2525,Uefa,0,0
+2526,Cup,0,0
+2527,Lazio,0,0
+2528,"('Steve', 'McClaren')",1,1
+2529,"('Uefa', 'Cup')",0,0
+2530,Boro,0,0
+2531,Europe,0,0
+2532,Group,0,0
+2533,E,0,0
+2534,"('Group', 'E')",0,0
+2535,Europe,0,0
+2536,McClaren,1,0
+2537,Lazio,0,0
+2538,McClaren,1,1
+2539,Italian,0,0
+2540,Boro,0,0
+2541,European,0,0
+2542,European,0,0
+2543,Europe,0,0
+2544,McClaren,1,1
+2545,McClaren,1,0
+2546,Lazio,0,0
+2547,Inter,0,0
+2548,Milan,0,0
+2549,Saturday,0,0
+2550,"('Inter', 'Milan')",0,0
+2551,Lazio,0,1
+2552,Middlesbrough,0,1
+2553,"('Boudewijn', 'Zenden')",1,1
+2554,Zenden,1,0
+2555,Holland,0,0
+2556,Boro,0,0
+2557,Liverpool,0,0
+2558,Liverpool,0,0
+2559,Champions,0,0
+2560,League,0,0
+2561,"('Rafael', 'Benitez')",1,1
+2562,"('Champions', 'League')",0,0
+2563,Reds,0,0
+2564,Olympiakos,0,0
+2565,Benitez,1,0
+2566,"('Steven', 'Gerrard')",1,1
+2567,Liverpool,0,1
+2568,Benitez,1,1
+2569,Gerrard,1,0
+2570,Anfield,0,0
+2571,Reds,0,0
+2572,Gerrard,1,0
+2573,Steven,1,1
+2574,Gerrard,1,1
+2575,Champions,0,0
+2576,League,0,0
+2577,"('Champions', 'League')",0,0
+2578,Liverpool,0,0
+2579,England,0,0
+2580,Champions,0,0
+2581,League,0,0
+2582,"('Champions', 'League')",0,0
+2583,Wolves,0,0
+2584,Hoddle,1,0
+2585,Wolves,0,0
+2586,"('Glenn', 'Hoddle')",1,1
+2587,"('Dave', 'Jones')",1,1
+2588,Wolves,0,0
+2589,Glenn,1,1
+2590,"('Rick', 'Hayward')",1,1
+2591,Hoddle,1,1
+2592,Spurs,0,1
+2593,"('Stuart', 'Gray')",1,1
+2594,Gray,1,0
+2595,Hoddle,0,1
+2596,Southampton,0,0
+2597,Hoddle,1,0
+2598,Wolves,0,0
+2599,Premiership,0,0
+2600,"('Stuart', 'Gray')",1,1
+2601,Southampton,0,0
+2602,Wolves,0,0
+2603,Hoddle,1,0
+2604,"('Jez', 'Moxey')",1,1
+2605,Glenn,1,1
+2606,Hayward,1,1
+2607,Hoddle,1,1
+2608,Jones,1,0
+2609,Five,0,0
+2610,Wolves,0,0
+2611,Hoddle,1,1
+2612,Swindon,0,0
+2613,Chelsea,0,0
+2614,England,0,0
+2615,World,0,0
+2616,Cup,0,0
+2617,"('World', 'Cup')",0,0
+2618,Southampton,0,0
+2619,Jones,1,0
+2620,Wolves,0,0
+2621,Saints,0,0
+2622,White,0,0
+2623,Hart,0,0
+2624,Lane,0,0
+2625,Tottenham,0,0
+2626,"('White', 'Hart')",0,1
+2627,"('Hart', 'Lane')",0,1
+2628,"('White', 'Hart', 'Lane')",0,0
+2629,London,0,0
+2630,Since,0,0
+2631,France,0,0
+2632,Southampton,0,0
+2633,Wolves,0,0
+2634,Championship,0,0
+2635,Millwall,0,0
+2636,Tuesday,0,0
+2637,Wolves,0,0
+2638,Hoddle,1,0
+2639,Wolves,0,0
+2640,Tuesday,0,0
+2641,"('Glenn', 'Hoddle')",1,1
+2642,England,0,0
+2643,Molineux,0,0
+2644,GMT,0,0
+2645,"('Dave', 'Jones')",1,1
+2646,Hoddle,1,1
+2647,Southampton,0,0
+2648,Wolves,0,1
+2649,Spurs,0,1
+2650,September,0,0
+2651,Wolves,0,0
+2652,Stuart,0,1
+2653,Gray,0,0
+2654,Southampton,0,0
+2655,"('Stuart', 'Gray')",0,1
+2656,Hoddle,1,1
+2657,Swindon,0,0
+2658,Chelsea,0,0
+2659,England,0,0
+2660,World,0,0
+2661,Cup,0,0
+2662,"('World', 'Cup')",0,0
+2663,Southampton,0,0
+2664,Jones,1,0
+2665,Wolves,0,0
+2666,Saints,0,0
+2667,White,0,0
+2668,Hart,0,0
+2669,Lane,0,0
+2670,Tottenham,0,0
+2671,"('White', 'Hart')",0,1
+2672,"('Hart', 'Lane')",0,1
+2673,"('White', 'Hart', 'Lane')",0,0
+2674,London,0,0
+2675,Since,0,0
+2676,France,0,0
+2677,Southampton,0,0
+2678,Wolves,0,0
+2679,Championship,0,0
+2680,Millwall,0,0
+2681,Tuesday,0,0
+2682,Chepkemei,1,1
+2683,Edinburgh,0,0
+2684,Great,0,0
+2685,Edinburgh,0,0
+2686,International,0,0
+2687,Cross,0,0
+2688,Country,0,0
+2689,"('Susan', 'Chepkemei')",1,1
+2690,"('Great', 'Edinburgh')",0,0
+2691,"('Edinburgh', 'International')",0,0
+2692,"('International', 'Cross')",0,0
+2693,"('Cross', 'Country')",0,0
+2694,"('Great', 'Edinburgh', 'International')",0,0
+2695,"('Edinburgh', 'International', 'Cross')",0,0
+2696,"('International', 'Cross', 'Country')",0,0
+2697,Kenyan,0,0
+2698,New,0,0
+2699,York,0,0
+2700,Marathon,0,0
+2701,"('Paula', 'Radcliffe')",1,1
+2702,"('New', 'York')",0,0
+2703,"('York', 'Marathon')",0,0
+2704,"('New', 'York', 'Marathon')",0,0
+2705,World,0,0
+2706,"('Benita', 'Johnson')",1,1
+2707,Race,0,0
+2708,Susan,1,1
+2709,"('Matthew', 'Turnbull')",1,1
+2710,Chepkemei,1,1
+2711,Newcastle,0,0
+2712,Radcliffe,1,0
+2713,Big,0,0
+2714,Apple,0,0
+2715,Briton,0,0
+2716,"('Big', 'Apple')",0,1
+2717,Ethiopia,0,0
+2718,Tyneside,0,1
+2719,"('Tirunesh', 'Dibaba')",1,0
+2720,Recently-crowned,0,0
+2721,European,0,0
+2722,Edinburgh,0,0
+2723,January,0,0
+2724,"('Recently-crowned', 'European')",0,1
+2725,"('Briton', 'Hayley', 'Yelling')",1,0
+2726,"('Scot', 'Kathy', 'Butler')",1,0
+2727,Cole,1,0
+2728,Persie,0,0
+2729,Robin,0,0
+2730,Persie,0,0
+2731,Arsenal,0,0
+2732,FA,0,0
+2733,Cup,0,0
+2734,Sheffield,0,0
+2735,United,0,0
+2736,"('Ashley', 'Cole')",1,1
+2737,"('FA', 'Cup')",0,0
+2738,"('Sheffield', 'United')",0,0
+2739,Southampton,0,0
+2740,Arsenal,0,0
+2741,"('Van', 'Persie')",1,1
+2742,"('Dennis', 'Bergkamp')",1,1
+2743,"('Jose', 'Antonio', 'Reyes')",1,1
+2744,Achilles,0,1
+2745,Cole,1,1
+2746,No-one,0,0
+2747,Robin,1,0
+2748,"('Thierry', 'Henry')",1,1
+2749,Cole,1,0
+2750,"('Freddie', 'Ljungberg')",1,0
+2751,"('Arturo', 'Lupoli')",1,1
+2752,"('Quincy', 'Owusu-Abeyie')",1,1
+2753,"('Jeremie', 'Aliadiere')",1,1
+2754,Gunners,0,0
+2755,Freddie,1,1
+2756,"('Arsene', 'Wenger')",1,1
+2757,Aliadiere,1,0
+2758,Quincy,1,0
+2759,Lupoli,1,0
+2760,Arsenal,0,0
+2761,St,0,0
+2762,Mary,0,0
+2763,"('Robert', 'Pires')",1,1
+2764,"('St', 'Mary')",0,0
+2765,Wenger,1,1
+2766,Pires,1,1
+2767,Owen,1,0
+2768,Real,0,0
+2769,Real,0,0
+2770,Madrid,0,0
+2771,Real,0,0
+2772,Betis,0,0
+2773,Wednesday,0,0
+2774,"('Michael', 'Owen')",1,1
+2775,"('Real', 'Madrid')",0,0
+2776,"('Real', 'Betis')",0,0
+2777,People,0,0
+2778,Owen,1,0
+2779,La,0,0
+2780,Liga,0,0
+2781,"('La', 'Liga')",0,0
+2782,"('Santiago', 'Solari')",1,0
+2783,"('Robert', 'Carlos')",1,1
+2784,Midfielder,0,0
+2785,Edu,1,1
+2786,"('Ivan', 'Helguera')",1,0
+2787,"('Antonio', 'Doblas')",1,1
+2788,Victory,0,1
+2789,Real,0,0
+2790,Barcelona,0,0
+2791,Owen,1,1
+2792,Real,0,1
+2793,Betis,0,0
+2794,Barcelona,0,0
+2795,Barcelona,0,0
+2796,Bernabeu,0,0
+2797,April,0,0
+2798,Owen,1,0
+2799,Real,0,0
+2800,Ronaldo,1,0
+2801,Real,0,0
+2802,Blackburn,0,0
+2803,Burnley,0,0
+2804,Ewood,0,1
+2805,Park,0,0
+2806,Tuesday,0,0
+2807,March,0,0
+2808,GMT,0,0
+2809,South,0,0
+2810,Yorkshire,0,0
+2811,Leicester,0,0
+2812,"('Burnley', 'Ewood')",0,0
+2813,"('Ewood', 'Park')",0,0
+2814,"('Park', 'Tuesday')",0,0
+2815,"('Howard', 'Webb')",1,1
+2816,"('South', 'Yorkshire')",0,0
+2817,"('Andy', 'Todd')",1,1
+2818,"('Dominic', 'Matteo')",1,1
+2819,"('Burnley', 'Ewood', 'Park')",0,0
+2820,"('Ewood', 'Park', 'Tuesday')",0,0
+2821,Burnley,0,0
+2822,"('Frank', 'Sinclair')",1,1
+2823,"('John', 'McGreal')",1,1
+2824,"('Michael', 'Duff')",1,1
+2825,"('John', 'Oster')",1,1
+2826,"('Micah', 'Hyde')",1,1
+2827,Blackburn,0,0
+2828,Burnley,0,0
+2829,"('Mark', 'Hughes')",1,1
+2830,Burnley,0,0
+2831,Leicester,0,0
+2832,Burnley,0,0
+2833,"('Steve', 'Cotterill')",1,1
+2834,KEY,0,0
+2835,MATCH,0,0
+2836,STATS,0,0
+2837,BLACKBURN,0,0
+2838,ROVERS,0,1
+2839,Bolton,0,0
+2840,East,0,0
+2841,Lancashire,0,0
+2842,Sunday,0,0
+2843,"('KEY', 'MATCH')",0,0
+2844,"('MATCH', 'STATS')",0,0
+2845,"('BLACKBURN', 'ROVERS')",0,0
+2846,"('East', 'Lancashire')",0,1
+2847,"('KEY', 'MATCH', 'STATS')",0,0
+2848,Rovers,0,0
+2849,Cup,0,0
+2850,Championship,0,0
+2851,Cardiff,0,0
+2852,Ewood,0,0
+2853,Park,0,0
+2854,"('Ewood', 'Park')",0,1
+2855,Premiership,0,0
+2856,Ipswich,0,0
+2857,Ewood,0,0
+2858,Park,0,0
+2859,January,0,0
+2860,"('Ewood', 'Park')",0,1
+2861,History,0,1
+2862,Rovers,0,1
+2863,FA,0,0
+2864,Cup,0,0
+2865,Ewood,0,0
+2866,Park,0,0
+2867,League,0,0
+2868,Rovers,0,0
+2869,"('FA', 'Cup')",0,0
+2870,"('Ewood', 'Park')",0,1
+2871,Nationwide,0,0
+2872,Division,0,0
+2873,One,0,0
+2874,Turf,0,0
+2875,Moor,0,0
+2876,Clarets,0,0
+2877,"('Nationwide', 'Division')",0,0
+2878,"('Division', 'One')",0,1
+2879,"('Turf', 'Moor')",0,1
+2880,"('Nationwide', 'Division', 'One')",0,0
+2881,Manager,0,0
+2882,Cup,0,0
+2883,Rovers,0,0
+2884,"('Mark', 'Hughes')",1,1
+2885,Success,0,1
+2886,Leicester,0,0
+2887,Rovers,0,0
+2888,Premiership,0,0
+2889,BURNLEY,0,0
+2890,Blackburn,0,0
+2891,Liverpool,0,0
+2892,Turf,0,0
+2893,Moor,0,0
+2894,Championship,0,0
+2895,League,0,0
+2896,"('Turf', 'Moor')",0,1
+2897,Burnley,0,0
+2898,Cup,0,0
+2899,Clarets,0,0
+2900,"('Steve', 'Cotterills')",1,1
+2901,Premiership,0,0
+2902,Fulham,0,0
+2903,"('Premiership', 'Fulham')",0,0
+2904,Blackburn,0,0
+2905,Burnley,0,0
+2906,League,0,0
+2907,Derby,0,1
+2908,Preston,0,0
+2909,Football,0,0
+2910,League,0,0
+2911,"('Football', 'League')",0,0
+2912,HEAD,0,0
+2913,HEAD,0,0
+2914,PREM,0,0
+2915,WINNERS,0,1
+2916,Championship,0,0
+2917,WINNERS,0,0
+2918,"('PREM', 'WINNERS')",0,0
+2919,"('Championship', 'WINNERS')",0,0
+2920,Double,0,0
+2921,Olympic,0,0
+2922,World,0,0
+2923,Cross,0,0
+2924,Country,0,0
+2925,Championships,0,0
+2926,France,0,0
+2927,"('El', 'Guerrouj')",1,1
+2928,"('Double', 'Olympic')",0,1
+2929,"('World', 'Cross')",0,0
+2930,"('Cross', 'Country')",0,0
+2931,"('Country', 'Championships')",0,0
+2932,"('Hicham', 'El', 'Guerrouj')",1,0
+2933,"('World', 'Cross', 'Country')",0,0
+2934,"('Cross', 'Country', 'Championships')",0,0
+2935,Moroccan,0,0
+2936,March,0,0
+2937,Otherwise,0,0
+2938,August,0,0
+2939,Olympic,0,0
+2940,"('El', 'Guerrouj')",1,1
+2941,Helsinki,0,0
+2942,Olympic,0,0
+2943,"('Kenenisa', 'Bekele')",1,1
+2944,Bekele,1,0
+2945,March,0,0
+2946,Ethiopian,0,0
+2947,"('El', 'Guerrouj')",1,1
+2948,Moroccan,0,0
+2949,St,0,0
+2950,Galmier,0,0
+2951,"('St', 'Galmier')",0,1
+2952,"('El', 'Guerrouj')",1,1
+2953,Britain,0,0
+2954,World,0,0
+2955,Cross,0,0
+2956,Country,0,0
+2957,Championships,0,0
+2958,"('Paula', 'Radcliffe')",1,1
+2959,"('World', 'Cross')",0,0
+2960,"('Cross', 'Country')",0,0
+2961,"('Country', 'Championships')",0,0
+2962,"('World', 'Cross', 'Country')",0,0
+2963,"('Cross', 'Country', 'Championships')",0,0
+2964,London,0,0
+2965,World,0,0
+2966,Cross,0,0
+2967,Country,0,0
+2968,"('World', 'Cross')",0,0
+2969,"('Cross', 'Country')",0,0
+2970,"('World', 'Cross', 'Country')",0,0
+2971,Sprinter,0,0
+2972,Walker,1,1
+2973,Former,0,0
+2974,European,0,0
+2975,"('Former', 'European')",0,0
+2976,"('Dougie', 'Walker')",1,0
+2977,Walker,1,1
+2978,New,0,0
+2979,Year,0,0
+2980,Sprint,0,0
+2981,Musselburgh,0,0
+2982,Racecourse,0,0
+2983,Edinburgh,0,0
+2984,Tuesday,0,0
+2985,Wednesday,0,0
+2986,"('New', 'Year')",0,0
+2987,"('Year', 'Sprint')",0,0
+2988,"('Musselburgh', 'Racecourse')",0,0
+2989,"('New', 'Year', 'Sprint')",0,0
+2990,Scot,1,0
+2991,Walker,1,0
+2992,Herald,0,1
+2993,America,0,0
+2994,Cup,0,0
+2995,Man,0,0
+2996,Utd,0,1
+2997,Everton,0,0
+2998,Holders,0,0
+2999,Manchester,0,0
+3000,United,0,0
+3001,Premiership,0,0
+3002,Chelsea,0,0
+3003,Premiership,0,0
+3004,FA,0,0
+3005,Cup,0,0
+3006,"('Man', 'Utd')",0,0
+3007,"('Everton', 'Holders')",0,1
+3008,"('Holders', 'Manchester')",0,0
+3009,"('Manchester', 'United')",0,0
+3010,"('FA', 'Cup')",0,0
+3011,"('Everton', 'Holders', 'Manchester')",0,0
+3012,"('Holders', 'Manchester', 'United')",0,0
+3013,United,0,0
+3014,Everton,0,0
+3015,Chelsea,0,0
+3016,Newcastle,0,0
+3017,Brentford,0,0
+3018,Hartlepool,0,0
+3019,Southampton,0,0
+3020,Burnley,0,0
+3021,Lancashire,0,0
+3022,Blackburn,0,0
+3023,Manchester,0,0
+3024,United,0,0
+3025,Everton,0,1
+3026,"('Manchester', 'United')",0,0
+3027,"('Wayne', 'Rooney')",1,1
+3028,Nottingham,0,0
+3029,Forest,0,0
+3030,West,0,0
+3031,Brom,0,0
+3032,Tottenham,0,0
+3033,"('Nottingham', 'Forest')",0,0
+3034,"('Gary', 'Megson')",1,1
+3035,"('West', 'Brom')",0,0
+3036,Arsenal,0,0
+3037,Londoners,0,0
+3038,West,0,0
+3039,Ham,0,0
+3040,Hammers,0,0
+3041,Sheffield,0,0
+3042,United,0,0
+3043,"('Londoners', 'West')",0,0
+3044,"('West', 'Ham')",0,0
+3045,"('Sheffield', 'United')",0,0
+3046,"('Londoners', 'West', 'Ham')",0,0
+3047,Charlton,0,0
+3048,Leicester,0,0
+3049,Bolton,0,0
+3050,Derby-Fulham,0,0
+3051,Rangers,0,0
+3052,Old,0,0
+3053,Firm,0,1
+3054,Goals,0,0
+3055,Rangers,0,0
+3056,Celtic,0,0
+3057,Park,0,0
+3058,"('Old', 'Firm')",0,1
+3059,"('Gregory', 'Vignal')",1,1
+3060,"('Nacho', 'Novo')",1,1
+3061,"('Celtic', 'Park')",0,0
+3062,Rangers,0,0
+3063,Celtic,0,0
+3064,Vignal,1,1
+3065,"('Rab', 'Douglas')",1,0
+3066,Opposite,0,0
+3067,Rangers,0,0
+3068,"('Ronald', 'Waterreus')",1,1
+3069,"('Craig', 'Bellamy')",1,1
+3070,"('John', 'Hartson')",1,1
+3071,Striker,0,1
+3072,Novo,1,1
+3073,Douglas,1,0
+3074,Celtic,0,0
+3075,Old,0,0
+3076,Firm,0,1
+3077,Rangers,0,0
+3078,Glasgow,0,0
+3079,"('Old', 'Firm')",0,1
+3080,"('Alex', 'McLeish')",1,1
+3081,Celtic,0,0
+3082,Bellamy,1,0
+3083,Newcastle,0,0
+3084,United,0,0
+3085,Celtic,0,0
+3086,Wales,0,0
+3087,"('Newcastle', 'United')",0,0
+3088,"('John', 'Hartson')",1,1
+3089,"('Chris', 'Sutton')",1,1
+3090,Bellamy,1,0
+3091,Waterreus,1,0
+3092,"('Marvin', 'Andrews')",1,1
+3093,Hartson,1,1
+3094,"('Sotiris', 'Kyrgiakos')",1,1
+3095,Waterreus,1,1
+3096,Bellamy,1,1
+3097,Waterreus,1,1
+3098,Hartson,1,0
+3099,Dutch,0,0
+3100,Old,0,0
+3101,Firm,0,0
+3102,McLeish,1,1
+3103,Hibernian,0,0
+3104,"('Old', 'Firm')",0,0
+3105,"('Barry', 'Ferguson')",1,0
+3106,Rangers,0,1
+3107,Celtic,0,0
+3108,Douglas,1,0
+3109,Celtic,0,0
+3110,"('Dado', 'Prso')",1,1
+3111,"('Neil', 'Lennon')",1,1
+3112,Andrews,1,1
+3113,Hartson,1,1
+3114,Hartson,1,1
+3115,Vignal,1,0
+3116,Rangers,0,0
+3117,Waterreus,1,0
+3118,Rangers,0,0
+3119,Vignal,1,0
+3120,Douglas,1,0
+3121,Frenchman,0,0
+3122,"('Fernando', 'Ricksen')",1,1
+3123,Novo,1,0
+3124,Celtic,0,0
+3125,Ricksen,1,0
+3126,Douglas,1,0
+3127,Ricksen,1,1
+3128,Rangers,0,0
+3129,Bristol,0,0
+3130,City,0,0
+3131,City,0,0
+3132,LDV,0,0
+3133,Vans,0,0
+3134,Trophy,0,1
+3135,"('Bristol', 'City')",0,1
+3136,"('Milton', 'Keynes')",1,0
+3137,"('Leroy', 'Lita')",1,1
+3138,"('LDV', 'Vans')",0,1
+3139,"('Vans', 'Trophy')",0,0
+3140,"('LDV', 'Vans', 'Trophy')",0,0
+3141,"('Scott', 'Murray')",1,1
+3142,Lita,1,0
+3143,Dons,1,0
+3144,"('Serge', 'Makofo')",1,1
+3145,"('Richard', 'Johnson')",1,1
+3146,"('Steve', 'Phillips')",1,1
+3147,Liverpool,0,0
+3148,Gerrard,1,0
+3149,Liverpool,0,0
+3150,Chelsea,0,0
+3151,Anfield,0,0
+3152,"('Rick', 'Parry')",1,1
+3153,"('Steven', 'Gerrard')",1,1
+3154,Gerrard,1,1
+3155,Reds,0,0
+3156,Champions,0,0
+3157,League,0,0
+3158,Wednesday,0,0
+3159,"('Champions', 'League')",0,0
+3160,Parry,1,1
+3161,Chelsea,0,0
+3162,Stevie,1,1
+3163,January,0,0
+3164,Parry,1,1
+3165,Gerrard,1,1
+3166,Liverpool,0,0
+3167,Olympiakos,0,0
+3168,Parry,0,1
+3169,Liverpool,0,0
+3170,Liverpool,0,0
+3171,Gerrard,1,1
+3172,Wednesday,0,0
+3173,Europe,0,0
+3174,Real,0,0
+3175,Madrid,0,0
+3176,"('Real', 'Madrid')",0,0
+3177,Liverpool,0,0
+3178,Champions,0,0
+3179,League,0,0
+3180,"('Champions', 'League')",0,0
+3181,Liverpool,0,0
+3182,Reds,0,1
+3183,Gerrard,1,1
+3184,"('Rafael', 'Benitez')",1,1
+3185,Steven,1,1
+3186,Benitez,1,0
+3187,Steven,1,0
+3188,Gatlin,1,1
+3189,Hayes,1,1
+3190,Owen,0,0
+3191,American,0,0
+3192,Olympic,0,0
+3193,Awards,0,0
+3194,USA,0,0
+3195,Track,0,1
+3196,Field,0,1
+3197,USATF,0,0
+3198,"('American', 'Olympic')",0,0
+3199,"('Justin', 'Gatlin')",1,1
+3200,"('Joanna', 'Hayes')",1,1
+3201,"('Jesse', 'Owens')",1,1
+3202,"('USA', 'Track')",0,0
+3203,Gatlin,1,1
+3204,Games,0,0
+3205,Athens,0,0
+3206,Hayes,1,0
+3207,Olympic,0,0
+3208,Established,0,0
+3209,Awards,0,0
+3210,Olympic,0,0
+3211,Berlin,0,0
+3212,Games,0,0
+3213,US,0,0
+3214,"('Jesse', 'Owens')",1,1
+3215,"('Berlin', 'Games')",0,0
+3216,December,0,0
+3217,USATF,0,0
+3218,Portland,0,0
+3219,Award,0,0
+3220,Gatlin,1,0
+3221,"('Jesse', 'Owens')",1,1
+3222,Hayes,1,1
+3223,Knowing,0,0
+3224,Holmes,1,1
+3225,European,0,0
+3226,Indoor,0,0
+3227,Athletics,0,0
+3228,Championships,0,0
+3229,"('Kelly', 'Holmes')",1,1
+3230,"('European', 'Indoor')",0,0
+3231,"('Indoor', 'Athletics')",0,0
+3232,"('Athletics', 'Championships')",0,0
+3233,"('European', 'Indoor', 'Athletics')",0,0
+3234,"('Indoor', 'Athletics', 'Championships')",0,0
+3235,Olympic,0,0
+3236,Holmes,0,0
+3237,South,0,0
+3238,Africa,0,0
+3239,"('South', 'Africa')",0,0
+3240,Birmingham,0,0
+3241,Grand,0,0
+3242,Prix,0,0
+3243,"('Birmingham', 'Grand')",0,0
+3244,"('Grand', 'Prix')",0,0
+3245,"('Birmingham', 'Grand', 'Prix')",0,0
+3246,Holmes,1,1
+3247,European,0,0
+3248,Indoors,0,0
+3249,"('European', 'Indoors')",0,0
+3250,Saturday,0,0
+3251,Holmes,1,1
+3252,Madrid,0,0
+3253,Holmes,1,1
+3254,"('Margot', 'Jennings')",1,1
+3255,Madrid,0,0
+3256,British,0,0
+3257,"('Helen', 'Clitheroe')",1,0
+3258,Holmes,1,1
+3259,Birmingham,0,0
+3260,Double,0,0
+3261,Olympic,0,0
+3262,Norwich,0,0
+3263,Union,0,0
+3264,Birmingham,0,0
+3265,Indoor,0,0
+3266,Grand,0,0
+3267,Prix,0,0
+3268,"('Birmingham', 'Double')",0,0
+3269,"('Double', 'Olympic')",0,0
+3270,"('Kelly', 'Holmes')",1,1
+3271,"('Norwich', 'Union')",0,0
+3272,"('Union', 'Birmingham')",0,0
+3273,"('Birmingham', 'Indoor')",0,0
+3274,"('Indoor', 'Grand')",0,0
+3275,"('Grand', 'Prix')",0,0
+3276,"('Birmingham', 'Double', 'Olympic')",0,0
+3277,"('Norwich', 'Union', 'Birmingham')",0,0
+3278,"('Union', 'Birmingham', 'Indoor')",0,0
+3279,"('Birmingham', 'Indoor', 'Grand')",0,0
+3280,"('Indoor', 'Grand', 'Prix')",0,0
+3281,European,0,0
+3282,Championships,0,0
+3283,Madrid,0,0
+3284,March,0,0
+3285,"('European', 'Championships')",0,0
+3286,American,0,1
+3287,Three,0,0
+3288,Britain,0,0
+3289,"('Mark', 'Lewis-Francis')",1,1
+3290,World,0,0
+3291,Scott,1,1
+3292,"('Kim', 'Collins')",1,1
+3293,"('Maurice', 'Greene')",1,1
+3294,European,0,0
+3295,Madrid,0,0
+3296,"('Jason', 'Gardener')",1,1
+3297,Gardener,1,1
+3298,Russian,0,0
+3299,National,0,0
+3300,Indoor,0,0
+3301,Arena,0,0
+3302,"('National', 'Indoor')",0,0
+3303,"('Indoor', 'Arena')",0,0
+3304,"('National', 'Indoor', 'Arena')",0,0
+3305,Olympic,0,0
+3306,Russian,0,0
+3307,"('Svetlana', 'Feofanova')",1,0
+3308,Isinbayeva,1,0
+3309,July,0,0
+3310,BBC,0,0
+3311,Sport,0,0
+3312,"('BBC', 'Sport')",0,0
+3313,Jamaica,0,0
+3314,Belgian,0,0
+3315,European,0,0
+3316,American,0,0
+3317,"('Kim', 'Gevaert')",1,1
+3318,"('Muna', 'Lee')",1,1
+3319,British,0,0
+3320,"('Jeanette', 'Kwakye')",1,1
+3321,"('Joice', 'Maduaka')",1,1
+3322,Jamaican,0,0
+3323,Olympic,0,0
+3324,Briton,0,0
+3325,Olympic,0,0
+3326,"('Tim', 'Abeyie')",1,1
+3327,"('Melissa', 'Morrison')",1,1
+3328,Briton,0,0
+3329,Championships,0,0
+3330,Russian,0,0
+3331,"('Irina', 'Shevchenko')",1,1
+3332,Ethiopia,0,0
+3333,"('Berhane', 'Adere')",1,1
+3334,Olympic,0,0
+3335,Britain,0,0
+3336,Defar,1,0
+3337,"('Jo', 'Pavey')",1,0
+3338,Kenyan,0,1
+3339,"('Hicham', 'El', 'Guerrouj')",1,0
+3340,Lagat,0,1
+3341,Athens,0,0
+3342,Moroccan,0,0
+3343,Birmingham,0,0
+3344,"('El', 'Guerrouj')",1,1
+3345,Olympic,0,0
+3346,Tariku,1,0
+3347,Ethiopian,0,0
+3348,Bekele,1,1
+3349,Jamaican,0,0
+3350,World,0,0
+3351,American,0,0
+3352,"('Alleyne', 'Francique')",1,1
+3353,"('Jerry', 'Harris')",1,1
+3354,"('James', 'Davis')",1,1
+3355,Swede,0,0
+3356,"('Jade', 'Johnson')",1,1
+3357,Olympic,0,0
+3358,Johnson,1,0
+3359,Johnson,1,0
+3360,London,0,0
+3361,Olympic,0,0
+3362,Back,0,0
+3363,Bid,0,0
+3364,Europeans,0,0
+3365,USA,0,0
+3366,"('Savante', 'Stringfellow')",1,0
+3367,Clyde,0,1
+3368,Celtic,0,0
+3369,Celtic,0,0
+3370,Clyde,0,1
+3371,Scottish,0,0
+3372,Cup,0,0
+3373,"('Celtic', 'Celtic')",0,0
+3374,"('Scottish', 'Cup')",0,0
+3375,Celtic,0,0
+3376,"('Craig', 'Bryson')",1,1
+3377,"('Stan', 'Varga')",1,1
+3378,"('Alan', 'Thompson')",1,1
+3379,"('Shaun', 'Maloney')",1,1
+3380,Varga,1,1
+3381,"('Stilian', 'Petrov')",1,1
+3382,"('Craig', 'Bellamy')",1,1
+3383,Bellamy,1,0
+3384,Juninho,1,0
+3385,"('Bryn', 'Halliwell')",1,1
+3386,"('Chris', 'Sutton')",1,1
+3387,Clyde,0,1
+3388,Bryson,1,1
+3389,Petrov,1,0
+3390,Celtic,0,0
+3391,"('Darren', 'Sheridan')",1,1
+3392,Back,0,0
+3393,Halliwell,1,1
+3394,Bellamy,1,1
+3395,"('Stephane', 'Henchoz')",1,1
+3396,Halliwell,1,1
+3397,Varga,1,1
+3398,Maloney,1,1
+3399,Sutton,1,0
+3400,Clyde,0,1
+3401,Bryson,1,1
+3402,Thompson,1,1
+3403,Sheridan,1,1
+3404,Bellamy,1,1
+3405,Juninho,1,1
+3406,Halliwell,1,0
+3407,Petrov,1,1
+3408,Petrov,1,0
+3409,Juninho,1,1
+3410,Bulgarian,0,0
+3411,Halliwell,1,0
+3412,Varga,1,1
+3413,Celtic,0,0
+3414,Thompson,1,1
+3415,Celtic,0,0
+3416,Bellamy,1,1
+3417,Maloney,1,1
+3418,Welshman,0,1
+3419,"('Aiden', 'McGeady')",1,1
+3420,"('Jackie', 'McNamara')",1,1
+3421,Halliwell,1,1
+3422,McGeady,1,1
+3423,Irish,0,0
+3424,Republic,0,0
+3425,Ireland,0,0
+3426,World,0,0
+3427,Cup,0,0
+3428,"('Brian', 'Kerr')",1,1
+3429,"('World', 'Cup')",0,0
+3430,Ireland,0,0
+3431,Switzerland,0,0
+3432,Dublin,0,0
+3433,October,0,0
+3434,Republic,0,0
+3435,Swiss,0,0
+3436,Euro,0,0
+3437,Portugal,0,0
+3438,Group,0,0
+3439,Four,0,0
+3440,Dublin,0,0
+3441,Tuesday,0,0
+3442,"('Group', 'Four')",0,0
+3443,Irish,0,0
+3444,September,0,0
+3445,Cyprus,0,0
+3446,October,0,0
+3447,Switzerland,0,0
+3448,Manager,0,1
+3449,FAI,0,0
+3450,Switzerland,0,0
+3451,France,0,0
+3452,Cyprus,0,0
+3453,Israel,0,0
+3454,Faroe,0,0
+3455,Islands,0,0
+3456,"('Brian', 'Kerr')",1,1
+3457,"('Faroe', 'Islands')",0,0
+3458,Kerr,1,1
+3459,France,0,0
+3460,European,0,0
+3461,September,0,0
+3462,Thanou,1,0
+3463,Athens,0,0
+3464,Olympics,0,0
+3465,"('Katerina', 'Thanou')",1,1
+3466,"('Kostas', 'Kenteris')",1,1
+3467,"('Athens', 'Olympics')",0,0
+3468,Greek,0,0
+3469,Saturday,0,0
+3470,IAAF,0,0
+3471,Thanou,1,0
+3472,Greek,0,0
+3473,Athletics,0,0
+3474,Federation,0,0
+3475,SEGAS,0,0
+3476,"('Grigoris', 'Ioanidis')",1,1
+3477,"('Greek', 'Athletics')",0,0
+3478,"('Athletics', 'Federation')",0,0
+3479,"('Greek', 'Athletics', 'Federation')",0,0
+3480,Ioanidis,1,1
+3481,Thanou,1,0
+3482,Olympic,0,0
+3483,Sydney,0,0
+3484,Kenteris,1,1
+3485,IAAF,0,0
+3486,Athens,0,0
+3487,Games,0,0
+3488,August,0,0
+3489,"('Athens', 'Games')",0,0
+3490,Thanou,1,1
+3491,IAAF,0,0
+3492,"('Christos', 'Tzekos')",1,1
+3493,August,0,0
+3494,Tzekos,1,0
+3495,Tzekos,1,1
+3496,Thanou,1,0
+3497,Kenteris,1,1
+3498,Deliberations,0,0
+3499,Thursday,0,0
+3500,"('Kostas', 'Panagopoulos')",1,1
+3501,February,0,0
+3502,Wenger,1,1
+3503,Newcastle,0,0
+3504,Arsenal,0,0
+3505,Newcastle,0,0
+3506,"('Arsene', 'Wenger')",1,1
+3507,Gunners,0,0
+3508,St,0,0
+3509,James,0,0
+3510,Park,0,0
+3511,Wednesday,0,0
+3512,Newcastle,0,0
+3513,Premiership,0,0
+3514,"('St', 'James')",0,0
+3515,Wenger,1,1
+3516,Arsenal,0,0
+3517,Fulham,0,0
+3518,Sunday,0,0
+3519,Wenger,1,1
+3520,Newcastle,0,0
+3521,Fatigue,0,1
+3522,Striker,0,1
+3523,Fulham,0,0
+3524,"('Thierry', 'Henry')",1,1
+3525,"('Robert', 'Pires')",1,1
+3526,Henry,1,1
+3527,Fulham,0,0
+3528,Man,0,0
+3529,Utd,0,0
+3530,Exeter,0,0
+3531,Manchester,0,0
+3532,United,0,0
+3533,FA,0,0
+3534,Cup,0,0
+3535,Exeter,0,0
+3536,City,0,0
+3537,"('Man', 'Utd')",0,0
+3538,"('Manchester', 'United')",0,0
+3539,"('FA', 'Cup')",0,0
+3540,"('Exeter', 'City')",0,0
+3541,"('Cristiano', 'Ronaldo')",1,1
+3542,"('Paul', 'Jones')",1,1
+3543,United,0,0
+3544,Jones,1,1
+3545,"('Wayne', 'Rooney')",1,1
+3546,Exeter,0,0
+3547,"('Sean', 'Devine')",1,1
+3548,"('Andrew', 'Taylor')",1,1
+3549,"('Tim', 'Howard')",1,1
+3550,United,0,0
+3551,Sir,0,0
+3552,Ryan,1,0
+3553,Ronaldo,1,0
+3554,Rooney,1,0
+3555,"('Alex', 'Ferguson')",1,1
+3556,"('Paul', 'Scholes')",1,1
+3557,Exeter,0,0
+3558,Devine,1,0
+3559,United,0,0
+3560,"('Steve', 'Flack')",1,1
+3561,Scholes,1,1
+3562,Ronaldo,1,0
+3563,Portuguese,0,0
+3564,Jones,1,1
+3565,United,0,0
+3566,Ronaldo,1,1
+3567,Jones,1,1
+3568,Scholes,1,0
+3569,Rooney,1,0
+3570,Rooney,1,1
+3571,Ronaldo,1,1
+3572,Giggs,1,1
+3573,Welshman,0,1
+3574,Exeter,0,0
+3575,Devine,1,1
+3576,Howard,1,1
+3577,"('Alex', 'Jeannin')",1,1
+3578,Grecians,0,0
+3579,Howard,1,1
+3580,United,0,0
+3581,Rooney,1,1
+3582,St,0,0
+3583,James,0,0
+3584,Park,0,0
+3585,Jones,1,1
+3586,"('St', 'James')",0,0
+3587,"('James', 'Park')",0,1
+3588,"('St', 'James', 'Park')",0,0
+3589,Moments,0,0
+3590,Devine,1,1
+3591,Jeannin,1,1
+3592,Howard,1,1
+3593,Rooney,1,1
+3594,Taylor,1,1
+3595,Howard,1,0
+3596,Devine,1,1
+3597,Rooney,1,0
+3598,Jones,1,0
+3599,Middlesbrough,0,0
+3600,Radcliffe,1,1
+3601,New,0,0
+3602,York,0,0
+3603,Marathon,0,0
+3604,"('Paula', 'Radcliffe')",1,1
+3605,"('New', 'York')",0,0
+3606,"('York', 'Marathon')",0,0
+3607,"('New', 'York', 'Marathon')",0,0
+3608,Briton,0,0
+3609,Olympic,0,0
+3610,Kenyan,0,0
+3611,"('Susan', 'Chepkemei')",1,1
+3612,Radcliffe,1,0
+3613,Radcliffe,1,1
+3614,Olympic,0,0
+3615,Chepkemei,1,0
+3616,Radcliffe,1,0
+3617,Kenyan,0,0
+3618,Radcliffe,1,0
+3619,Briton,0,0
+3620,Central,0,0
+3621,Park,0,0
+3622,"('Central', 'Park')",0,0
+3623,Radcliffe,1,0
+3624,Chepkemei,1,0
+3625,Athens,0,0
+3626,Greek,0,0
+3627,"('Kostas', 'Kenteris')",1,1
+3628,"('Katerina', 'Thanou')",1,1
+3629,Greek,0,0
+3630,Athletics,0,0
+3631,Federation,0,0
+3632,Kenteris,1,1
+3633,Thanou,1,0
+3634,"('Greek', 'Athletics')",0,0
+3635,"('Athletics', 'Federation')",0,0
+3636,"('Vassilli', 'Sevastis')",1,1
+3637,"('Greek', 'Athletics', 'Federation')",0,0
+3638,Athletics,0,0
+3639,Greek,0,0
+3640,Greek,0,0
+3641,Speaking,0,0
+3642,Greek,0,0
+3643,Parliament,0,0
+3644,Tuesday,0,0
+3645,Sevastis,1,1
+3646,International,0,0
+3647,Olympic,0,0
+3648,Committee,0,0
+3649,IAAF,0,0
+3650,Greek,0,0
+3651,Association,0,0
+3652,"('Greek', 'Parliament')",0,0
+3653,"('International', 'Olympic')",0,0
+3654,"('Olympic', 'Committee')",0,0
+3655,"('Greek', 'Association')",0,1
+3656,"('International', 'Olympic', 'Committee')",0,0
+3657,Greek,0,0
+3658,IAAF,0,0
+3659,Kenteris,1,1
+3660,Thanou,1,0
+3661,Sevastis,1,1
+3662,Court,0,0
+3663,Arbitration,0,0
+3664,Sport,0,0
+3665,Lewis-Francis,1,1
+3666,Christie,1,1
+3667,British,0,0
+3668,"('Mark', 'Lewis-Francis')",1,1
+3669,"('Linford', 'Christie')",1,1
+3670,Sheffield,0,0
+3671,Birmingham,0,0
+3672,February,0,0
+3673,"('Maurice', 'Greene')",1,1
+3674,"('Kim', 'Collins')",1,1
+3675,Training,0,0
+3676,Wales,0,0
+3677,Lewis-Francis,1,0
+3678,"('Linford', 'Christie')",1,1
+3679,Athens,0,0
+3680,Games,0,0
+3681,"('Athens', 'Games')",0,0
+3682,Last,0,0
+3683,Despite,0,0
+3684,Britain,0,0
+3685,Lewis-Francis,1,0
+3686,Olympics,0,0
+3687,Olympics,0,0
+3688,Ferguson,1,1
+3689,Man,0,0
+3690,Utd,0,0
+3691,Manchester,0,0
+3692,United,0,0
+3693,Aston,0,0
+3694,Villa,0,0
+3695,"('Man', 'Utd')",0,1
+3696,"('Manchester', 'United')",0,0
+3697,"('Alex', 'Ferguson')",1,1
+3698,"('Aston', 'Villa')",0,0
+3699,Old,0,0
+3700,Trafford,0,0
+3701,"('Old', 'Trafford')",0,0
+3702,Arsenal,0,0
+3703,Chelsea,0,0
+3704,Villa,0,0
+3705,Ferguson,1,1
+3706,"('Ryan', 'Giggs')",1,1
+3707,"('Roy', 'Keane')",1,1
+3708,"('John', ""O'Shea"")",1,1
+3709,Roy,1,0
+3710,Giggs,1,1
+3711,Newcastle,0,0
+3712,Babayaro,1,0
+3713,Newcastle,0,0
+3714,Chelsea,0,0
+3715,"('Graeme', 'Souness')",1,1
+3716,"('Celestine', 'Babayaro')",1,0
+3717,Souness,1,1
+3718,Babayaro,1,1
+3719,Premiership,0,0
+3720,Chelsea,0,0
+3721,Anderlecht,0,0
+3722,Souness,0,1
+3723,Bates,1,0
+3724,Leeds,0,0
+3725,United,0,0
+3726,"('Ken', 'Bates')",1,1
+3727,"('Leeds', 'United')",0,0
+3728,Chelsea,0,0
+3729,GMT,0,0
+3730,Friday,0,0
+3731,Leeds,0,0
+3732,Premiership,0,0
+3733,Bates,1,1
+3734,Geneva-based,0,0
+3735,Forward,0,0
+3736,Sports,0,0
+3737,Fund,0,0
+3738,"('Forward', 'Sports')",0,0
+3739,"('Sports', 'Fund')",0,1
+3740,"('Forward', 'Sports', 'Fund')",0,0
+3741,Leeds,0,0
+3742,Elland,0,0
+3743,Road,0,0
+3744,Thorp,0,1
+3745,Arch,0,1
+3746,"('Elland', 'Road')",0,1
+3747,"('Thorp', 'Arch')",0,1
+3748,Bates,1,1
+3749,Outgoing,0,0
+3750,Leeds,0,0
+3751,Mr,0,0
+3752,Bates,1,0
+3753,"('Outgoing', 'Leeds')",0,0
+3754,"('Gerald', 'Krasner')",1,1
+3755,Mr,0,0
+3756,Bates,1,0
+3757,Leeds,0,0
+3758,United,0,0
+3759,"('Leeds', 'United')",0,1
+3760,Leeds,0,0
+3761,United,0,0
+3762,March,0,0
+3763,"('Leeds', 'United')",0,0
+3764,Leeds,0,0
+3765,United,0,0
+3766,"('Leeds', 'United')",0,0
+3767,Eighty,0,0
+3768,Mr,0,0
+3769,Bates,1,1
+3770,Krasner,1,1
+3771,"('Peter', 'Lorimer')",1,1
+3772,"('Peter', 'McCormick')",1,1
+3773,Leeds,0,0
+3774,Lorimer,0,1
+3775,Chelsea,0,0
+3776,Bates,1,0
+3777,"('Yvonne', 'Todd')",1,1
+3778,"('Mark', 'Taylor')",1,1
+3779,Krasner,1,1
+3780,BBC,0,0
+3781,Five,0,0
+3782,Live,0,0
+3783,"('BBC', 'Five')",0,0
+3784,"('Five', 'Live')",0,0
+3785,"('BBC', 'Five', 'Live')",0,0
+3786,Ken,0,0
+3787,Bates,1,1
+3788,Chelsea,0,0
+3789,March,0,0
+3790,Stamford,0,0
+3791,Bridge,0,0
+3792,"('Roman', 'Abramovich')",1,1
+3793,"('Stamford', 'Bridge')",0,0
+3794,May,0,0
+3795,Sheffield,0,0
+3796,Wednesday,0,0
+3797,"('Sheffield', 'Wednesday')",0,0
+3798,Leeds,0,0
+3799,"('Sebastien', 'Sainsbury')",1,1
+3800,Football,0,0
+3801,League,0,0
+3802,Bates,1,0
+3803,"('Football', 'League')",0,0
+3804,Kenteris,1,1
+3805,Greek,0,0
+3806,Olympics,0,0
+3807,"('Kostas', 'Kenteris')",1,1
+3808,Kenteris,1,1
+3809,"('Katerina', 'Thanou')",1,1
+3810,Part,0,0
+3811,Kenteris,1,1
+3812,Olympic,0,0
+3813,Kenteris,1,1
+3814,Greece,0,0
+3815,Alter,0,0
+3816,Television,0,0
+3817,"('Alter', 'Television')",0,1
+3818,Olympics-accredited,0,0
+3819,IOC,0,0
+3820,Greece,0,0
+3821,Athens,0,0
+3822,Athens,0,0
+3823,Games,0,0
+3824,Kenteris,1,1
+3825,Thanou,1,0
+3826,"('Athens', 'Games')",0,0
+3827,Kenteris,1,1
+3828,Sunday,0,0
+3829,Greek,0,0
+3830,Olympic,0,0
+3831,Committee,0,0
+3832,"('Greek', 'Olympic')",0,0
+3833,"('Olympic', 'Committee')",0,0
+3834,"('Christos', 'Tzekos')",1,1
+3835,"('Greek', 'Olympic', 'Committee')",0,0
+3836,Kenteris,1,1
+3837,Greek,0,0
+3838,Olympics,0,0
+3839,Sydney,0,0
+3840,Athens,0,0
+3841,Finnan,1,1
+3842,Irish,0,0
+3843,Republic,0,0
+3844,Ireland,0,0
+3845,World,0,0
+3846,Cup,0,0
+3847,"('Steve', 'Finnan')",1,1
+3848,"('World', 'Cup')",0,0
+3849,Saturday,0,0
+3850,Paris,0,0
+3851,Ireland,0,0
+3852,Faroe,0,0
+3853,Islands,0,0
+3854,Dublin,0,0
+3855,Wednesday,0,0
+3856,"('Faroe', 'Islands')",0,0
+3857,Finnan,1,0
+3858,French,0,0
+3859,Ireland,0,0
+3860,Liverpool,0,0
+3861,Switzerland,0,1
+3862,Ireland,0,0
+3863,France,0,0
+3864,Israel,0,0
+3865,Republic,0,0
+3866,Basel,0,0
+3867,Paris,0,0
+3868,Basel,0,0
+3869,Paris,0,0
+3870,Looking,0,0
+3871,Wednesday,0,0
+3872,Automatic,0,0
+3873,Manager,0,1
+3874,Finnan,1,0
+3875,Ireland,0,0
+3876,Stade,0,0
+3877,France,0,0
+3878,"('Brian', 'Kerr')",1,1
+3879,"('Stephen', 'Carr')",1,1
+3880,Finnan,1,1
+3881,French,0,0
+3882,Kerr,1,0
+3883,France,0,1
+3884,"('Stephen', 'Carr')",1,1
+3885,Tulu,1,0
+3886,Caledonian,0,0
+3887,Two-time,0,0
+3888,Olympic,0,0
+3889,BUPA,0,0
+3890,Great,0,0
+3891,Caledonian,0,0
+3892,Run,0,0
+3893,Edinburgh,0,0
+3894,May,0,0
+3895,"('Two-time', 'Olympic')",0,0
+3896,"('Derartu', 'Tulu')",1,1
+3897,"('BUPA', 'Great')",0,1
+3898,"('Great', 'Caledonian')",0,0
+3899,"('Caledonian', 'Run')",0,0
+3900,"('BUPA', 'Great', 'Caledonian')",0,0
+3901,"('Great', 'Caledonian', 'Run')",0,0
+3902,Ethiopian,0,0
+3903,Tulu,1,0
+3904,Boston,0,0
+3905,London,0,0
+3906,Tokyo,0,0
+3907,Marathons,0,0
+3908,"('Tokyo', 'Marathons')",0,0
+3909,"('Matthew', 'Turnbull')",1,1
+3910,Tulu,1,0
+3911,Olympic,0,0
+3912,Vickery,1,1
+3913,Six,0,0
+3914,Nations,0,0
+3915,England,0,0
+3916,RBS,0,0
+3917,Six,0,0
+3918,Nations,0,0
+3919,"('Six', 'Nations')",0,0
+3920,"('Nations', 'England')",0,0
+3921,"('Phil', 'Vickery')",1,1
+3922,"('RBS', 'Six')",0,0
+3923,"('Six', 'Nations')",0,0
+3924,"('Six', 'Nations', 'England')",0,0
+3925,"('RBS', 'Six', 'Nations')",0,0
+3926,Vickery,1,1
+3927,Gloucester,0,0
+3928,Bath,0,0
+3929,West,0,0
+3930,Saturday,0,0
+3931,Bath,0,0
+3932,"('Olly', 'Barkley')",1,1
+3933,Barkley,1,1
+3934,Sunday,0,0
+3935,England,0,0
+3936,Six,0,0
+3937,Nations,0,0
+3938,Ireland,0,0
+3939,"('Six', 'Nations')",0,0
+3940,Six,0,0
+3941,Nations,0,0
+3942,"('Andy', 'Robinson')",1,1
+3943,"('Six', 'Nations')",0,0
+3944,Robinson,1,1
+3945,World,0,0
+3946,Cup,0,0
+3947,"('World', 'Cup')",0,0
+3948,"('Jonny', 'Wilkinson')",1,1
+3949,"('Mike', 'Tindall')",1,1
+3950,"('Richard', 'Hill')",1,0
+3951,"('Trevor', 'Woodman')",1,1
+3952,Vickery,1,1
+3953,England,0,0
+3954,Gloucester,0,0
+3955,Leicester,0,0
+3956,Ireland,0,0
+3957,"('Julian', 'White')",1,1
+3958,Bath,0,0
+3959,England,0,0
+3960,Ireland,0,0
+3961,"('Matt', 'Stevens')",1,1
+3962,England,0,0
+3963,France,0,0
+3964,"('Duncan', 'Bell')",1,0
+3965,Barkley,1,1
+3966,Bath,0,0
+3967,Ireland,0,0
+3968,"('John', 'Connolly')",1,1
+3969,Barkley,1,1
+3970,England,0,0
+3971,France,0,0
+3972,England,0,0
+3973,Robinson,1,1
+3974,Tait,1,1
+3975,Newcastle,0,0
+3976,Leicester,0,0
+3977,Saturday,0,0
+3978,Bath,0,0
+3979,"('Mathew', 'Tait')",1,1
+3980,"('Henry', 'Paul')",1,1
+3981,In-form,0,0
+3982,Leicester,0,0
+3983,Newcastle,0,0
+3984,"('In-form', 'Leicester')",0,0
+3985,"('Ollie', 'Smith')",1,1
+3986,Fly-half,0,0
+3987,Saturday,0,0
+3988,"('Andy', 'Goode')",1,1
+3989,England,0,0
+3990,Six,0,0
+3991,Nations,0,0
+3992,Ireland,0,0
+3993,Dublin,0,0
+3994,February,0,0
+3995,GMT,0,0
+3996,"('Six', 'Nations')",0,0
+3997,Chelsea,0,0
+3998,Arsenal,0,0
+3999,Arsenal,0,0
+4000,Chelsea,0,0
+4001,Highbury,0,0
+4002,Arsenal,0,0
+4003,"('Thierry', 'Henry')",1,1
+4004,"('John', 'Terry')",1,1
+4005,Henry,1,1
+4006,Arsenal,0,0
+4007,"('Eidur', 'Gudjohnsen')",1,1
+4008,"('William', 'Gallas')",1,1
+4009,Henry,1,1
+4010,Arsenal,0,0
+4011,Henry,1,1
+4012,Arsenal,0,0
+4013,French,0,0
+4014,Chelsea,0,0
+4015,Spaniard,0,0
+4016,"('Cesc', 'Faregas')",1,1
+4017,"('Jose', 'Antonio', 'Reyes')",1,1
+4018,Henry,1,1
+4019,"('Petr', 'Cech')",1,1
+4020,Henry,1,1
+4021,Arsenal,0,0
+4022,Chelsea,0,0
+4023,Gunners,0,0
+4024,"('Manuel', 'Almunia')",1,1
+4025,"('Jens', 'Lehmann')",1,1
+4026,"('Frank', 'Lampard')",1,1
+4027,Terry,1,1
+4028,Arsenal,0,0
+4029,Almost,0,0
+4030,Henry,1,1
+4031,Chelsea,0,0
+4032,Gudjohnsen,1,0
+4033,Gudjohnsen,1,1
+4034,Almunia,0,1
+4035,"('Robert', 'Pires')",1,1
+4036,Henry,1,1
+4037,Cech,0,0
+4038,Arsenal,0,0
+4039,Chelsea,0,0
+4040,Chelsea,0,0
+4041,Gudjohnsen,1,0
+4042,"('Didier', 'Drogba')",1,1
+4043,Lampard,1,1
+4044,Gallas,1,1
+4045,Gudjohnsen,1,0
+4046,Chelsea,0,0
+4047,Lampard,1,1
+4048,One,0,0
+4049,Robben,1,0
+4050,Arsenal,0,0
+4051,Almunia,1,1
+4052,Arsenal,0,0
+4053,Henry,1,1
+4054,Subtitute,0,1
+4055,Robin,0,0
+4056,Persie,0,0
+4057,Highbury,0,0
+4058,Chelsea,0,0
+4059,Premiership,0,0
+4060,Arsenal,0,0
+4061,"('Matthieu', 'Flamini')",1,1
+4062,GB,0,0
+4063,Four,0,0
+4064,British,0,0
+4065,World,0,0
+4066,Cross,0,0
+4067,Country,0,0
+4068,Championships,0,0
+4069,March,0,0
+4070,"('Four', 'British')",0,0
+4071,"('World', 'Cross')",0,0
+4072,"('Cross', 'Country')",0,0
+4073,"('Country', 'Championships')",0,0
+4074,"('World', 'Cross', 'Country')",0,0
+4075,"('Cross', 'Country', 'Championships')",0,0
+4076,Team,0,0
+4077,GB,0,0
+4078,France,0,0
+4079,"('Hayley', 'Yelling')",1,1
+4080,"('Jo', 'Pavey')",1,0
+4081,"('Karl', 'Keska')",1,1
+4082,"('Adam', 'Hickey')",1,1
+4083,"('Team', 'GB')",0,0
+4084,Yelling,1,1
+4085,European,0,0
+4086,Pavey,1,1
+4087,Keska,1,1
+4088,Hickey,1,1
+4089,Winning,0,0
+4090,European,0,0
+4091,Yelling,1,0
+4092,Worlds,0,1
+4093,Olympic,0,0
+4094,Pavey,1,0
+4095,March,0,0
+4096,Keska,1,0
+4097,March,0,0
+4098,Hickey,1,1
+4099,Wollaton,0,1
+4100,Park,0,0
+4101,Nottingham,0,0
+4102,March,0,0
+4103,"('Wollaton', 'Park')",0,1
+4104,Butler,1,1
+4105,Spain,0,0
+4106,Britain,0,0
+4107,Sunday,0,0
+4108,Cross,0,0
+4109,Internacional,0,0
+4110,Venta,0,0
+4111,Banos,0,0
+4112,Spain,0,0
+4113,"('Spain', 'Britain')",0,0
+4114,"('Kathy', 'Butler')",1,1
+4115,"('Cross', 'Internacional')",0,0
+4116,Scot,0,0
+4117,GB,0,0
+4118,World,0,0
+4119,Cross,0,0
+4120,Country,0,1
+4121,"('World', 'Cross')",0,0
+4122,"('Cross', 'Country')",0,0
+4123,"('Ines', 'Monteiro')",1,0
+4124,"('World', 'Cross', 'Country')",0,0
+4125,Portuguese,0,0
+4126,Meanwhile,0,0
+4127,Briton,0,0
+4128,"('Karl', 'Keska')",1,1
+4129,Ethiopia,0,0
+4130,"('Kenenisa', 'Bekele')",1,1
+4131,Butler,0,1
+4132,Elsewhere,0,0
+4133,Ethiopia,0,0
+4134,Brussels,0,0
+4135,IAAF,0,0
+4136,Sunday,0,0
+4137,"('Abebe', 'Dinkessa')",1,1
+4138,"('Brussels', 'IAAF')",0,0
+4139,Ethiopia,0,0
+4140,"('Gelete', 'Burka')",1,1
+4141,IAAF,0,0
+4142,Greek,0,0
+4143,International,0,0
+4144,Association,0,0
+4145,Athletics,0,0
+4146,Federations,0,0
+4147,IAAF,0,0
+4148,"('Kostas', 'Kenteris')",1,1
+4149,"('Katerina', 'Thanou')",1,1
+4150,"('International', 'Association')",0,0
+4151,"('Athletics', 'Federations')",0,0
+4152,Greek,0,0
+4153,Tel,0,0
+4154,Aviv,0,0
+4155,Chicago,0,0
+4156,Athens,0,0
+4157,"('Tel', 'Aviv')",0,0
+4158,December,0,0
+4159,IAAF,0,0
+4160,Greek,0,0
+4161,Federation,0,0
+4162,"('Greek', 'Federation')",0,0
+4163,"('Christos', 'Tzekos')",1,1
+4164,IAAF,0,0
+4165,Kenteris,1,1
+4166,Thanou,1,0
+4167,Athens,0,0
+4168,Olympics,0,0
+4169,"('Athens', 'Olympics')",0,0
+4170,Tzekos,1,1
+4171,IAAF,0,0
+4172,Qatar,0,0
+4173,Crete,0,0
+4174,Kenteris,1,1
+4175,Thanou,1,0
+4176,Tel,0,0
+4177,Aviv,0,0
+4178,Chicago,0,0
+4179,Greece,0,0
+4180,"('Tel', 'Aviv')",0,0
+4181,Olympics,0,0
+4182,Athens,0,0
+4183,Games,0,0
+4184,Time,0,0
+4185,World,0,0
+4186,Cup,0,0
+4187,Brazil,0,0
+4188,"('World', 'Cup')",0,0
+4189,Often,0,0
+4190,One,0,0
+4191,"('Walter', 'Smith')",1,1
+4192,Scotland,0,0
+4193,"('Berti', 'Vogts')",1,1
+4194,Walter,1,0
+4195,World,0,0
+4196,Cup,0,0
+4197,"('World', 'Cup')",0,0
+4198,Wednesday,0,0
+4199,Wales,0,0
+4200,Hungary,0,0
+4201,"('John', 'Toshack')",1,1
+4202,England,0,0
+4203,Holland,0,0
+4204,Middlesbrough,0,0
+4205,Crystal,0,0
+4206,Palace,0,0
+4207,"('Stewart', 'Downing')",1,1
+4208,"('Crystal', 'Palace')",0,0
+4209,"('Andy', 'Johnson')",1,1
+4210,Spain,0,0
+4211,"('Sven-Goran', 'Eriksson')",1,1
+4212,"('Wes', 'Brown')",1,1
+4213,"('Jamie', 'Carragher')",1,1
+4214,Disappointed,0,0
+4215,Scott,1,1
+4216,European,0,0
+4217,Indoor,0,0
+4218,Championships,0,0
+4219,"('Allan', 'Scott')",1,1
+4220,"('European', 'Indoor')",0,0
+4221,"('Indoor', 'Championships')",0,0
+4222,"('European', 'Indoor', 'Championships')",0,0
+4223,Scot,0,0
+4224,Memorial,0,0
+4225,Madrid,0,1
+4226,East,0,0
+4227,Kilbride,0,1
+4228,"('East', 'Kilbride')",0,1
+4229,Spanish,0,0
+4230,"('Felipe', 'Vivancos')",1,1
+4231,Sweden,0,0
+4232,Haiti,0,0
+4233,"('Robert', 'Kronberg')",1,0
+4234,"('Dudley', 'Dorival')",1,1
+4235,Scott,1,1
+4236,IAAF,0,0
+4237,Indoor,0,0
+4238,Grand,0,0
+4239,Prix,0,0
+4240,"('IAAF', 'Indoor')",0,0
+4241,"('Indoor', 'Grand')",0,0
+4242,"('Grand', 'Prix')",0,0
+4243,"('IAAF', 'Indoor', 'Grand')",0,0
+4244,"('Indoor', 'Grand', 'Prix')",0,0
+4245,Vivancos,1,1
+4246,Spanish,0,0
+4247,Kronberg,1,0
+4248,Dorival,1,1
