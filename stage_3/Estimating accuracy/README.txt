@@ -5,7 +5,7 @@ Members:  Akshaya Kalyanaraman (kalyanarama3@wisc.edu)
 Stage 3: Estimating Accuracy
 1. Task2_cm_matching_al_ds.csv - Prediction list
 2. Task2_apply_rules_ds.csv - Candidate Set: It has a size of 164 entries
-3. labeled.csv - The labeled file that contains the candidate set with the labels
+3. labeled.csv - The labeled file that contains the candidate set with the labels and has 164 entries
 4. tableA.csv - Table A: IMDb table with 3296 entries
 5. tableB.csv - Table B: THE MOVIE DB table with 7100 entries
 6. estimating_precision_recall.ipynb - The Jupyter notebook code for estimating precision and recall
