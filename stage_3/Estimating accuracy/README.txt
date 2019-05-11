@@ -11,5 +11,3 @@ Stage 3: Estimating Accuracy
 6. The precision and recall obtained after using L and the method 'estimate_PR' (of the Jupyter notebook):
    Recall = [1.0 - 1.0]
    Precision = [1.0 - 1.0]
-
-
