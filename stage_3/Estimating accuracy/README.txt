@@ -8,6 +8,7 @@ Stage 3: Estimating Accuracy
 3. labeled.csv - The labeled file that contains the candidate set with the labels
 4. tableA.csv - Table A: IMDb table with 3296 entries
 5. tableB.csv - Table B: THE MOVIE DB table with 7100 entries
-6. The precision and recall obtained after using L and the method 'estimate_PR' (of the Jupyter notebook):
+6. estimating_precision_recall.ipynb - The Jupyter notebook code for estimating precision and recall
+7. The precision and recall obtained after using L and the method 'estimate_PR' (of the Jupyter notebook):
    Recall = [1.0 - 1.0]
    Precision = [1.0 - 1.0]
